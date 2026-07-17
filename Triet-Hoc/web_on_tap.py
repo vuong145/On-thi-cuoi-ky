@@ -57,7 +57,6 @@ else:
         st.session_state.chi_so_cau = 0
         st.session_state.da_tra_loi = False
         st.session_state.che_do_cu = che_do
-        st.session_state.so_dap_an_dung = 0
         st.session_state.so_dap_an_dung = 0 # Đếm số câu đúng
 
     # Kiểm tra nếu đã làm hết các câu trong lượt hiện tại
@@ -117,7 +116,7 @@ else:
             
             if dap_an_user == cau_hien_tai["dap_an_dung"]:
                 st.success("✓ Chính xác!")
-                st.session_state.so_dap_an_dung += 1  # Tăng điểm
+                st.session_state.so_dap_an_dung += 1  # Chỉ tăng điểm khi đúng
                 if "Luyện lại câu sai" in che_do and cau_hien_tai in cac_cau_sai_da_luu:
                     cac_cau_sai_da_luu.remove(cau_hien_tai)
                     local_storage.setItem("cac_cau_sai", json.dumps(cac_cau_sai_da_luu))
