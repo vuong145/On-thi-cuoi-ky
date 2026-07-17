@@ -34,6 +34,8 @@ if "che_do_cu" not in st.session_state or st.session_state.che_do_cu != che_do:
     st.session_state.chi_so_cau = 0
     st.session_state.da_tra_loi = False
     st.session_state.so_dap_an_dung = 0
+    if "da_cong_diem" in st.session_state:
+        del st.session_state.da_cong_diem
     
     if "50 câu" in che_do:
         st.session_state.danh_sach_cau = random.sample(ngan_hang, min(50, len(ngan_hang)))
@@ -101,8 +103,9 @@ else:
             
             if dap_an_user == cau_hien_tai["dap_an_dung"]:
                 st.success("✓ Chính xác!")
-                if "50 câu" in che_do:
+                if "50 câu" in che_do and "da_cong_diem" not in st.session_state:
                     st.session_state.so_dap_an_dung += 1
+                    st.session_state.da_cong_diem = True
                 if "Luyện lại câu sai" in che_do and cau_hien_tai in cac_cau_sai_da_luu:
                     cac_cau_sai_da_luu.remove(cau_hien_tai)
                     local_storage.setItem("cac_cau_sai", json.dumps(cac_cau_sai_da_luu))
@@ -120,9 +123,11 @@ else:
             st.write("---")
             col1, col2 = st.columns(2)
             with col1:
-                if st.button("➡️ Câu tiếp theo"):
+                 if st.button("➡️ Câu tiếp theo"):
                     st.session_state.chi_so_cau += 1
                     st.session_state.da_tra_loi = False
+                    if "da_cong_diem" in st.session_state:
+                        del st.session_state.da_cong_diem
                     st.rerun()
             with col2:
                 if st.button("🔄 Đổi lượt / Xáo bài ngay"):
