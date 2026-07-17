@@ -2374,5 +2374,2611 @@
     },
     "dap_an_dung": "C",
     "giai_thich": "Cái chung có thể biến thành cái đơn nhất (khi sự vật thoái hóa, tiêu vong) và ngược lại, cái đơn nhất có thể biến thành cái chung (khi sự vật tiến bộ, phổ biến rộng rãi)."
+  },
+   {
+    "cau_hoi": "Theo phép biện chứng duy vật, cái riêng tồn tại như thế nào?",
+    "phuong_an": {
+      "A": "Tồn tại hoàn toàn độc lập, bên ngoài cái chung",
+      "B": "Là một thực thể cô lập tuyệt đối",
+      "C": "Trong mối liên hệ với cái chung, trong cái chung và thông qua cái chung mà biểu hiện sự tồn tại của mình",
+      "D": "Bao hàm mọi yếu tố của cái đơn nhất nhưng không chứa cái chung"
+    },
+    "dap_an_dung": "C",
+    "giai_thich": "Cái riêng không thể tồn tại cô lập, tách rời hoàn toàn với các sự vật khác. Nó chỉ tồn tại trong mối liên hệ dẫn tới cái chung, và ngược lại cái chung cũng chỉ tồn tại trong cái riêng, thông qua cái riêng."
+  },
+  {
+    "cau_hoi": "Theo nguyên lý về sự phát triển, sự phát triển có mấy tính chất?",
+    "phuong_an": {
+      "A": "2 tính chất",
+      "B": "3 tính chất",
+      "C": "4 tính chất",
+      "D": "5 tính chất"
+    },
+    "dap_an_dung": "C",
+    "giai_thich": "Sự phát triển có 4 tính chất cơ bản: Tính khách quan, Tính phổ biến, Tính đa dạng - phong phú, và Tính kế thừa."
+  },
+  {
+    "cau_hoi": "Theo nguyên lý về mối liên hệ phổ biến, mối liên hệ có mấy tính chất?",
+    "phuong_an": {
+      "A": "2 tính chất",
+      "B": "3 tính chất",
+      "C": "4 tính chất",
+      "D": "5 tính chất"
+    },
+    "dap_an_dung": "B",
+    "giai_thich": "Mối liên hệ phổ biến có 3 tính chất cơ bản: Tính khách quan, Tính phổ biến và Tính đa dạng - phong phú."
+  },
+  {
+    "cau_hoi": "Căn cứ vào thời gian và dựa trên cơ chế của sự thay đổi đó, có thể phân chia bước nhảy thành:",
+    "phuong_an": {
+      "A": "Bước nhảy toàn bộ và bước nhảy cục bộ",
+      "B": "Bước nhảy tức thời và bước nhảy dần dần",
+      "C": "Bước nhảy tự phát và bước nhảy tự giác",
+      "D": "Bước nhảy lớn và bước nhảy nhỏ"
+    },
+    "dap_an_dung": "B",
+    "giai_thich": "Căn cứ vào nhịp điệu/thời gian thực hiện bước nhảy, người ta chia làm bước nhảy tức thời (xảy ra rất nhanh, đột ngột) và bước nhảy dần dần (xảy ra từ từ, qua nhiều giai đoạn)."
+  },
+  {
+    "cau_hoi": "Trong hoạt động nhận thức và thực tiễn, nếu không chú trọng tích lũy về lượng để biến đổi về chất mà muốn làm ngay sẽ mắc phải sai lầm...",
+    "phuong_an": {
+      "A": "Tư tưởng nôn nóng, đốt cháy giai đoạn (tả khuynh)",
+      "B": "Bảo thủ, trì trệ (hữu khuynh)",
+      "C": "Chiết trung, ngụy biện",
+      "D": "Giáo điều, rập khuôn"
+    },
+    "dap_an_dung": "A",
+    "giai_thich": "Chưa tích lũy đủ lượng mà đã muốn thực hiện bước nhảy vọt về chất chính là biểu hiện của bệnh nóng vội, chủ quan, 'đốt cháy giai đoạn'."
+  },
+  {
+    "cau_hoi": "Theo phép biện chứng duy vật, trong hoạt động nhận thức và thực tiễn, cần tránh sai lầm nào sau đây?",
+    "phuong_an": {
+      "A": "Chỉ thấy sự thay đổi về chất, phủ nhận sự thay đổi về lượng",
+      "B": "Vừa thấy sự thay đổi về lượng, vừa thấy sự thay đổi về chất",
+      "C": "Chủ động tạo ra điều kiện để chuyển hóa lượng - chất",
+      "D": "Tìm cách bảo vệ chất cũ khi chưa đủ điều kiện biến đổi"
+    },
+    "dap_an_dung": "A",
+    "giai_thich": "Tuyệt đối hóa sự nhảy vọt về chất mà bỏ qua quá trình tích lũy tiệm tiến về lượng là sai lầm làm đứt gãy tính liên tục của sự phát triển."
+  },
+  {
+    "cau_hoi": "Điền vào chỗ trống: Mâu thuẫn là sự ...... của các mặt đối lập.",
+    "phuong_an": {
+      "A": "Thống nhất và đấu tranh",
+      "B": "Đẩy lùi và bài trừ",
+      "C": "Chuyển hóa và thay thế",
+      "D": "Giao thoa và kết hợp"
+    },
+    "dap_an_dung": "A",
+    "giai_thich": "Mâu thuẫn biện chứng không chỉ là sự xung đột, mà nó là thể thống nhất hữu cơ, trong đó các mặt đối lập vừa nương tựa vào nhau (thống nhất), vừa bài trừ lẫn nhau (đấu tranh)."
+  },
+  {
+    "cau_hoi": "Theo phép biện chứng duy vật, quá trình đấu tranh của các mặt đối lập dẫn đến...",
+    "phuong_an": {
+      "A": "Sự triệt tiêu hoàn toàn mâu thuẫn",
+      "B": "Sự cân bằng tuyệt đối và đứng im của sự vật",
+      "C": "Sự chuyển hóa và sự phủ định lẫn nhau của các mặt đối lập",
+      "D": "Sự bảo tồn nguyên vẹn các mặt đối lập cũ"
+    },
+    "dap_an_dung": "C",
+    "giai_thich": "Đấu tranh giữa các mặt đối lập tất yếu sẽ đạt tới đỉnh điểm, khi đó mâu thuẫn được giải quyết bằng cách các mặt đối lập chuyển hóa lẫn nhau, làm chất cũ mất đi, chất mới ra đời."
+  },
+  {
+    "cau_hoi": "Chọn phương án đúng nhất: Theo quy luật thống nhất và đấu tranh của các mặt đối lập, cần phải:",
+    "phuong_an": {
+      "A": "Né tránh, che đậy mâu thuẫn để giữ sự ổn định",
+      "B": "Điều hòa mâu thuẫn giữa các mặt đối lập",
+      "C": "Chờ đợi mâu thuẫn tự giải quyết",
+      "D": "Nhận thức được mâu thuẫn để giải quyết kịp thời bằng con đường đấu tranh"
+    },
+    "dap_an_dung": "D",
+    "giai_thich": "Mâu thuẫn là động lực của sự phát triển, do đó phương pháp luận đúng đắn là phải chủ động phát hiện mâu thuẫn và giải quyết nó bằng đấu tranh, không được điều hòa hay lảng tránh."
+  },
+  {
+    "cau_hoi": "Chọn phương án đúng nhất: Trong hoạt động nhận thức và thực tiễn, đối với mâu thuẫn cần phải:",
+    "phuong_an": {
+      "A": "Phân loại và tìm cách giải quyết mâu thuẫn thích hợp cho từng trường hợp",
+      "B": "Sử dụng một phương pháp duy nhất cho mọi mâu thuẫn",
+      "C": "Tránh để mâu thuẫn phát triển đến giai đoạn gay gắt",
+      "D": "Xóa bỏ mâu thuẫn ngay khi vừa xuất hiện"
+    },
+    "dap_an_dung": "A",
+    "giai_thich": "Có rất nhiều loại mâu thuẫn (chủ yếu, thứ yếu, bên trong, bên ngoài, đối kháng...). Yêu cầu của quan điểm lịch sử - cụ thể là phải phân loại rõ từng mâu thuẫn để có phương pháp giải quyết đúng đắn."
+  },
+  {
+    "cau_hoi": "Theo phép biện chứng duy vật, cái ...... là cái do những nguyên nhân cơ bản bên trong của kết cấu sự vật, hiện tượng quy định, trong những điều kiện nhất định, phải xảy ra như thế chứ không thể khác.",
+    "phuong_an": {
+      "A": "Ngẫu nhiên",
+      "B": "Tất nhiên",
+      "C": "Khả năng",
+      "D": "Bản chất"
+    },
+    "dap_an_dung": "B",
+    "giai_thich": "Tất nhiên (tất yếu) là cái bắt buộc phải xảy ra do bản chất và những mối liên hệ bên trong quy định."
+  },
+  {
+    "cau_hoi": "Theo phép biện chứng duy vật, cái ngẫu nhiên là cái xảy ra:",
+    "phuong_an": {
+      "A": "Do nguyên nhân bên trong quy định, bắt buộc phải diễn ra",
+      "B": "Không cần thiết, có thể xảy ra hoặc không, có thể xảy ra thế này hoặc xảy ra thế khác do nguyên nhân bên ngoài",
+      "C": "Phải xảy ra như thế chứ không thể khác",
+      "D": "Tuân theo quy luật chặt chẽ của logic hình thức"
+    },
+    "dap_an_dung": "B",
+    "giai_thich": "Ngẫu nhiên là những hiện tượng xảy ra do các hoàn cảnh, điều kiện bên ngoài, do sự giao thoa tình cờ nên nó không mang tính bắt buộc."
+  },
+  {
+    "cau_hoi": "Chọn phương án đúng nhất: Theo phép biện chứng duy vật, cái tất nhiên và cái ngẫu nhiên có mối quan hệ với nhau như thế nào?",
+    "phuong_an": {
+      "A": "Tồn tại hoàn toàn độc lập, tách rời nhau",
+      "B": "Chỉ có cái tất nhiên mới tồn tại khách quan",
+      "C": "Thống nhất với nhau, cái tất nhiên và ngẫu nhiên đều tồn tại khách quan và luôn chuyển hóa cho nhau",
+      "D": "Ngẫu nhiên là cái không có nguyên nhân"
+    },
+    "dap_an_dung": "C",
+    "giai_thich": "Cái tất nhiên vạch đường đi cho mình xuyên qua vô số cái ngẫu nhiên. Ngược lại, cái ngẫu nhiên là hình thức biểu hiện của cái tất nhiên. Chúng luôn gắn bó và chuyển hóa cho nhau trong những điều kiện xác định."
+  },
+  {
+    "cau_hoi": "Theo phép biện chứng duy vật, trong hoạt động nhận thức và thực tiễn, con người cần phải:",
+    "phuong_an": {
+      "A": "Dựa vào cái ngẫu nhiên để vạch ra chiến lược dài hạn",
+      "B": "Phủ nhận hoàn toàn vai trò của cái ngẫu nhiên",
+      "C": "Tuyệt đối hóa vai trò của cái tất nhiên, bỏ qua rủi ro",
+      "D": "Dựa vào cái tất nhiên, nhưng không bỏ qua (phải dự phòng) cái ngẫu nhiên"
+    },
+    "dap_an_dung": "D",
+    "giai_thich": "Vì cái tất nhiên mang tính quy luật nên mọi hoạt động phải dựa vào nó. Nhưng vì cái ngẫu nhiên luôn xuất hiện bất ngờ, nên thực tiễn cũng phải có phương án dự phòng các trường hợp ngẫu nhiên."
+  },
+  {
+    "cau_hoi": "Ph.Ăngghen đã cho rằng: Đối với những ai phủ nhận ...... thì mọi quy luật của tự nhiên đều là giả thuyết.",
+    "phuong_an": {
+      "A": "Tính khách quan",
+      "B": "Tính nhân quả",
+      "C": "Khả tri luận",
+      "D": "Tính biện chứng"
+    },
+    "dap_an_dung": "D",
+    "giai_thich": "Tính biện chứng (sự liên hệ, vận động, phát triển tất yếu) là cơ sở để các quy luật tự nhiên tồn tại một cách khách quan. Nếu phủ nhận nó, các quy luật khoa học sẽ chỉ còn là những suy đoán chủ quan."
+  },
+  {
+    "cau_hoi": "Một sinh viên quan niệm: 'Vì nhà nghèo, cha mẹ đã phải nỗ lực chu cấp cho đi học đại học nên mình phải cố gắng rèn luyện, học giỏi, ra trường tìm được việc làm với mức thu nhập cao'. Vận dụng cặp phạm trù nào của phép biện chứng duy vật để giải thích quan niệm trên?",
+    "phuong_an": {
+      "A": "Khả năng - Hiện thực",
+      "B": "Nguyên nhân - Kết quả",
+      "C": "Tất nhiên - Ngẫu nhiên",
+      "D": "Nội dung - Hình thức"
+    },
+    "dap_an_dung": "B",
+    "giai_thich": "Sự hy sinh của cha mẹ (Nguyên nhân) tạo ra động lực thúc đẩy sự nỗ lực học tập của sinh viên để đạt được thành công (Kết quả)."
+  },
+  {
+    "cau_hoi": "Chọn phương án SAI: Phủ định biện chứng là sự phủ định...",
+    "phuong_an": {
+      "A": "Mang tính khách quan",
+      "B": "Chấm dứt hoàn toàn quá trình phát triển (phủ định sạch trơn)",
+      "C": "Mang tính kế thừa",
+      "D": "Tạo tiền đề cho cái mới ra đời"
+    },
+    "dap_an_dung": "B",
+    "giai_thich": "Phủ định biện chứng không phải là 'sạch trơn', không xóa bỏ hoàn toàn quá khứ. Nó giữ lại những yếu tố tích cực của cái cũ để làm nấc thang cho sự phát triển mới. Việc chấm dứt hoàn toàn là 'phủ định siêu hình'."
+  },
+  {
+    "cau_hoi": "Mối liên hệ của các sự vật hiện tượng là gì? Xác định câu trả lời đúng nhất.",
+    "phuong_an": {
+      "A": "Là sự tác động lẫn nhau, chi phối, chuyển hoá lẫn nhau một cách khách quan, phổ biến, nhiều vẻ giữa các mặt, quá trình của sự vật, hiện tượng hoặc giữa các sự vật, hiện tượng",
+      "B": "Là sự phụ thuộc một chiều từ hiện tượng này sang hiện tượng khác",
+      "C": "Là sự lắp ghép cơ học bề ngoài giữa các bộ phận",
+      "D": "Là do ý thức của con người tưởng tượng và gán ghép vào sự vật"
+    },
+    "dap_an_dung": "A",
+    "giai_thich": "Mối liên hệ là sự quy định, ràng buộc, tác động qua lại lẫn nhau giữa các sự vật, hiện tượng trong thế giới một cách khách quan."
+  },
+  {
+    "cau_hoi": "Chọn câu trả lời đúng: Chất của sự vật là:",
+    "phuong_an": {
+      "A": "Được quyết định bởi các thuộc tính không cơ bản",
+      "B": "Chỉ thay đổi khi sự vật chưa thay đổi về lượng",
+      "C": "Đồng nhất hoàn toàn với thuộc tính của sự vật",
+      "D": "Sự thống nhất hữu cơ của các thuộc tính khách quan vốn có của sự vật"
+    },
+    "dap_an_dung": "D",
+    "giai_thich": "Chất là tổng hợp các thuộc tính khách quan, cơ bản cấu thành nên sự vật, nói lên sự vật đó là gì để phân biệt nó với sự vật khác."
+  },
+  {
+    "cau_hoi": "Xác định quan niệm SAI về phủ định biện chứng:",
+    "phuong_an": {
+      "A": "Phủ định biện chứng là sự tự phủ định của bản thân sự vật",
+      "B": "Phủ định biện chứng là sự chấm dứt hoàn toàn sự phát triển",
+      "C": "Phủ định biện chứng có tính kế thừa những hạt nhân hợp lý",
+      "D": "Phủ định biện chứng là tiền đề, điều kiện của sự phát triển"
+    },
+    "dap_an_dung": "B",
+    "giai_thich": "Tương tự như câu 123, phủ định biện chứng là tạo ra bước ngoặt để phát triển lên cao hơn chứ không phải là sự kết thúc, tiêu diệt sự vật."
+  },
+  {
+    "cau_hoi": "Ph.Ăngghen viết: '...... là điều kiện cơ bản đầu tiên của toàn bộ đời sống loài người, và như thế đến một mức mà trên một ý nghĩa nào đó, chúng ta phải nói: nó đã sáng tạo ra bản thân con người'.",
+    "phuong_an": {
+      "A": "Lao động",
+      "B": "Ngôn ngữ",
+      "C": "Tư duy trừu tượng",
+      "D": "Hoạt động chính trị"
+    },
+    "dap_an_dung": "A",
+    "giai_thich": "Ph.Ăngghen khẳng định vai trò tối cao của lao động sản xuất. Lao động không chỉ tạo ra của cải mà còn cải tạo lại chính bản thân thể chất và tư duy của con người, tách con người ra khỏi thế giới động vật."
+  },
+  {
+    "cau_hoi": "Trong 'Bút ký triết học', V.I.Lênin viết: 'Nhận thức là sự tiến gần mãi mãi và vô tận của ...... đến khách thể'.",
+    "phuong_an": {
+      "A": "Chủ thể (tư duy)",
+      "B": "Thực tiễn",
+      "C": "Chân lý",
+      "D": "Lý luận"
+    },
+    "dap_an_dung": "A",
+    "giai_thich": "Lênin khẳng định nhận thức không phải là một hành động chớp nhoáng mà là một quá trình vô tận, trong đó chủ thể nhận thức (tư duy con người) ngày càng đi sâu vào bản chất của khách thể (thế giới)."
+  },
+  {
+    "cau_hoi": "Triết học Mác-Lênin cho rằng, thực tiễn là toàn bộ ...... có mục đích, mang tính lịch sử - xã hội của con người nhằm cải tạo thế giới khách quan.",
+    "phuong_an": {
+      "A": "Hoạt động nhận thức và tư duy",
+      "B": "Hoạt động vật chất",
+      "C": "Hoạt động tinh thần",
+      "D": "Hoạt động sáng tạo nghệ thuật"
+    },
+    "dap_an_dung": "B",
+    "giai_thich": "Thực tiễn mang đặc trưng cơ bản nhất là 'hoạt động vật chất cảm tính' (như sản xuất, đấu tranh chính trị, thực nghiệm), đối lập với hoạt động tinh thần thuần túy."
+  },
+  {
+    "cau_hoi": "Ph.Ăngghen viết về vai trò động lực của thực tiễn đối với nhận thức như sau: 'Khi xã hội có nhu cầu về kỹ thuật thì nó thúc đẩy khoa học phát triển hơn mười ......'",
+    "phuong_an": {
+      "A": "Nhà bác học",
+      "B": "Trường phổ thông",
+      "C": "Thế hệ",
+      "D": "Trường đại học"
+    },
+    "dap_an_dung": "D",
+    "giai_thich": "Câu nói nổi tiếng này nhấn mạnh vai trò to lớn của nhu cầu thực tiễn. Thực tiễn (đời sống sản xuất, kỹ thuật) chính là động lực mạnh nhất kích thích sự ra đời và phát triển của khoa học lý luận."
+  },
+  {
+    "cau_hoi": "Theo quan niệm của triết học Mác - Lênin, thực tiễn là:",
+    "phuong_an": {
+      "A": "Toàn bộ hoạt động vật chất có mục đích, mang tính lịch sử - xã hội của con người nhằm cải tạo thế giới khách quan",
+      "B": "Sự trải nghiệm chủ quan của con người trong đời sống",
+      "C": "Hoạt động lý luận khoa học trong phòng thí nghiệm",
+      "D": "Quá trình con người thích nghi thụ động với môi trường tự nhiên"
+    },
+    "dap_an_dung": "A",
+    "giai_thich": "Đây là định nghĩa chuẩn xác nhất về thực tiễn trong Triết học Mác - Lênin, nhấn mạnh vào bản chất 'hoạt động vật chất' và mục đích 'cải tạo thế giới'."
+  },
+  {
+    "cau_hoi": "Theo quan niệm triết học Mác - Lênin, bản chất của nhận thức là:",
+    "phuong_an": {
+      "A": "Sự phản ánh thụ động, giản đơn thế giới khách quan vào đầu óc con người",
+      "B": "Sự phản ánh chủ động, tích cực, sáng tạo của chủ thể trước khách thể trên cơ sở thực tiễn",
+      "C": "Sự hồi tưởng lại những ý niệm có sẵn trong linh hồn",
+      "D": "Sự phức hợp các cảm giác chủ quan của con người"
+    },
+    "dap_an_dung": "B",
+    "giai_thich": "Khác với chủ nghĩa duy vật cũ coi nhận thức như cái gương soi thụ động, chủ nghĩa Mác - Lênin khẳng định nhận thức là quá trình phản ánh năng động, sáng tạo, luôn gắn liền với hoạt động thực tiễn."
+  },
+  {
+    "cau_hoi": "Hình thức nào là hình thức đầu tiên của giai đoạn trực quan sinh động (nhận thức cảm tính)?",
+    "phuong_an": {
+      "A": "Tri giác",
+      "B": "Biểu tượng",
+      "C": "Cảm giác",
+      "D": "Khái niệm"
+    },
+    "dap_an_dung": "C",
+    "giai_thich": "Giai đoạn nhận thức cảm tính đi từ thấp đến cao: Cảm giác -> Tri giác -> Biểu tượng. Cảm giác là nấc thang đầu tiên khi sự vật vừa tác động vào từng giác quan riêng lẻ."
+  },
+  {
+    "cau_hoi": "Hình thức nào của tư duy trừu tượng là hình thức liên kết các khái niệm lại với nhau?",
+    "phuong_an": {
+      "A": "Biểu tượng",
+      "B": "Suy lý",
+      "C": "Tri giác",
+      "D": "Phán đoán"
+    },
+    "dap_an_dung": "D",
+    "giai_thich": "Giai đoạn tư duy trừu tượng gồm: Khái niệm -> Phán đoán -> Suy lý. Phán đoán là hình thức liên kết các khái niệm để khẳng định hoặc phủ định một thuộc tính nào đó của sự vật."
+  },
+  {
+    "cau_hoi": "Tiêu chuẩn của chân lý theo triết học Mác - Lênin là gì?",
+    "phuong_an": {
+      "A": "Thực tiễn",
+      "B": "Sự rõ ràng và rành mạch của tư duy",
+      "C": "Tính logic, không có mâu thuẫn",
+      "D": "Được đa số mọi người công nhận"
+    },
+    "dap_an_dung": "A",
+    "giai_thich": "Triết học Mác - Lênin khẳng định chỉ có thực tiễn (kết quả của các hoạt động sản xuất, thực nghiệm khoa học, đấu tranh xã hội) mới là thước đo duy nhất để kiểm tra một tri thức có phải là chân lý hay không."
+  },
+  {
+    "cau_hoi": "Hình thức nào là hình thức đầu tiên của giai đoạn tư duy trừu tượng (nhận thức lý tính)?",
+    "phuong_an": {
+      "A": "Khái niệm",
+      "B": "Phán đoán",
+      "C": "Suy lý",
+      "D": "Biểu tượng"
+    },
+    "dap_an_dung": "A",
+    "giai_thich": "Khái niệm là hình thức cơ bản và đầu tiên của tư duy trừu tượng. Nó bao quát những thuộc tính chung, bản chất nhất của một nhóm sự vật."
+  },
+  {
+    "cau_hoi": "Hình thức nào của tư duy trừu tượng là hình thức liên kết các phán đoán?",
+    "phuong_an": {
+      "A": "Khái niệm",
+      "B": "Biểu tượng",
+      "C": "Tri giác",
+      "D": "Suy lý"
+    },
+    "dap_an_dung": "D",
+    "giai_thich": "Suy lý (hay suy luận) là hình thức cao nhất của tư duy trừu tượng, trong đó người ta liên kết hai hay nhiều phán đoán (tiền đề) để rút ra một phán đoán mới (kết luận)."
+  },
+  {
+    "cau_hoi": "Xác định quan niệm SAI về thực tiễn:",
+    "phuong_an": {
+      "A": "Thực tiễn là hoạt động vật chất mang tính lịch sử - xã hội",
+      "B": "Thực tiễn có mục đích cải tạo thế giới khách quan",
+      "C": "Thực tiễn là hoạt động vật chất và tinh thần của con người",
+      "D": "Sản xuất vật chất là hình thức cơ bản nhất của thực tiễn"
+    },
+    "dap_an_dung": "C",
+    "giai_thich": "Quan niệm C là sai vì theo Triết học Mác - Lênin, thực tiễn chỉ là những hoạt động mang tính 'vật chất, cảm tính' nhằm biến đổi thế giới, nó đối lập với hoạt động tinh thần lý luận thuần túy."
+  },
+  {
+    "cau_hoi": "Chọn câu trả lời đúng: Tri thức của con người ngày càng hoàn thiện là:",
+    "phuong_an": {
+      "A": "Do sự mặc khải của đấng tối cao",
+      "B": "Nhờ sự nỗ lực hoạt động thực tiễn của con người",
+      "C": "Nhờ khả năng suy tưởng bẩm sinh",
+      "D": "Sự sao chép y nguyên thế giới vật chất"
+    },
+    "dap_an_dung": "B",
+    "giai_thich": "Thực tiễn là cơ sở, động lực của nhận thức. Thông qua quá trình hoạt động thực tiễn (lao động, nghiên cứu), con người ngày càng khám phá sâu hơn bản chất của sự vật, làm cho tri thức ngày càng hoàn thiện."
+  },
+  {
+    "cau_hoi": "Chọn câu trả lời đúng nhất: Chân lý là:",
+    "phuong_an": {
+      "A": "Tri thức được nhiều người công nhận",
+      "B": "Những giáo lý được truyền lại từ xa xưa",
+      "C": "Những nhận định logic không có mâu thuẫn",
+      "D": "Tri thức phù hợp với hiện thực và được thực tiễn kiểm nghiệm"
+    },
+    "dap_an_dung": "D",
+    "giai_thich": "Đây là định nghĩa kinh điển về chân lý. Chân lý phải mang tính khách quan, tức là tri thức đó phải phản ánh đúng hiện thực và độ chính xác của nó phải được chứng minh thông qua thực tiễn."
+  },
+  {
+    "cau_hoi": "Trong các hình thức cơ bản của hoạt động thực tiễn, hình thức nào là quan trọng nhất?",
+    "phuong_an": {
+      "A": "Sản xuất vật chất",
+      "B": "Hoạt động chính trị - xã hội",
+      "C": "Thực nghiệm khoa học",
+      "D": "Hoạt động giáo dục"
+    },
+    "dap_an_dung": "A",
+    "giai_thich": "Sản xuất vật chất là hình thức cơ bản, đầu tiên và quan trọng nhất. Nó quy định sự tồn tại, phát triển của con người và tạo cơ sở cho các hình thức thực tiễn khác (như chính trị, khoa học) ra đời."
+  },
+  {
+    "cau_hoi": "Một trong những vai trò của thực tiễn đối với nhận thức:",
+    "phuong_an": {
+      "A": "Thực tiễn là cơ sở, nguồn gốc của nhận thức",
+      "B": "Thực tiễn đi sau và phụ thuộc vào nhận thức",
+      "C": "Thực tiễn là kết quả của quá trình tư duy",
+      "D": "Thực tiễn chỉ là phép thử ngẫu nhiên"
+    },
+    "dap_an_dung": "A",
+    "giai_thich": "Thực tiễn đóng 4 vai trò đối với nhận thức: Là cơ sở/nguồn gốc, là động lực, là mục đích và là tiêu chuẩn kiểm tra chân lý. Khẳng định A là hoàn toàn chính xác."
+  },
+  {
+    "cau_hoi": "Căn cứ vào sự tồn tại và phát triển của toàn bộ sự vật, hiện tượng, có thể phân chia mâu thuẫn thành:",
+    "phuong_an": {
+      "A": "Mâu thuẫn bên trong và mâu thuẫn bên ngoài",
+      "B": "Mâu thuẫn chủ yếu và mâu thuẫn thứ yếu",
+      "C": "Mâu thuẫn cơ bản và mâu thuẫn không cơ bản",
+      "D": "Mâu thuẫn đối kháng và mâu thuẫn không đối kháng"
+    },
+    "dap_an_dung": "C",
+    "giai_thich": "Căn cứ vào sự tồn tại và phát triển của toàn bộ sự vật, mâu thuẫn được chia thành mâu thuẫn cơ bản (quy định bản chất sự vật) và mâu thuẫn không cơ bản (chỉ đặc trưng cho một phương diện)."
+  },
+  {
+    "cau_hoi": "Căn cứ vào quan hệ giữa các mặt đối lập trong một sự vật, hiện tượng hoặc giữa các sự vật, hiện tượng với nhau, có thể phân chia mâu thuẫn thành:",
+    "phuong_an": {
+      "A": "Mâu thuẫn cơ bản và mâu thuẫn không cơ bản",
+      "B": "Mâu thuẫn chủ yếu và mâu thuẫn thứ yếu",
+      "C": "Mâu thuẫn đối kháng và mâu thuẫn không đối kháng",
+      "D": "Mâu thuẫn bên trong và mâu thuẫn bên ngoài"
+    },
+    "dap_an_dung": "D",
+    "giai_thich": "Dựa vào không gian/vị trí của các mặt đối lập, người ta chia thành mâu thuẫn bên trong (giữa các yếu tố cấu thành sự vật) và mâu thuẫn bên ngoài (giữa sự vật này với sự vật khác)."
+  },
+  {
+    "cau_hoi": "Căn cứ vào vai trò của mâu thuẫn đối với sự tồn tại và phát triển của sự vật, hiện tượng trong mỗi giai đoạn nhất định, có thể phân chia mâu thuẫn thành:",
+    "phuong_an": {
+      "A": "Mâu thuẫn bên trong và mâu thuẫn bên ngoài",
+      "B": "Mâu thuẫn chủ yếu và mâu thuẫn thứ yếu",
+      "C": "Mâu thuẫn cơ bản và mâu thuẫn không cơ bản",
+      "D": "Mâu thuẫn đối kháng và mâu thuẫn không đối kháng"
+    },
+    "dap_an_dung": "B",
+    "giai_thich": "Dựa vào vai trò tại một giai đoạn cụ thể, mâu thuẫn được chia thành mâu thuẫn chủ yếu (nổi lên hàng đầu, quyết định giai đoạn đó) và mâu thuẫn thứ yếu."
+  },
+  {
+    "cau_hoi": "Căn cứ vào tính chất đối lập về lợi ích cơ bản giữa các giai cấp trong xã hội có đối kháng giai cấp, có thể phân chia mâu thuẫn thành:",
+    "phuong_an": {
+      "A": "Mâu thuẫn chủ yếu và mâu thuẫn thứ yếu",
+      "B": "Mâu thuẫn đối kháng và mâu thuẫn không đối kháng",
+      "C": "Mâu thuẫn cơ bản và mâu thuẫn không cơ bản",
+      "D": "Mâu thuẫn bên trong và mâu thuẫn bên ngoài"
+    },
+    "dap_an_dung": "B",
+    "giai_thich": "Đây là cách phân chia đặc thù trong lĩnh vực xã hội học. Mâu thuẫn đối kháng là mâu thuẫn giữa các giai cấp có lợi ích căn bản đối lập nhau (như tư sản và vô sản)."
+  },
+  {
+    "cau_hoi": "Điền vào chỗ trống: ...... là hình thức đầu tiên, là cơ sở của mọi nhận thức trực tiếp theo của con người... hình thành do sự tác động trực tiếp của sự vật, hiện tượng lên các giác quan của con người.",
+    "phuong_an": {
+      "A": "Tri giác",
+      "B": "Biểu tượng",
+      "C": "Cảm giác",
+      "D": "Khái niệm"
+    },
+    "dap_an_dung": "C",
+    "giai_thich": "Cảm giác là hình thức thấp nhất và đầu tiên của nhận thức cảm tính, nảy sinh khi khách thể vừa mới tác động vào các giác quan riêng lẻ của con người."
+  },
+  {
+    "cau_hoi": "Điền vào chỗ trống: ...... là kết quả của sự tác động trực tiếp của sự vật đồng thời lên nhiều giác quan của con người.",
+    "phuong_an": {
+      "A": "Cảm giác",
+      "B": "Tri giác",
+      "C": "Biểu tượng",
+      "D": "Phán đoán"
+    },
+    "dap_an_dung": "B",
+    "giai_thich": "Tri giác là sự tổng hợp của nhiều cảm giác. Nó đem lại hình ảnh hoàn chỉnh hơn về sự vật khi sự vật đang trực tiếp hiện diện trước nhiều giác quan cùng lúc."
+  },
+  {
+    "cau_hoi": "Điền vào chỗ trống: ...... phản ánh khái quát một hoặc một số thuộc tính chung có tính bản chất nào đó của một nhóm sự vật, hiện tượng được biểu thị bằng một từ hoặc một cụm từ.",
+    "phuong_an": {
+      "A": "Phán đoán",
+      "B": "Khái niệm",
+      "C": "Suy lý",
+      "D": "Biểu tượng"
+    },
+    "dap_an_dung": "B",
+    "giai_thich": "Khái niệm là hình thức đầu tiên của tư duy trừu tượng, nó tóm gọn và phản ánh những thuộc tính bản chất nhất của đối tượng thông qua ngôn ngữ (từ/cụm từ)."
+  },
+  {
+    "cau_hoi": "Quy luật phủ định của phủ định chỉ ra:",
+    "phuong_an": {
+      "A": "Động lực của sự phát triển",
+      "B": "Nguồn gốc của sự phát triển",
+      "C": "Khuynh hướng cơ bản của mọi quá trình vận động và phát triển",
+      "D": "Cách thức của sự phát triển"
+    },
+    "dap_an_dung": "C",
+    "giai_thich": "Quy luật phủ định của phủ định chỉ ra khuynh hướng phát triển của sự vật (tiến lên theo đường xoáy ốc). Động lực là quy luật Mâu thuẫn, còn cách thức là quy luật Lượng - Chất."
+  },
+  {
+    "cau_hoi": "Quan điểm nào cho rằng: Các sự vật, hiện tượng và các quá trình khác nhau của thế giới có mối liên hệ, tác động, ảnh hưởng lẫn nhau?",
+    "phuong_an": {
+      "A": "Quan điểm siêu hình",
+      "B": "Quan điểm biện chứng",
+      "C": "Quan điểm duy tâm chủ quan",
+      "D": "Quan điểm duy tâm khách quan"
+    },
+    "dap_an_dung": "B",
+    "giai_thich": "Quan điểm biện chứng nhìn nhận thế giới như một chỉnh thể thống nhất, trong đó vạn vật luôn quy định, ràng buộc, tác động và chuyển hóa lẫn nhau."
+  },
+  {
+    "cau_hoi": "Tục ngữ Việt Nam có câu: 'Năng nhặt chặt bị', 'Góp gió thành bão'. Quan điểm trên vận dụng quy luật nào sau đây là phù hợp nhất:",
+    "phuong_an": {
+      "A": "Quy luật chuyển hóa từ những sự thay đổi về lượng thành những thay đổi về chất và ngược lại",
+      "B": "Quy luật thống nhất và đấu tranh giữa các mặt đối lập",
+      "C": "Quy luật phủ định của phủ định",
+      "D": "Quy luật quan hệ sản xuất phù hợp với lực lượng sản xuất"
+    },
+    "dap_an_dung": "A",
+    "giai_thich": "Những câu tục ngữ này diễn tả quá trình tích lũy dần dần về số lượng ('nhặt', 'góp') cho đến khi đủ để tạo ra một sự thay đổi lớn về chất ('chặt bị', 'thành bão')."
+  },
+  {
+    "cau_hoi": "Theo phép biện chứng duy vật, cái ...... là cái toàn bộ, phong phú hơn cái .......",
+    "phuong_an": {
+      "A": "Chung / Riêng",
+      "B": "Riêng / Chung",
+      "C": "Đơn nhất / Chung",
+      "D": "Chung / Đơn nhất"
+    },
+    "dap_an_dung": "B",
+    "giai_thich": "Lênin khẳng định: Cái Riêng là cái toàn bộ, phong phú hơn (vì nó bao gồm cả cái chung lẫn cái đơn nhất). Còn cái Chung thì sâu sắc hơn cái riêng (vì nó phản ánh bản chất phổ biến)."
+  },
+  {
+    "cau_hoi": "Theo phép biện chứng duy vật, trong hoạt động nhận thức và thực tiễn, nếu chỉ chú trọng thực hiện những bước nhảy liên tục về chất mà không tích lũy về lượng sẽ mắc phải sai lầm:",
+    "phuong_an": {
+      "A": "Bảo thủ, trì trệ (hữu khuynh)",
+      "B": "Nôn nóng, tả khuynh",
+      "C": "Ngụy biện",
+      "D": "Chiết trung"
+    },
+    "dap_an_dung": "B",
+    "giai_thich": "Tả khuynh (nôn nóng) là căn bệnh của những người chủ quan, chưa tích lũy đủ lượng nhưng đã vội vã muốn thay đổi về chất ('đốt cháy giai đoạn')."
+  },
+  {
+    "cau_hoi": "Theo chủ nghĩa duy vật biện chứng, nguồn gốc 'duy nhất và cuối cùng' của nhận thức là...?",
+    "phuong_an": {
+      "A": "Ý thức chủ quan của con người",
+      "B": "Thế giới khách quan",
+      "C": "Sự mặc khải của tự nhiên",
+      "D": "Hoạt động của tinh thần tuyệt đối"
+    },
+    "dap_an_dung": "B",
+    "giai_thich": "Chủ nghĩa duy vật biện chứng khẳng định nhận thức là sự phản ánh thế giới khách quan. Do đó, thế giới khách quan (thế giới vật chất) chính là nguồn gốc suy cho cùng tạo ra mọi tri thức."
+  },
+  {
+    "cau_hoi": "Tiền đề xuất phát của quan điểm duy vật lịch sử là?",
+    "phuong_an": {
+      "A": "Con người hiện thực",
+      "B": "Ý thức xã hội",
+      "C": "Tồn tại xã hội",
+      "D": "Quan hệ sản xuất"
+    },
+    "dap_an_dung": "A",
+    "giai_thich": "C. Mác và Ph. Ăngghen khẳng định tiền đề xuất phát của lý luận Mác xít không phải là giáo điều hay tưởng tượng, mà là 'những cá nhân con người hiện thực' đang hoạt động và sản xuất."
+  },
+  {
+    "cau_hoi": "Điền thêm từ để hoàn thiện nhận định sau đây và xác định đó là nhận định của ai? 'Điểm khác biệt căn bản giữa xã hội loài người với xã hội loài vật là ở chỗ: loài vật may mắn lắm chỉ hái lượm trong khi con người lại ......'",
+    "phuong_an": {
+      "A": "Sản xuất / C. Mác",
+      "B": "Sản xuất / Ph.Ăngghen",
+      "C": "Tư duy / V.I. Lênin",
+      "D": "Lao động / Hêghen"
+    },
+    "dap_an_dung": "B",
+    "giai_thich": "Đây là luận điểm nổi tiếng của Ph.Ăngghen. Ông nhấn mạnh sự chuyển biến vĩ đại tạo nên ranh giới giữa người và con vật chính là hoạt động sản xuất (chế tạo và sử dụng công cụ)."
+  },
+  {
+    "cau_hoi": "Chọn phương án đúng nhất: Xã hội có các loại hình sản xuất cơ bản là...",
+    "phuong_an": {
+      "A": "Sản xuất công nghiệp và nông nghiệp",
+      "B": "Sản xuất vật chất và tiêu dùng",
+      "C": "Sản xuất thủ công và sản xuất máy móc",
+      "D": "Sản xuất ra của cải vật chất, tinh thần và con người"
+    },
+    "dap_an_dung": "D",
+    "giai_thich": "Sự vận động của xã hội loài người luôn bao hàm 3 loại hình sản xuất đan xen: Sản xuất vật chất (nuôi sống xã hội), Sản xuất tinh thần (tư tưởng, văn hóa) và Sản xuất ra bản thân con người (duy trì nòi giống)."
+  },
+  {
+    "cau_hoi": "C. Mác đã viết: 'Cái cối xay quay bằng tay đưa lại xã hội có lãnh chúa phong kiến, cái cối xay chạy bằng hơi nước đưa lại xã hội có nhà tư bản công nghiệp'. Hãy cho biết câu nói trên phản ánh quan điểm nào?",
+    "phuong_an": {
+      "A": "Vai trò quyết định của lực lượng sản xuất đối với quan hệ sản xuất",
+      "B": "Tác động của quan hệ sản xuất đối với lực lượng sản xuất",
+      "C": "Sự quyết định của cơ sở hạ tầng đối với kiến trúc thượng tầng",
+      "D": "Vai trò chủ đạo của người lao động"
+    },
+    "dap_an_dung": "A",
+    "giai_thich": "Câu nói này minh họa rõ nét quy luật LLSX quyết định QHSX. 'Cối xay' đại diện cho công cụ lao động (LLSX), nó biến đổi dẫn tới sự thay đổi của các giai cấp và chế độ xã hội (QHSX)."
+  },
+  {
+    "cau_hoi": "Theo C.Mác, các nền kinh tế cần được phân biệt với nhau bởi?",
+    "phuong_an": {
+      "A": "Mục đích sản xuất",
+      "B": "Sự phân chia của cải",
+      "C": "Trình độ học vấn của người lao động",
+      "D": "Phương thức sản xuất ra của cải vật chất"
+    },
+    "dap_an_dung": "D",
+    "giai_thich": "Mác khẳng định các thời đại kinh tế khác nhau không phải ở chỗ chúng sản xuất ra cái gì, mà là ở chỗ chúng sản xuất bằng cách nào (tức là Phương thức sản xuất/công cụ lao động)."
+  },
+  {
+    "cau_hoi": "Tiêu chuẩn quan trọng nhất để phân biệt các thời đại kinh tế là gì?",
+    "phuong_an": {
+      "A": "Phương thức sản xuất",
+      "B": "Khối lượng của cải vật chất",
+      "C": "Chế độ chính trị",
+      "D": "Trình độ văn hóa tư tưởng"
+    },
+    "dap_an_dung": "A",
+    "giai_thich": "Phương thức sản xuất (với cốt lõi là sự phát triển của công cụ lao động) chính là mốc đánh dấu sự chuyển biến từ một thời đại kinh tế cũ sang một thời đại kinh tế mới."
+  },
+  {
+    "cau_hoi": "Phương thức sản xuất là?",
+    "phuong_an": {
+      "A": "Những cách thức mà con người sử dụng để tiến hành quá trình sản xuất của xã hội ở những giai đoạn lịch sử nhất định",
+      "B": "Phương thức con người trao đổi hàng hóa trên thị trường",
+      "C": "Cách thức nhà nước quản lý nền kinh tế",
+      "D": "Quá trình tái sản xuất ra bản thân con người"
+    },
+    "dap_an_dung": "A",
+    "giai_thich": "Phương thức sản xuất là sự kết hợp giữa LLSX và QHSX, thể hiện cách thức con người làm ra của cải vật chất trong một giai đoạn lịch sử cụ thể."
+  },
+  {
+    "cau_hoi": "Trong các hình thức của sản xuất xã hội, hình thức nào là nền tảng?",
+    "phuong_an": {
+      "A": "Sản xuất vật chất",
+      "B": "Sản xuất tinh thần",
+      "C": "Sản xuất ra bản thân con người",
+      "D": "Sản xuất nghệ thuật"
+    },
+    "dap_an_dung": "A",
+    "giai_thich": "Sản xuất vật chất luôn đóng vai trò là cái nôi, là cơ sở tồn tại và phát triển của mọi xã hội. Nếu ngừng sản xuất vật chất thì mọi hoạt động tinh thần hay duy trì nòi giống đều sụp đổ."
+  },
+  {
+    "cau_hoi": "Quan hệ sản xuất là?",
+    "phuong_an": {
+      "A": "Quan hệ giữa con người với tự nhiên trong lao động",
+      "B": "Quan hệ chính trị giữa các giai cấp",
+      "C": "Mối quan hệ giữa người với người trong quá trình sản xuất vật chất",
+      "D": "Quan hệ trao đổi tình cảm, tư tưởng"
+    },
+    "dap_an_dung": "C",
+    "giai_thich": "Để tiến hành sản xuất, con người không thể đơn độc mà phải hợp tác với nhau. Những quan hệ kinh tế - vật chất ràng buộc họ trong quá trình sản xuất đó gọi là Quan hệ sản xuất."
+  },
+  {
+    "cau_hoi": "Sự biến đổi của quan hệ sản xuất do yếu tố nào quyết định nhất?",
+    "phuong_an": {
+      "A": "Trình độ của lực lượng sản xuất",
+      "B": "Thiết chế nhà nước",
+      "C": "Ý chí của giai cấp thống trị",
+      "D": "Điều kiện tự nhiên, địa lý"
+    },
+    "dap_an_dung": "A",
+    "giai_thich": "Theo quy luật khách quan, QHSX luôn phải thay đổi để thích ứng với sự phát triển tất yếu của LLSX (máy móc, công nghệ, người lao động)."
+  },
+  {
+    "cau_hoi": "Quan hệ cơ bản nhất, đóng vai trò quyết định trong hệ thống quan hệ sản xuất là?",
+    "phuong_an": {
+      "A": "Quan hệ tổ chức và quản lý sản xuất",
+      "B": "Quan hệ phân phối sản phẩm lao động",
+      "C": "Quan hệ trao đổi và tiêu dùng",
+      "D": "Quan hệ sở hữu về tư liệu sản xuất"
+    },
+    "dap_an_dung": "D",
+    "giai_thich": "Trong 3 mặt của QHSX, ai nắm giữ quyền sở hữu tư liệu sản xuất (tiền bạc, máy móc, nhà xưởng) thì người đó tự khắc có quyền chi phối việc quản lý và chia chác sản phẩm."
+  },
+   {
+    "cau_hoi": "Lực lượng sản xuất bao gồm các nhân tố nào?",
+    "phuong_an": {
+      "A": "Người lao động và tư liệu sản xuất",
+      "B": "Người lao động và công cụ lao động",
+      "C": "Tư liệu sản xuất và đối tượng lao động",
+      "D": "Máy móc và trình độ quản lý"
+    },
+    "dap_an_dung": "A",
+    "giai_thich": "Lực lượng sản xuất là sự kết hợp giữa người lao động (yếu tố con người) với tư liệu sản xuất (yếu tố vật chất), tạo ra năng lực thực tiễn để biến đổi giới tự nhiên."
+  },
+  {
+    "cau_hoi": "Tư liệu sản xuất bao gồm?",
+    "phuong_an": {
+      "A": "Máy móc và nguyên vật liệu",
+      "B": "Công cụ lao động và người lao động",
+      "C": "Đối tượng lao động và tư liệu lao động",
+      "D": "Nhà xưởng và đất đai"
+    },
+    "dap_an_dung": "C",
+    "giai_thich": "Tư liệu sản xuất là điều kiện vật chất cần thiết để tổ chức sản xuất, bao gồm tư liệu lao động (công cụ, phương tiện) và đối tượng lao động (quặng, đất, nguyên liệu...)."
+  },
+  {
+    "cau_hoi": "Trong mối quan hệ giữa lực lượng sản xuất và quan hệ sản xuất:",
+    "phuong_an": {
+      "A": "Quan hệ sản xuất quyết định lực lượng sản xuất",
+      "B": "Quan hệ sản xuất phụ thuộc vào trình độ phát triển của lực lượng sản xuất",
+      "C": "Hai yếu tố này tồn tại độc lập, không tác động lẫn nhau",
+      "D": "Quan hệ sản xuất luôn đi trước mở đường cho lực lượng sản xuất"
+    },
+    "dap_an_dung": "B",
+    "giai_thich": "Lực lượng sản xuất là yếu tố nội dung, luôn vận động biến đổi. Khi LLSX phát triển đến một trình độ nhất định sẽ đòi hỏi QHSX (yếu tố hình thức) phải biến đổi theo để phù hợp với nó."
+  },
+  {
+    "cau_hoi": "Cơ sở hạ tầng là?",
+    "phuong_an": {
+      "A": "Toàn bộ quan hệ sản xuất hợp thành cơ cấu kinh tế của một xã hội nhất định",
+      "B": "Toàn bộ hệ thống đường xá, cầu cống, điện lưới quốc gia",
+      "C": "Toàn bộ các tư tưởng, quan điểm chính trị của xã hội",
+      "D": "Toàn bộ nền sản xuất vật chất của nhân loại"
+    },
+    "dap_an_dung": "A",
+    "giai_thich": "Trong triết học Mác - Lênin, khái niệm cơ sở hạ tầng không phải là điện, đường, trường, trạm mà là toàn bộ những quan hệ sản xuất (bao gồm tàn dư, thống trị, mầm mống) hợp thành cơ cấu kinh tế của xã hội đó."
+  },
+  {
+    "cau_hoi": "Kiến trúc thượng tầng là?",
+    "phuong_an": {
+      "A": "Toàn bộ những quan điểm chính trị, pháp quyền, đạo đức, triết học, tôn giáo, nghệ thuật... cùng với những thiết chế xã hội tương ứng như nhà nước, đảng phái, giáo hội... được hình thành trên một cơ sở hạ tầng nhất định",
+      "B": "Toàn bộ hệ thống nhà nước và pháp luật của một quốc gia",
+      "C": "Toàn bộ đời sống sinh hoạt vật chất của xã hội",
+      "D": "Toàn bộ các quan hệ sản xuất tồn tại trong xã hội"
+    },
+    "dap_an_dung": "A",
+    "giai_thich": "Kiến trúc thượng tầng là toàn bộ hệ thống các hình thái ý thức xã hội và các thiết chế chính trị - xã hội tương ứng được xây dựng trên một cái nền kinh tế (cơ sở hạ tầng) nhất định."
+  },
+  {
+    "cau_hoi": "Về bản chất, theo Ph.Ăngghen nhà nước là...",
+    "phuong_an": {
+      "A": "Một cơ quan quản lý lợi ích chung của toàn xã hội",
+      "B": "Một bộ máy của một giai cấp này dùng để trấn áp một giai cấp khác",
+      "C": "Một công cụ dung hòa lợi ích giữa các giai cấp",
+      "D": "Một tổ chức trung lập đứng trên mọi giai cấp"
+    },
+    "dap_an_dung": "B",
+    "giai_thich": "Triết học Mác - Lênin khẳng định nhà nước ra đời do mâu thuẫn giai cấp không thể điều hòa. Nó là công cụ bạo lực, là bộ máy trấn áp của giai cấp nắm quyền kinh tế để bảo vệ lợi ích của chính họ."
+  },
+  {
+    "cau_hoi": "Cơ sở làm phát sinh các quan hệ xã hội: chính trị, pháp luật... là do...",
+    "phuong_an": {
+      "A": "Những quan hệ sản xuất vật chất của xã hội",
+      "B": "Ý muốn chủ quan của giai cấp thống trị",
+      "C": "Những tư tưởng thiên tài của các lãnh tụ",
+      "D": "Điều kiện tự nhiên và hoàn cảnh địa lý"
+    },
+    "dap_an_dung": "A",
+    "giai_thich": "Chính trị, pháp luật thuộc về kiến trúc thượng tầng. Mà kiến trúc thượng tầng luôn nảy sinh và được quyết định bởi cái gốc nền tảng là cơ sở hạ tầng (tức là những quan hệ sản xuất/vật chất của xã hội)."
+  },
+  {
+    "cau_hoi": "Thực chất của quan hệ biện chứng giữa cơ sở hạ tầng và kiến trúc thượng tầng là...",
+    "phuong_an": {
+      "A": "Quan hệ giữa kinh tế và chính trị",
+      "B": "Quan hệ giữa vật chất và tinh thần",
+      "C": "Quan hệ giữa tự nhiên và xã hội",
+      "D": "Quan hệ giữa sản xuất và tiêu dùng"
+    },
+    "dap_an_dung": "A",
+    "giai_thich": "Cơ sở hạ tầng đại diện cho đời sống kinh tế, còn yếu tố cốt lõi nhất của kiến trúc thượng tầng là nhà nước, pháp luật đại diện cho chính trị. Do đó đây thực chất là mối quan hệ Kinh tế - Chính trị."
+  },
+  {
+    "cau_hoi": "Tính chất phụ thuộc của kiến trúc thượng tầng vào cơ sở hạ tầng có nguyên nhân từ...",
+    "phuong_an": {
+      "A": "Sự ép buộc của giai cấp thống trị",
+      "B": "Sự giác ngộ của quần chúng nhân dân",
+      "C": "Tính tất yếu kinh tế đối với toàn bộ các lĩnh vực sinh hoạt của xã hội",
+      "D": "Sự phát triển của tư duy lý luận"
+    },
+    "dap_an_dung": "C",
+    "giai_thich": "Tính tất yếu kinh tế (việc con người phải ăn, ở, mặc trước khi làm chính trị) là căn nguyên quy định mọi tính tất yếu chính trị - xã hội. Lợi ích kinh tế quyết định lợi ích chính trị."
+  },
+  {
+    "cau_hoi": "Nhân tố nào trong kiến trúc thượng tầng có tác động trực tiếp nhất và mạnh mẽ nhất tới cơ sở hạ tầng kinh tế của xã hội?",
+    "phuong_an": {
+      "A": "Tôn giáo",
+      "B": "Nhà nước",
+      "C": "Nghệ thuật",
+      "D": "Đạo đức"
+    },
+    "dap_an_dung": "B",
+    "giai_thich": "Nhà nước là thiết chế quyền lực nhất, nắm trong tay bạo lực, pháp luật, thuế quan... nên có tác động trực tiếp và mạnh mẽ nhất đến nền kinh tế (CSHT) so với các yếu tố như đạo đức, tôn giáo."
+  },
+  {
+    "cau_hoi": "Vai trò của kiến trúc thượng tầng đối với cơ sở hạ tầng?",
+    "phuong_an": {
+      "A": "Chỉ là sự phản ánh thụ động, không có tác dụng gì",
+      "B": "Quyết định hoàn toàn sự ra đời của cơ sở hạ tầng",
+      "C": "Phát triển độc lập, không liên quan đến cơ sở hạ tầng",
+      "D": "Kiến trúc thượng tầng thường xuyên có vai trò tác động trở lại cơ sở hạ tầng của xã hội"
+    },
+    "dap_an_dung": "D",
+    "giai_thich": "Kiến trúc thượng tầng có tính độc lập tương đối. Nó bảo vệ, củng cố và phát triển cơ sở hạ tầng sinh ra nó. Nếu nó thuận theo quy luật kinh tế thì thúc đẩy kinh tế phát triển, nếu đi ngược lại sẽ kìm hãm."
+  },
+  {
+    "cau_hoi": "Chọn phương án đúng nhất: Các yếu tố cấu thành tồn tại xã hội bao gồm?",
+    "phuong_an": {
+      "A": "Lực lượng sản xuất, quan hệ sản xuất và kiến trúc thượng tầng",
+      "B": "Phương thức sản xuất, điều kiện tự nhiên và dân cư",
+      "C": "Cơ sở hạ tầng, giai cấp và nhà nước",
+      "D": "Đời sống vật chất, đời sống tinh thần và văn hóa"
+    },
+    "dap_an_dung": "B",
+    "giai_thich": "Tồn tại xã hội bao gồm 3 yếu tố cơ bản: Phương thức sản xuất vật chất (yếu tố quyết định nhất), Điều kiện tự nhiên - hoàn cảnh địa lý, và Dân số - mật độ dân số."
+  },
+  {
+    "cau_hoi": "Khái niệm ý thức xã hội dùng để chỉ?",
+    "phuong_an": {
+      "A": "Ý thức của từng cá nhân cộng gộp lại",
+      "B": "Hệ thống pháp luật của nhà nước",
+      "C": "Phương diện sinh hoạt tinh thần của xã hội, nảy sinh từ tồn tại xã hội và phản ánh tồn tại xã hội trong những giai đoạn phát triển nhất định",
+      "D": "Tổng hợp các thói quen của người dân trong đời sống"
+    },
+    "dap_an_dung": "C",
+    "giai_thich": "Ý thức xã hội là toàn bộ phương diện sinh hoạt tinh thần của xã hội, bao gồm tình cảm, tâm trạng, tư tưởng, quan điểm... Nó được sinh ra để phản ánh điều kiện sinh hoạt vật chất (tồn tại xã hội)."
+  },
+  {
+    "cau_hoi": "Mối quan hệ giữa ý thức xã hội và ý thức cá nhân là biểu thị mối quan hệ giữa?",
+    "phuong_an": {
+      "A": "Nguyên nhân và kết quả",
+      "B": "Cái chung và cái riêng",
+      "C": "Nội dung và hình thức",
+      "D": "Bản chất và hiện tượng"
+    },
+    "dap_an_dung": "B",
+    "giai_thich": "Ý thức xã hội mang tính chất là cái chung, cái phổ biến của cộng đồng; trong khi đó ý thức cá nhân là cái riêng, cái đặc thù của từng người. Cả hai có mối liên hệ biện chứng thống nhất."
+  },
+  {
+    "cau_hoi": "Lựa chọn phương án đúng theo quan điểm triết học Mác - Lênin về đặc điểm tâm lý xã hội?",
+    "phuong_an": {
+      "A": "Tâm lý xã hội là sự phản ánh trực tiếp và tự phát đối với hoàn cảnh sống của cộng đồng",
+      "B": "Tâm lý xã hội là sự phản ánh gián tiếp và tự giác",
+      "C": "Tâm lý xã hội là hệ thống các học thuyết khoa học",
+      "D": "Tâm lý xã hội luôn luôn vượt trước tồn tại xã hội"
+    },
+    "dap_an_dung": "A",
+    "giai_thich": "Tâm lý xã hội (thuộc nhận thức cảm tính xã hội) bao gồm tình cảm, ước muốn, thói quen... Nó hình thành một cách tự phát và trực tiếp từ điều kiện sống hàng ngày của người dân."
+  },
+  {
+    "cau_hoi": "Lựa chọn phương án đúng về đặc điểm của hệ tư tưởng?",
+    "phuong_an": {
+      "A": "Hệ tư tưởng là sự phản ánh trực tiếp và tự phát",
+      "B": "Hệ tư tưởng là sự phản ánh gián tiếp và tự giác đối với tồn tại xã hội",
+      "C": "Hệ tư tưởng là những thói quen truyền đời",
+      "D": "Hệ tư tưởng tồn tại hoàn toàn độc lập với các giai cấp"
+    },
+    "dap_an_dung": "B",
+    "giai_thich": "Hệ tư tưởng là trình độ nhận thức lý luận, được các nhà tư tưởng của giai cấp xây dựng một cách tự giác và hệ thống nhằm phản ánh sâu sắc bản chất của các quan hệ xã hội."
+  },
+  {
+    "cau_hoi": "Lựa chọn phương án đúng về vai trò của tồn tại xã hội trong quan hệ biện chứng với ý thức xã hội?",
+    "phuong_an": {
+      "A": "Ý thức xã hội quyết định hoàn toàn tồn tại xã hội",
+      "B": "Tồn tại xã hội quyết định ý thức xã hội, song ý thức xã hội vẫn có tính độc lập tương đối của nó",
+      "C": "Cả hai tồn tại song song, không cái nào quyết định cái nào",
+      "D": "Ý thức xã hội là cái có trước và sản sinh ra tồn tại xã hội"
+    },
+    "dap_an_dung": "B",
+    "giai_thich": "Theo quan điểm duy vật lịch sử, đời sống vật chất (tồn tại xã hội) luôn là nền tảng quyết định đời sống tinh thần (ý thức xã hội). Tuy nhiên, ý thức xã hội không thụ động mà có tính độc lập tương đối."
+  },
+  {
+    "cau_hoi": "Lựa chọn phương án SAI về tính độc lập tương đối của ý thức xã hội?",
+    "phuong_an": {
+      "A": "Ý thức xã hội có thể vượt trước tồn tại xã hội",
+      "B": "Mọi hình thái ý thức xã hội luôn luôn lạc hậu hơn so với tồn tại xã hội",
+      "C": "Ý thức xã hội có tính kế thừa trong sự phát triển",
+      "D": "Các hình thái ý thức xã hội tác động qua lại lẫn nhau"
+    },
+    "dap_an_dung": "B",
+    "giai_thich": "Nói 'luôn luôn lạc hậu' là sai. Dù thường xuyên lạc hậu do sức ỳ của thói quen, nhưng trong nhiều trường hợp, tư tưởng khoa học tiên tiến có thể vượt trước tồn tại xã hội để dự báo tương lai."
+  },
+  {
+    "cau_hoi": "Lựa chọn phương án đúng về tính độc lập tương đối của ý thức xã hội?",
+    "phuong_an": {
+      "A": "Ý thức xã hội hoàn toàn không bị chi phối bởi tồn tại xã hội",
+      "B": "Tồn tại xã hội thay đổi nhưng một số bộ phận của ý thức xã hội chưa thay đổi ngay cùng với tồn tại xã hội",
+      "C": "Ý thức xã hội tự nó sinh ra và biến mất",
+      "D": "Ý thức xã hội thay đổi đồng thời ngay lập tức với tồn tại xã hội"
+    },
+    "dap_an_dung": "B",
+    "giai_thich": "Sự lạc hậu của ý thức xã hội là một biểu hiện của tính độc lập tương đối. Do truyền thống, thói quen ăn sâu nên khi kinh tế thay đổi, nhiều phong tục, lối suy nghĩ vẫn tồn tại dai dẳng."
+  },
+  {
+    "cau_hoi": "Chọn phương án đúng nhất: Đâu là cấu trúc của một hình thái kinh tế - xã hội?",
+    "phuong_an": {
+      "A": "Cơ sở hạ tầng và kiến trúc thượng tầng",
+      "B": "Lực lượng sản xuất, quan hệ sản xuất và kiến trúc thượng tầng",
+      "C": "Giai cấp thống trị, nhà nước và pháp luật",
+      "D": "Tồn tại xã hội và ý thức xã hội"
+    },
+    "dap_an_dung": "B",
+    "giai_thich": "Hình thái kinh tế - xã hội là một hệ thống cấu trúc hoàn chỉnh bao gồm 3 yếu tố cơ bản liên hệ chặt chẽ: Lực lượng sản xuất, Quan hệ sản xuất (Cơ sở hạ tầng) và Kiến trúc thượng tầng."
+  },
+  {
+    "cau_hoi": "Điền thêm từ vào câu sau đây và xác định đó là luận điểm của ai? 'Sự phát triển của các hình thái kinh tế - xã hội là một quá trình ........'",
+    "phuong_an": {
+      "A": "Tiến hóa sinh học / Đacuyn",
+      "B": "Tự do dân chủ / Hêghen",
+      "C": "Lịch sử tự nhiên / C. Mác",
+      "D": "Đấu tranh giai cấp / V.I. Lênin"
+    },
+    "dap_an_dung": "C",
+    "giai_thich": "Đây là luận điểm kinh điển của C. Mác trong bộ 'Tư bản'. Nó khẳng định xã hội loài người phát triển tuân theo các quy luật khách quan, tất yếu giống như các quá trình của tự nhiên."
+  },
+  {
+    "cau_hoi": "Khẳng định tính lịch sử - tự nhiên của sự phát triển các hình thái kinh tế - xã hội tức là khẳng định sự phát triển của xã hội...",
+    "phuong_an": {
+      "A": "Hoàn toàn giống với các hiện tượng sinh học của giới tự nhiên",
+      "B": "Phụ thuộc hoàn toàn vào ý chí và mong muốn của các vĩ nhân",
+      "C": "Là một vòng tuần hoàn lặp đi lặp lại không có kết quả",
+      "D": "Tuân theo quy luật khách quan nhưng đồng thời cũng chịu tác động của các nhân tố khác, trong đó có nhân tố về hoạt động chủ quan của con người"
+    },
+    "dap_an_dung": "D",
+    "giai_thich": "Lịch sử xã hội khác giới tự nhiên ở chỗ nó được làm ra bởi những con người có ý thức. Do đó, tuy tuân theo quy luật khách quan tất yếu, nhưng tiến trình lịch sử ở mỗi quốc gia vẫn mang tính đặc thù do yếu tố chủ quan tác động."
+  },
+  {
+    "cau_hoi": "Việc lật đổ một chế độ chính trị đã lỗi thời và thiết lập một chế độ chính trị tiến bộ hơn của giai cấp cách mạng được gọi là?",
+    "phuong_an": {
+      "A": "Cải cách xã hội",
+      "B": "Cách mạng xã hội",
+      "C": "Tiến hóa xã hội",
+      "D": "Đảo chính quân sự"
+    },
+    "dap_an_dung": "B",
+    "giai_thich": "Theo nghĩa hẹp, cách mạng xã hội là bước nhảy vọt giành lấy quyền lực nhà nước, đánh đổ giai cấp thống trị phản động để lập nên một chế độ mới tiến bộ hơn."
+  },
+  {
+    "cau_hoi": "Theo chủ nghĩa duy vật lịch sử, lịch sử loài người là một tiến trình nối tiếp nhau tuần tự từ thấp đến cao của các hình thái kinh tế - xã hội:",
+    "phuong_an": {
+      "A": "Nguyên thủy - Nô lệ - Tư bản - Phong kiến",
+      "B": "Nguyên thủy - Phong kiến - Tư bản - Nô lệ",
+      "C": "Cộng sản nguyên thủy - Chiếm hữu nô lệ - Phong kiến - Tư bản chủ nghĩa - Cộng sản chủ nghĩa",
+      "D": "Nô lệ - Phong kiến - Tư bản chủ nghĩa - Đế quốc chủ nghĩa"
+    },
+    "dap_an_dung": "C",
+    "giai_thich": "Đây là 5 hình thái kinh tế - xã hội cơ bản đánh dấu các nấc thang tiến hóa của lịch sử nhân loại theo lý luận hình thái kinh tế - xã hội của Mác."
+  },
+  {
+    "cau_hoi": "Theo chủ nghĩa duy vật lịch sử, ba yếu tố cơ bản của hình thái kinh tế - xã hội tác động biện chứng, tạo thành các quy luật cơ bản chi phối sự vận động, phát triển của lịch sử xã hội là:",
+    "phuong_an": {
+      "A": "Lực lượng sản xuất; quan hệ sản xuất; kiến trúc thượng tầng",
+      "B": "Sản xuất vật chất; sản xuất tinh thần; sản xuất con người",
+      "C": "Giai cấp; nhà nước; pháp luật",
+      "D": "Kinh tế; chính trị; văn hóa"
+    },
+    "dap_an_dung": "A",
+    "giai_thich": "Ba yếu tố cốt lõi (LLSX, QHSX, KTTT) hình thành nên hai quy luật xương sống của xã hội: Quy luật LLSX quyết định QHSX và quy luật CSHT quyết định KTTT."
+  },
+  {
+    "cau_hoi": "Theo C.Mác, trong tính hiện thực của nó, bản chất con người là?",
+    "phuong_an": {
+      "A": "Một thực thể sinh học thuần túy",
+      "B": "Tổng hòa những quan hệ xã hội",
+      "C": "Bản năng sinh tồn và sinh sản",
+      "D": "Tư duy và ý thức tinh thần"
+    },
+    "dap_an_dung": "B",
+    "giai_thich": "Đây là luận điểm xuất sắc của Mác trong 'Luận cương về Phoiơbắc'. Mác bác bỏ quan niệm coi bản chất con người là cái gì đó trừu tượng, cô lập, mà khẳng định con người được định hình bởi các mối quan hệ xã hội trong thực tế."
+  },
+  {
+    "cau_hoi": "Theo quan điểm của triết học Mác - Lênin:",
+    "phuong_an": {
+      "A": "Lịch sử được quyết định bởi quần chúng nhân dân",
+      "B": "Lịch sử được sáng tạo bởi các vĩ nhân, lãnh tụ",
+      "C": "Lịch sử là sản phẩm của sự an bài của Thượng đế",
+      "D": "Lịch sử phát triển hoàn toàn ngẫu nhiên"
+    },
+    "dap_an_dung": "A",
+    "giai_thich": "Chủ nghĩa duy vật lịch sử khẳng định quần chúng nhân dân là người trực tiếp sản xuất ra của cải, là người tạo ra văn hóa và là động lực của các cuộc cách mạng. Do đó họ là chủ thể chân chính quyết định lịch sử."
+  },
+  {
+    "cau_hoi": "Cơ sở trực tiếp hình thành và phân chia giai cấp trong xã hội là do:",
+    "phuong_an": {
+      "A": "Chiếm đoạt tư liệu sản xuất của công thành của riêng",
+      "B": "Sự khác biệt về tài năng, trí tuệ giữa các cá nhân",
+      "C": "Sự phân chia quyền lực chính trị",
+      "D": "Chiến tranh bạo lực và nô dịch"
+    },
+    "dap_an_dung": "A",
+    "giai_thich": "Giai cấp không sinh ra một cách tự nhiên. Nguồn gốc trực tiếp sinh ra giai cấp là sự xuất hiện của chế độ chiếm hữu tư nhân về tư liệu sản xuất, khiến một nhóm người có thể bóc lột nhóm khác."
+  },
+  {
+    "cau_hoi": "Theo quan điểm của triết học Mác-Lênin, trong thời đại ngày nay, hình thái ý thức xã hội nào có sự tác động mạnh mẽ và sâu sắc đối với các hình thái ý thức xã hội khác?",
+    "phuong_an": {
+      "A": "Nghệ thuật",
+      "B": "Đạo đức",
+      "C": "Chính trị",
+      "D": "Tôn giáo"
+    },
+    "dap_an_dung": "C",
+    "giai_thich": "Trong xã hội có giai cấp, ý thức chính trị phản ánh các mối quan hệ kinh tế và đường lối của giai cấp cầm quyền. Do đó nó chi phối định hướng của pháp luật, nghệ thuật, đạo đức... để bảo vệ chế độ."
+  },
+  {
+    "cau_hoi": "Theo quan điểm của triết học Mác-Lênin, cơ sở để xác định sự khác nhau của các giai cấp trong một xã hội nhất định là gì?",
+    "phuong_an": {
+      "A": "Nguồn gốc xuất thân",
+      "B": "Quan hệ sản xuất",
+      "C": "Mức độ thu nhập kinh tế",
+      "D": "Trình độ học vấn"
+    },
+    "dap_an_dung": "B",
+    "giai_thich": "Theo định nghĩa của Lênin, giai cấp là những tập đoàn người khác nhau về địa vị trong một hệ thống sản xuất. Sự khác biệt mấu chốt nhất nằm ở vai trò của họ trong quan hệ sở hữu đối với tư liệu sản xuất."
+  },
+  {
+    "cau_hoi": "Điền từ thích hợp vào chỗ trống: Tiến trình phát triển của lịch sử loài người (sự thay thế lẫn nhau giữa các hình thái kinh tế - xã hội) là một quá trình...",
+    "phuong_an": {
+      "A": "Tuần hoàn khép kín",
+      "B": "Tự phát",
+      "C": "Ngẫu nhiên",
+      "D": "Lịch sử - tự nhiên"
+    },
+    "dap_an_dung": "D",
+    "giai_thich": "C. Mác khẳng định sự phát triển của các hình thái kinh tế - xã hội là một quá trình lịch sử - tự nhiên. Nghĩa là sự phát triển của xã hội tuân theo các quy luật khách quan, tất yếu giống như giới tự nhiên, không phụ thuộc vào ý muốn chủ quan của con người."
+  },
+  {
+    "cau_hoi": "Điền vào chỗ trống: Hình thái kinh tế - xã hội là phạm trù triết học dùng để chỉ xã hội ở một giai đoạn lịch sử nhất định, với một kiểu [...] đặc trưng cho xã hội đó, phù hợp với một trình độ nhất định của lực lượng sản xuất và một kiến trúc thượng tầng tương ứng được xây dựng trên những quan hệ sản xuất ấy.",
+    "phuong_an": {
+      "A": "Kiến trúc thượng tầng",
+      "B": "Cơ sở hạ tầng",
+      "C": "Lực lượng sản xuất",
+      "D": "Quan hệ sản xuất"
+    },
+    "dap_an_dung": "D",
+    "giai_thich": "Trong cấu trúc của hình thái kinh tế - xã hội, Quan hệ sản xuất đóng vai trò là 'bộ xương' kinh tế đặc trưng cho mỗi giai đoạn lịch sử, phân biệt thời đại kinh tế này với thời đại kinh tế khác."
+  },
+  {
+    "cau_hoi": "Điền vào chỗ trống: Hình thái kinh tế - xã hội là phạm trù triết học dùng để chỉ xã hội ở một giai đoạn lịch sử nhất định, với một kiểu (1) đặc trưng cho xã hội đó, phù hợp với một trình độ nhất định của (2) và một (3) tương ứng được xây dựng trên những quan hệ sản xuất ấy.",
+    "phuong_an": {
+      "A": "(1) Lực lượng sản xuất... (2) quan hệ sản xuất... (3) kiến trúc thượng tầng",
+      "B": "(1) Quan hệ sản xuất... (2) lực lượng sản xuất... (3) kiến trúc thượng tầng",
+      "C": "(1) Kiến trúc thượng tầng... (2) quan hệ sản xuất... (3) lực lượng sản xuất",
+      "D": "(1) Cơ sở hạ tầng... (2) lực lượng sản xuất... (3) quan hệ sản xuất"
+    },
+    "dap_an_dung": "B",
+    "giai_thich": "Đây là định nghĩa hoàn chỉnh của phạm trù Hình thái kinh tế - xã hội. Nó bao gồm 3 thành tố: Quan hệ sản xuất (đặc trưng), Lực lượng sản xuất (nền tảng) và Kiến trúc thượng tầng (được xây dựng trên nền tảng QHSX)."
+  },
+  {
+    "cau_hoi": "Điền vào chỗ trống: Hình thái kinh tế - xã hội là phạm trù triết học dùng để chỉ xã hội ở một giai đoạn lịch sử nhất định, với một kiểu quan hệ sản xuất đặc trưng cho xã hội đó, phù hợp với một trình độ nhất định của [...] và một kiến trúc thượng tầng tương ứng được xây dựng trên những quan hệ sản xuất ấy.",
+    "phuong_an": {
+      "A": "Cơ sở hạ tầng",
+      "B": "Lực lượng sản xuất",
+      "C": "Giai cấp thống trị",
+      "D": "Chính trị - xã hội"
+    },
+    "dap_an_dung": "B",
+    "giai_thich": "Quan hệ sản xuất luôn luôn phải vận động và thiết lập để phù hợp với trình độ phát triển của Lực lượng sản xuất hiện có."
+  },
+  {
+    "cau_hoi": "Điền từ thích hợp vào chỗ trống: [...] về tư liệu sản xuất là quan hệ giữa các tập đoàn người trong việc chiếm hữu, sử dụng các tư liệu sản xuất xã hội.",
+    "phuong_an": {
+      "A": "Quan hệ sở hữu",
+      "B": "Quan hệ quản lý",
+      "C": "Quan hệ phân phối",
+      "D": "Quan hệ trao đổi"
+    },
+    "dap_an_dung": "A",
+    "giai_thich": "Trong 3 mặt của quan hệ sản xuất, quan hệ sở hữu về tư liệu sản xuất giữ vai trò quyết định. Nó xác định ai là chủ của tài sản, máy móc và từ đó quyết định địa vị của các tập đoàn người trong xã hội."
+  },
+  {
+    "cau_hoi": "Chọn phương án đúng nhất để điền từ thích hợp vào chỗ trống: Quan hệ sở hữu về [...] là quan hệ giữa các tập đoàn người trong việc chiếm hữu, sử dụng các tư liệu sản xuất xã hội.",
+    "phuong_an": {
+      "A": "Của cải vật chất",
+      "B": "Tư liệu sản xuất",
+      "C": "Sức lao động",
+      "D": "Công cụ lao động"
+    },
+    "dap_an_dung": "B",
+    "giai_thich": "Sở hữu tư liệu sản xuất (nhà xưởng, máy móc, nguyên liệu, đất đai...) là quan hệ kinh tế cốt lõi nhất, là cơ sở sinh ra các quan hệ bóc lột hoặc bình đẳng trong lịch sử."
+  },
+  {
+    "cau_hoi": "Theo chủ nghĩa duy vật lịch sử, trong xã hội có giai cấp:",
+    "phuong_an": {
+      "A": "Mọi giai cấp đều có quyền chi phối hệ tư tưởng như nhau",
+      "B": "Giai cấp bị trị luôn quyết định hệ tư tưởng tiến bộ",
+      "C": "Chỉ có giai cấp nắm quyền sở hữu tư liệu sản xuất chủ yếu mới có thể làm cho hệ tư tưởng của nó trở thành hệ tư tưởng thống trị trong toàn xã hội",
+      "D": "Hệ tư tưởng hoàn toàn độc lập với quyền sở hữu tư liệu sản xuất"
+    },
+    "dap_an_dung": "C",
+    "giai_thich": "Đây là biểu hiện của quy luật cơ sở hạ tầng quyết định kiến trúc thượng tầng. Giai cấp nào nắm giữ kinh tế (sở hữu TLSX) thì tự nhiên sẽ chi phối quyền lực nhà nước và nắm quyền áp đặt hệ tư tưởng của mình lên toàn xã hội."
+  },
+  {
+    "cau_hoi": "Theo quan điểm của chủ nghĩa duy vật tầm thường (kinh tế chủ nghĩa), yếu tố duy nhất quyết định sự phát triển của xã hội là:",
+    "phuong_an": {
+      "A": "Kinh tế",
+      "B": "Chính trị",
+      "C": "Tôn giáo",
+      "D": "Văn hóa"
+    },
+    "dap_an_dung": "A",
+    "giai_thich": "Chủ nghĩa duy vật tầm thường (hoặc chủ nghĩa kinh tế) phạm sai lầm khi tuyệt đối hóa yếu tố kinh tế, cho rằng kinh tế tự nó tự động quyết định mọi thứ mà bỏ qua tác động trở lại to lớn của chính trị, tư tưởng, văn hóa."
+  },
+  {
+    "cau_hoi": "Xét đến cùng nhân tố quyết định sự thắng lợi của một chế độ xã hội mới theo quan điểm của chủ nghĩa duy vật lịch sử là:",
+    "phuong_an": {
+      "A": "Sức mạnh quân sự",
+      "B": "Hệ tư tưởng và tôn giáo",
+      "C": "Năng suất lao động xã hội",
+      "D": "Số lượng dân cư"
+    },
+    "dap_an_dung": "C",
+    "giai_thich": "V.I. Lênin khẳng định: Năng suất lao động, xét đến cùng, là cái quan trọng nhất, chủ yếu nhất đảm bảo cho sự thắng lợi của một trật tự xã hội mới so với trật tự cũ."
+  },
+  {
+    "cau_hoi": "Điền cụm từ vào chỗ trống sau: Theo chủ nghĩa duy vật lịch sử, cơ sở hạ tầng là phương diện [...] của xã hội.",
+    "phuong_an": {
+      "A": "Kinh tế",
+      "B": "Chính trị",
+      "C": "Văn hóa",
+      "D": "Tư tưởng"
+    },
+    "dap_an_dung": "A",
+    "giai_thich": "Cơ sở hạ tầng là tổng hợp các quan hệ sản xuất hợp thành cơ cấu kinh tế của xã hội, do đó nó đại diện cho phương diện sinh hoạt kinh tế vật chất của xã hội đó."
+  },
+  {
+    "cau_hoi": "Điền cụm từ thích hợp vào chỗ trống sau: Quy luật quan hệ sản xuất phù hợp với trình độ phát triển của lực lượng sản xuất là [...] của sự vận động và phát triển xã hội.",
+    "phuong_an": {
+      "A": "Quy luật cơ bản nhất",
+      "B": "Quy luật thứ yếu",
+      "C": "Quy luật tự nhiên",
+      "D": "Quy luật ngẫu nhiên"
+    },
+    "dap_an_dung": "A",
+    "giai_thich": "Đây là quy luật xương sống, bao trùm nhất chi phối toàn bộ tiến trình lịch sử nhân loại, làm cho lịch sử chuyển từ hình thái kinh tế - xã hội này sang hình thái khác."
+  },
+  {
+    "cau_hoi": "Điền cụm từ thích hợp vào chỗ trống sau: Sự phù hợp giữa quan hệ sản xuất với trình độ phát triển của lực lượng sản xuất đòi hỏi tất yếu thiết lập [...] về tư liệu sản xuất chủ yếu.",
+    "phuong_an": {
+      "A": "Chế độ tư hữu",
+      "B": "Chế độ công hữu",
+      "C": "Chế độ hỗn hợp",
+      "D": "Chế độ tập trung"
+    },
+    "dap_an_dung": "B",
+    "giai_thich": "Khi lực lượng sản xuất đạt trình độ xã hội hóa cao độ (làm chung, quy mô lớn), nó đòi hỏi phá bỏ quan hệ sở hữu tư nhân nhỏ hẹp để thiết lập chế độ công hữu về tư liệu sản xuất (của chung) cho phù hợp."
+  },
+  {
+    "cau_hoi": "Điền cụm từ thích hợp vào chỗ trống sau: [...] là toàn bộ những quan hệ sản xuất của một xã hội trong sự vận động hiện thực của chúng hợp thành cơ cấu kinh tế của xã hội đó.",
+    "phuong_an": {
+      "A": "Cơ sở hạ tầng",
+      "B": "Kiến trúc thượng tầng",
+      "C": "Tồn tại xã hội",
+      "D": "Lực lượng sản xuất"
+    },
+    "dap_an_dung": "A",
+    "giai_thich": "Đây là định nghĩa chuẩn của Triết học Mác - Lênin về Cơ sở hạ tầng. Nó không phải là đường xá cầu cống, mà là các quan hệ kinh tế - sản xuất."
+  },
+  {
+    "cau_hoi": "Điền cụm từ thích hợp vào chỗ trống sau: Trong cơ sở hạ tầng, QHSX [...] đặc trưng cho cơ sở hạ tầng của xã hội đó.",
+    "phuong_an": {
+      "A": "Mầm mống",
+      "B": "Tàn dư",
+      "C": "Thống trị",
+      "D": "Hỗn hợp"
+    },
+    "dap_an_dung": "C",
+    "giai_thich": "Cơ sở hạ tầng có 3 loại QHSX: thống trị, tàn dư, và mầm mống. Trong đó, QHSX thống trị giữ vai trò chủ đạo, quy định tính chất, bản chất của toàn bộ nền kinh tế xã hội đó."
+  },
+  {
+    "cau_hoi": "Điền từ thích hợp vào chỗ trống: [...] là tổng thể các giai cấp và mối quan hệ giữa các giai cấp tồn tại trong một giai đoạn lịch sử nhất định.",
+    "phuong_an": {
+      "A": "Kiến trúc thượng tầng",
+      "B": "Hệ thống chính trị",
+      "C": "Kết cấu xã hội - giai cấp",
+      "D": "Cơ sở hạ tầng"
+    },
+    "dap_an_dung": "C",
+    "giai_thich": "Kết cấu xã hội - giai cấp bao gồm các giai cấp cơ bản (đại diện cho PTSX thống trị), các giai cấp không cơ bản, các tầng lớp trung gian và sự tác động qua lại giữa chúng."
+  },
+  {
+    "cau_hoi": "Điền từ thích hợp vào chỗ trống: Kết cấu xã hội - giai cấp là tổng thể các [...] và mối quan hệ giữa các [...] tồn tại trong một giai đoạn lịch sử nhất định.",
+    "phuong_an": {
+      "A": "Tầng lớp / tầng lớp",
+      "B": "Dân tộc / dân tộc",
+      "C": "Giai cấp / giai cấp",
+      "D": "Tập đoàn / tập đoàn"
+    },
+    "dap_an_dung": "C",
+    "giai_thich": "Giống như câu trên, cấu trúc này nhấn mạnh vào sự tồn tại và tương tác qua lại (đấu tranh hoặc liên minh) giữa các giai cấp trong xã hội."
+  },
+  {
+    "cau_hoi": "Chọn phương án đúng nhất: Theo chủ nghĩa duy vật lịch sử, tồn tại xã hội bao gồm những yếu tố:",
+    "phuong_an": {
+      "A": "Lực lượng sản xuất, quan hệ sản xuất và kiến trúc thượng tầng",
+      "B": "Cơ sở hạ tầng, giai cấp và nhà nước",
+      "C": "Phương thức sản xuất vật chất, điều kiện tự nhiên - hoàn cảnh địa lý, dân cư",
+      "D": "Đời sống vật chất và đời sống tinh thần"
+    },
+    "dap_an_dung": "C",
+    "giai_thich": "Tồn tại xã hội bao gồm 3 yếu tố cơ bản là hoàn cảnh tự nhiên, dân cư và phương thức sản xuất vật chất. Trong đó, phương thức sản xuất vật chất là yếu tố quan trọng và quyết định nhất."
+  },
+  {
+    "cau_hoi": "Theo chủ nghĩa duy vật lịch sử, chủ thể chân chính sáng tạo ra lịch sử là:",
+    "phuong_an": {
+      "A": "Các vĩ nhân, lãnh tụ",
+      "B": "Giai cấp thống trị",
+      "C": "Quần chúng nhân dân",
+      "D": "Tầng lớp tinh hoa, trí thức"
+    },
+    "dap_an_dung": "C",
+    "giai_thich": "Khác với quan điểm duy tâm đề cao cá nhân xuất chúng, chủ nghĩa duy vật lịch sử khẳng định quần chúng nhân dân là người trực tiếp sản xuất của cải, động lực của cách mạng và sáng tạo văn hóa, nên họ là người làm ra lịch sử."
+  },
+  {
+    "cau_hoi": "Theo chủ nghĩa duy vật lịch sử, nếu quan hệ sản xuất không phù hợp với trình độ phát triển của lực lượng sản xuất, thì...",
+    "phuong_an": {
+      "A": "Thúc đẩy lực lượng sản xuất phát triển mạnh mẽ",
+      "B": "Kìm hãm sự phát triển của lực lượng sản xuất",
+      "C": "Không có tác động gì đến nền kinh tế",
+      "D": "Lực lượng sản xuất sẽ tự động bị tiêu diệt"
+    },
+    "dap_an_dung": "B",
+    "giai_thich": "Khi LLSX đã tiến bộ (máy móc xịn) mà QHSX (cơ chế quản lý, sở hữu, trả lương) lại lạc hậu, lỗi thời thì nó sẽ trở thành 'xiềng xích', kìm hãm sự phát triển của máy móc và con người."
+  },
+  {
+    "cau_hoi": "Điền từ vào chỗ trống: Sản xuất vật chất là quá trình con người sử dụng [...] tác động vào tự nhiên, cải biến các dạng vật chất của giới tự nhiên nhằm tạo ra của cải vật chất thỏa mãn nhu cầu tồn tại và phát triển của con người.",
+    "phuong_an": {
+      "A": "Công cụ lao động",
+      "B": "Tư duy trừu tượng",
+      "C": "Ngôn ngữ",
+      "D": "Hệ thống pháp luật"
+    },
+    "dap_an_dung": "A",
+    "giai_thich": "Công cụ lao động là phương tiện vật chất trực tiếp mà con người dùng để nối dài giác quan và sức mạnh của mình, tác động vào đối tượng lao động (tự nhiên)."
+  },
+  {
+    "cau_hoi": "Sản xuất xã hội bao gồm:",
+    "phuong_an": {
+      "A": "Sản xuất vật chất",
+      "B": "Sản xuất tinh thần",
+      "C": "Sản xuất ra bản thân con người",
+      "D": "Cả A, B, C"
+    },
+    "dap_an_dung": "D",
+    "giai_thich": "Hoạt động tồn tại của xã hội loài người luôn là sự đan xen của 3 quá trình: làm ra của cải (vật chất), làm ra tri thức/văn hóa (tinh thần) và duy trì nòi giống (bản thân con người)."
+  },
+  {
+    "cau_hoi": "Trong quan hệ sản xuất, quan hệ nào giữ vai trò quyết định?",
+    "phuong_an": {
+      "A": "Quan hệ tổ chức và quản lý",
+      "B": "Quan hệ sở hữu tư liệu sản xuất",
+      "C": "Quan hệ phân phối sản phẩm",
+      "D": "Quan hệ trao đổi và tiêu dùng"
+    },
+    "dap_an_dung": "B",
+    "giai_thich": "Quyền sở hữu đối với tư liệu sản xuất (nhà máy, ruộng đất, máy móc) sẽ quyết định ai là người có quyền tổ chức quản lý và ai là người được hưởng phần lớn sản phẩm phân phối."
+  },
+  {
+    "cau_hoi": "Điền từ vào chỗ trống: [...] là tổng hợp các quan hệ kinh tế - vật chất giữa người với người trong quá trình sản xuất vật chất.",
+    "phuong_an": {
+      "A": "Lực lượng sản xuất",
+      "B": "Quan hệ sản xuất",
+      "C": "Cơ sở hạ tầng",
+      "D": "Kiến trúc thượng tầng"
+    },
+    "dap_an_dung": "B",
+    "giai_thich": "Trong quá trình sản xuất con người bắt buộc phải liên kết với nhau. Những mối liên hệ về mặt kinh tế hình thành giữa họ chính là khái niệm Quan hệ sản xuất."
+  },
+  {
+    "cau_hoi": "Điền từ vào chỗ trống: Sản xuất vật chất là quá trình con người sử dụng [...] tác động vào tự nhiên, cải biến các dạng vật chất của giới tự nhiên nhằm tạo ra của cải vật chất thỏa mãn nhu cầu tồn tại và phát triển của con người. (Lặp lại)",
+    "phuong_an": {
+      "A": "Công cụ lao động",
+      "B": "Trí tuệ nhân tạo",
+      "C": "Thực nghiệm khoa học",
+      "D": "Kinh nghiệm thực tiễn"
+    },
+    "dap_an_dung": "A",
+    "giai_thich": "Như đã phân tích ở trên, công cụ lao động là thành phần cấu thành trọng yếu nhất giúp con người cải biến tự nhiên."
+  },
+  {
+    "cau_hoi": "Sản xuất xã hội bao gồm: (Lặp lại)",
+    "phuong_an": {
+      "A": "Sản xuất vật chất",
+      "B": "Sản xuất tinh thần",
+      "C": "Sản xuất ra bản thân con người",
+      "D": "Cả A, B, C"
+    },
+    "dap_an_dung": "D",
+    "giai_thich": "Cả 3 loại hình sản xuất này không thể thiếu và luôn tồn tại đồng thời, làm tiền đề cho nhau trong lịch sử tiến hóa nhân loại."
+  },
+  {
+    "cau_hoi": "Điền thuật ngữ thích hợp vào chỗ trống: Lực lượng sản xuất là sự kết hợp giữa [...] tạo ra sức sản xuất và năng lực thực tiễn làm biến đổi các đối tượng vật chất của giới tự nhiên theo nhu cầu nhất định của con người và xã hội.",
+    "phuong_an": {
+      "A": "Người lao động với tư liệu sản xuất",
+      "B": "Công cụ lao động với đối tượng lao động",
+      "C": "Khoa học công nghệ với tư liệu lao động",
+      "D": "Cơ sở hạ tầng với kiến trúc thượng tầng"
+    },
+    "dap_an_dung": "A",
+    "giai_thich": "Người lao động (nhân tố con người) kết hợp với tư liệu sản xuất (nhân tố vật chất) chính là cấu trúc cơ bản tạo nên Lực lượng sản xuất."
+  },
+  {
+    "cau_hoi": "Điền từ thích hợp vào chỗ trống: [...] là điều kiện vật chất cần thiết để tổ chức sản xuất, bao gồm tư liệu lao động và đối tượng lao động.",
+    "phuong_an": {
+      "A": "Công cụ lao động",
+      "B": "Tư liệu sản xuất",
+      "C": "Lực lượng sản xuất",
+      "D": "Phương thức sản xuất"
+    },
+    "dap_an_dung": "B",
+    "giai_thich": "Tư liệu sản xuất là phần vật chất khách quan của LLSX, nó chứa đối tượng lao động (vật bị tác động) và tư liệu lao động (vật dùng để tác động)."
+  },
+  {
+    "cau_hoi": "Điền từ thích hợp vào chỗ trống: [...] là những yếu tố vật chất của sản xuất mà lao động con người dùng tư liệu lao động tác động lên, nhằm biến đổi chúng cho phù hợp với mục đích sử dụng của con người.",
+    "phuong_an": {
+      "A": "Đối tượng lao động",
+      "B": "Tư liệu lao động",
+      "C": "Công cụ lao động",
+      "D": "Sản phẩm lao động"
+    },
+    "dap_an_dung": "A",
+    "giai_thich": "Đối tượng lao động có thể là cái có sẵn trong tự nhiên (như than đá, gỗ rừng) hoặc cái đã qua chế biến (như sợi bông, quặng đã lọc)."
+  },
+  {
+    "cau_hoi": "Điền từ thích hợp vào chỗ trống: [...] là những phương tiện vật chất mà con người trực tiếp sử dụng để tác động vào đối tượng lao động nhằm biến đổi chúng nhằm tạo ra của cải vật chất phục vụ nhu cầu con người và xã hội.",
+    "phuong_an": {
+      "A": "Đối tượng lao động",
+      "B": "Công cụ lao động",
+      "C": "Sức lao động",
+      "D": "Tư liệu tiêu dùng"
+    },
+    "dap_an_dung": "B",
+    "giai_thich": "Công cụ lao động (búa, máy móc, robot...) là yếu tố động nhất và mang tính cách mạng nhất trong lực lượng sản xuất."
+  },
+  {
+    "cau_hoi": "Điền từ thích hợp vào chỗ trống: Tính chất của lực lượng sản xuất nói lên tính chất cá nhân hoặc tính chất xã hội hóa trong việc sử dụng [...]",
+    "phuong_an": {
+      "A": "Sản phẩm lao động",
+      "B": "Tư liệu sản xuất",
+      "C": "Sức lao động",
+      "D": "Tiền vốn"
+    },
+    "dap_an_dung": "B",
+    "giai_thich": "Tính chất của LLSX phản ánh việc sử dụng tư liệu sản xuất do cá nhân thực hiện độc lập (như thợ thủ công) hay mang tính chất quần thể, xã hội hóa cao (dây chuyền nhà máy hiện đại)."
+  },
+   {
+    "cau_hoi": "Điền từ thích hợp vào chỗ trống: Quan hệ sản xuất là tổng hợp các [...] giữa người với người trong quá trình sản xuất vật chất.",
+    "phuong_an": {
+      "A": "Quan hệ sở hữu tư nhân",
+      "B": "Quan hệ chính trị - xã hội",
+      "C": "Quan hệ kinh tế - vật chất",
+      "D": "Quan hệ tổ chức quản lý"
+    },
+    "dap_an_dung": "C",
+    "giai_thich": "Trong quá trình lao động sản xuất, con người bắt buộc phải thiết lập các quan hệ kinh tế - vật chất với nhau (sở hữu, quản lý, phân phối). Tổng hợp các quan hệ đó lại tạo thành quan hệ sản xuất."
+  },
+  {
+    "cau_hoi": "Theo C. Mác, sự phát triển của các hình thái kinh tế - xã hội là một quá trình lịch sử - tự nhiên. Nghĩa là:",
+    "phuong_an": {
+      "A": "Sự phát triển của xã hội tuân theo ý muốn chủ quan của con người",
+      "B": "Sự phát triển của xã hội hoàn toàn giống với tiến hóa sinh học",
+      "C": "Sự phát triển của xã hội do các lực lượng siêu nhiên an bài",
+      "D": "Sự phát triển của lịch sử nhân loại về cơ bản chịu sự tác động của các quy luật khách quan"
+    },
+    "dap_an_dung": "D",
+    "giai_thich": "C. Mác khẳng định sự thay thế các hình thái KTXH tuân theo các quy luật khách quan (như quy luật QHSX phù hợp với LLSX), diễn ra một cách tất yếu chứ không phụ thuộc vào ý muốn chủ quan của con người."
+  },
+  {
+    "cau_hoi": "Sự thay đổi của kiến trúc thượng tầng chỉ có nguyên nhân duy nhất từ sự thay đổi của cơ sở hạ tầng. Ý kiến đó ĐÚNG hay SAI? Vì sao?",
+    "phuong_an": {
+      "A": "Đúng, vì cơ sở hạ tầng quyết định hoàn toàn kiến trúc thượng tầng",
+      "B": "Đúng, vì kiến trúc thượng tầng không có khả năng tự biến đổi",
+      "C": "Sai, vì kiến trúc thượng tầng quyết định cơ sở hạ tầng",
+      "D": "Sai, vì dù cơ sở hạ tầng quyết định kiến trúc thượng tầng nhưng kiến trúc thượng tầng có tính độc lập tương đối"
+    },
+    "dap_an_dung": "D",
+    "giai_thich": "Kiến trúc thượng tầng có tính độc lập tương đối, nó không chỉ biến đổi do cơ sở hạ tầng mà còn biến đổi do sự tác động qua lại giữa các yếu tố bên trong bản thân nó (như chính trị tác động đến pháp luật, đạo đức...)."
+  },
+  {
+    "cau_hoi": "Mâu thuẫn đối kháng giữa các giai cấp là do...",
+    "phuong_an": {
+      "A": "Sự khác biệt về tư tưởng, tôn giáo",
+      "B": "Sự đối lập về lợi ích cơ bản - lợi ích kinh tế",
+      "C": "Sự phân biệt về màu da, chủng tộc",
+      "D": "Sự khác nhau về trình độ học vấn"
+    },
+    "dap_an_dung": "B",
+    "giai_thich": "Nguồn gốc sâu xa nhất sinh ra đấu tranh giai cấp luôn là sự xung đột gay gắt về lợi ích kinh tế (một bên muốn bóc lột nhiều hơn, một bên muốn thoát khỏi sự bóc lột)."
+  },
+  {
+    "cau_hoi": "Theo chủ nghĩa duy vật lịch sử, giai cấp nắm giữ quyền lực nhà nước là giai cấp:",
+    "phuong_an": {
+      "A": "Nắm giữ sức mạnh quân sự",
+      "B": "Chiếm số đông trong xã hội",
+      "C": "Có trình độ tri thức cao nhất",
+      "D": "Nắm giữ tư liệu sản xuất chủ yếu của xã hội"
+    },
+    "dap_an_dung": "D",
+    "giai_thich": "Theo quy luật cơ sở hạ tầng quyết định kiến trúc thượng tầng, giai cấp nào thống trị về mặt kinh tế (nắm tư liệu sản xuất) thì tự nhiên sẽ chi phối quyền lực chính trị (nắm nhà nước)."
+  },
+  {
+    "cau_hoi": "Điền từ thích hợp vào chỗ trống: [...] về tư liệu sản xuất là quan hệ giữa các tập đoàn người trong việc chiếm hữu, sử dụng các tư liệu sản xuất xã hội.",
+    "phuong_an": {
+      "A": "Quan hệ sở hữu",
+      "B": "Quan hệ quản lý",
+      "C": "Quan hệ phân phối",
+      "D": "Quan hệ tiêu dùng"
+    },
+    "dap_an_dung": "A",
+    "giai_thich": "Quan hệ sở hữu là việc xác định ai là chủ của tài sản (máy móc, đất đai, xưởng thợ). Đây là mối quan hệ đóng vai trò hạt nhân, quyết định các mặt khác của quan hệ sản xuất."
+  },
+  {
+    "cau_hoi": "Vai trò của đấu tranh giai cấp trong lịch sử nhân loại?",
+    "phuong_an": {
+      "A": "Kìm hãm sự phát triển của các lực lượng sản xuất",
+      "B": "Là một động lực quan trọng của sự phát triển xã hội trong các xã hội có giai cấp",
+      "C": "Chỉ dẫn đến chiến tranh và tàn phá",
+      "D": "Xóa bỏ hoàn toàn cơ sở hạ tầng"
+    },
+    "dap_an_dung": "B",
+    "giai_thich": "Trong các xã hội có giai cấp đối kháng, đấu tranh giai cấp (đỉnh cao là cách mạng xã hội) là phương thức tất yếu để đập tan quan hệ sản xuất cũ, giải phóng lực lượng sản xuất, đẩy lịch sử tiến lên."
+  },
+  {
+    "cau_hoi": "Chọn phương án đúng nhất để điền từ thích hợp vào chỗ trống: Quan hệ sở hữu về [...] là quan hệ giữa các tập đoàn người trong việc chiếm hữu, sử dụng các tư liệu sản xuất xã hội.",
+    "phuong_an": {
+      "A": "Sức lao động",
+      "B": "Tư liệu sản xuất",
+      "C": "Của cải xã hội",
+      "D": "Công cụ lao động"
+    },
+    "dap_an_dung": "B",
+    "giai_thich": "Quan hệ sở hữu tư liệu sản xuất (nhà máy, hầm mỏ, đất đai...) chính là yếu tố làm nảy sinh sự phân hóa giàu - nghèo và bóc lột giai cấp."
+  },
+  {
+    "cau_hoi": "Theo chủ nghĩa duy vật lịch sử, trong xã hội có giai cấp:",
+    "phuong_an": {
+      "A": "Hệ tư tưởng của các giai cấp bình đẳng với nhau",
+      "B": "Giai cấp bị trị luôn quyết định hệ tư tưởng",
+      "C": "Chỉ có giai cấp nắm quyền sở hữu tư liệu sản xuất chủ yếu mới có thể làm cho hệ tư tưởng của nó trở thành hệ tư tưởng thống trị trong toàn xã hội",
+      "D": "Tôn giáo đóng vai trò quyết định hệ tư tưởng"
+    },
+    "dap_an_dung": "C",
+    "giai_thich": "C. Mác khẳng định: 'Những tư tưởng thống trị của một thời đại bao giờ cũng chỉ là những tư tưởng của giai cấp thống trị'. Giai cấp nắm kinh tế sẽ dùng nhà nước để truyền bá hệ tư tưởng của mình."
+  },
+  {
+    "cau_hoi": "Theo quan điểm của chủ nghĩa duy vật tầm thường, yếu tố duy nhất quyết định sự phát triển của xã hội là:",
+    "phuong_an": {
+      "A": "Kinh tế",
+      "B": "Đạo đức",
+      "C": "Chính trị",
+      "D": "Văn hóa"
+    },
+    "dap_an_dung": "A",
+    "giai_thich": "Chủ nghĩa duy vật tầm thường (kinh tế chủ nghĩa) sai lầm ở chỗ họ tuyệt đối hóa kinh tế, coi nó là cái duy nhất tự động biến đổi xã hội mà phủ nhận vai trò của chính trị và ý thức con người."
+  },
+  {
+    "cau_hoi": "Xét đến cùng nhân tố quyết định sự thắng lợi của một chế độ xã hội mới theo quan điểm của chủ nghĩa duy vật lịch sử là:",
+    "phuong_an": {
+      "A": "Lực lượng vũ trang mạnh",
+      "B": "Hệ thống pháp luật chặt chẽ",
+      "C": "Năng suất lao động xã hội",
+      "D": "Quy mô dân số đông"
+    },
+    "dap_an_dung": "C",
+    "giai_thich": "V.I. Lênin từng nhấn mạnh, chủ nghĩa tư bản thắng phong kiến nhờ năng suất lao động cao hơn, và chủ nghĩa xã hội cũng sẽ thắng chủ nghĩa tư bản bằng cách tạo ra một năng suất lao động mới cao hơn hẳn."
+  },
+  {
+    "cau_hoi": "Khái niệm nào sau đây được dùng để chỉ một cộng đồng người ổn định được hình thành trong lịch sử trong một lãnh thổ nhất định, có chung mối liên hệ về kinh tế, ngôn ngữ và một nền văn hóa?",
+    "phuong_an": {
+      "A": "Bộ lạc",
+      "B": "Dân tộc",
+      "C": "Bộ tộc",
+      "D": "Thị tộc"
+    },
+    "dap_an_dung": "B",
+    "giai_thich": "Dân tộc là hình thái tổ chức cộng đồng người phát triển cao nhất, hội đủ 4 đặc trưng cốt lõi: chung lãnh thổ, chung kinh tế, chung ngôn ngữ và chung văn hóa/tâm lý."
+  },
+  {
+    "cau_hoi": "Theo chủ nghĩa duy vật lịch sử, sự phân chia giai cấp có nguồn gốc trực tiếp từ:",
+    "phuong_an": {
+      "A": "Chế độ chiếm hữu tư nhân về tư liệu sản xuất",
+      "B": "Sự phát triển của phân công lao động xã hội",
+      "C": "Chiến tranh và bạo lực",
+      "D": "Sự khác biệt về trí tuệ"
+    },
+    "dap_an_dung": "A",
+    "giai_thich": "Sự phát triển của lực lượng sản xuất sinh ra của cải dư thừa (nguồn gốc sâu xa), từ đó xuất hiện sự chiếm đoạt của công thành của tư (nguồn gốc trực tiếp), làm xã hội chia tách thành kẻ giàu - người nghèo (giai cấp)."
+  },
+  {
+    "cau_hoi": "Chọn phương án đúng nhất để điền từ thích hợp vào chỗ trống: [...] là quan hệ giữa các tập đoàn người trong việc tổ chức sản xuất và phân công lao động.",
+    "phuong_an": {
+      "A": "Quan hệ sở hữu",
+      "B": "Quan hệ tổ chức, quản lý",
+      "C": "Quan hệ phân phối",
+      "D": "Quan hệ tiêu dùng"
+    },
+    "dap_an_dung": "B",
+    "giai_thich": "Đây là mặt thứ hai của quan hệ sản xuất, nó biểu hiện cách thức con người phân công lao động, quản lý điều hành lẫn nhau trong môi trường sản xuất."
+  },
+  {
+    "cau_hoi": "Chọn phương án đúng nhất để điền từ thích hợp vào chỗ trống: [...] là quan hệ giữa các tập đoàn người trong việc phân phối sản phẩm lao động xã hội, nói lên cách thức và quy mô của cải vật chất mà các tập đoàn người được hưởng.",
+    "phuong_an": {
+      "A": "Quan hệ về phân phối sản phẩm lao động",
+      "B": "Quan hệ tổ chức, quản lý",
+      "C": "Quan hệ trao đổi hàng hóa",
+      "D": "Quan hệ sở hữu tư liệu sản xuất"
+    },
+    "dap_an_dung": "A",
+    "giai_thich": "Đây là mặt thứ ba của quan hệ sản xuất. Tùy thuộc vào việc anh nắm giữ tài sản (sở hữu) như thế nào mà anh sẽ được chia phần (phân phối) nhiều hay ít."
+  },
+  {
+    "cau_hoi": "Chọn phương án SAI: Theo chủ nghĩa duy vật lịch sử, nhà nước...",
+    "phuong_an": {
+      "A": "Ra đời cùng sự xuất hiện của con người",
+      "B": "Là bộ máy trấn áp của một giai cấp",
+      "C": "Là một hiện tượng mang tính lịch sử",
+      "D": "Sẽ tự tiêu vong khi không còn giai cấp"
+    },
+    "dap_an_dung": "A",
+    "giai_thich": "Khẳng định A là sai. Nhà nước là một hiện tượng lịch sử, nó không tồn tại mãi mãi. Thời kỳ cộng sản nguyên thủy con người đã xuất hiện nhưng hoàn toàn chưa có nhà nước."
+  },
+  {
+    "cau_hoi": "Điền cụm từ thích hợp vào chỗ trống sau: Lực lượng sản xuất là tổng hợp các yếu tố [...] tạo thành sức mạnh thực tiễn cải biến giới tự nhiên theo nhu cầu sinh tồn, phát triển của con người.",
+    "phuong_an": {
+      "A": "Tự nhiên và xã hội",
+      "B": "Vật chất/khoa học và tinh thần",
+      "C": "Sinh học và tâm lý",
+      "D": "Kinh tế và chính trị"
+    },
+    "dap_an_dung": "B",
+    "giai_thich": "Lực lượng sản xuất là sự kết hợp của tư liệu sản xuất (vật chất/công nghệ) và người lao động mang trong mình kỹ năng, tri thức (tinh thần)."
+  },
+  {
+    "cau_hoi": "Điền cụm từ vào chỗ trống sau: Theo chủ nghĩa duy vật lịch sử, cơ sở hạ tầng là phương diện [...] của xã hội.",
+    "phuong_an": {
+      "A": "Kinh tế",
+      "B": "Chính trị",
+      "C": "Văn hóa",
+      "D": "Đạo đức"
+    },
+    "dap_an_dung": "A",
+    "giai_thich": "Vì cơ sở hạ tầng là toàn bộ các quan hệ sản xuất (quan hệ kinh tế - vật chất), do đó nó đại diện cho 'cái nền' kinh tế của xã hội đó."
+  },
+  {
+    "cau_hoi": "Điền cụm từ thích hợp vào chỗ trống sau: Quy luật quan hệ sản xuất phù hợp với trình độ phát triển của lực lượng sản xuất là [...] của sự vận động và phát triển xã hội.",
+    "phuong_an": {
+      "A": "Quy luật cơ bản nhất",
+      "B": "Quy luật thứ yếu",
+      "C": "Quy luật ngẫu nhiên",
+      "D": "Quy luật chủ quan"
+    },
+    "dap_an_dung": "A",
+    "giai_thich": "Đây là quy luật xương sống, là nguyên nhân sâu xa nhất làm sụp đổ các xã hội lỗi thời và thay thế chúng bằng những thời đại kinh tế tiến bộ hơn."
+  },
+  {
+    "cau_hoi": "Điền cụm từ thích hợp vào chỗ trống sau: Sự phù hợp giữa quan hệ sản xuất với trình độ phát triển của lực lượng sản xuất đòi hỏi tất yếu thiết lập [...] về tư liệu sản xuất chủ yếu.",
+    "phuong_an": {
+      "A": "Chế độ tư hữu",
+      "B": "Chế độ công hữu",
+      "C": "Chế độ tập trung",
+      "D": "Chế độ phân tán"
+    },
+    "dap_an_dung": "B",
+    "giai_thich": "Khi lực lượng sản xuất (máy móc, nhà máy) phát triển và mang tính xã hội hóa cao, nó tất yếu đòi hỏi phải phá bỏ rào cản của sở hữu tư nhân để thiết lập sở hữu chung (công hữu) cho phù hợp."
+  },
+  {
+    "cau_hoi": "Theo chủ nghĩa duy vật lịch sử, cách mạng xã hội giữ vai trò là một trong những [...] của sự phát triển xã hội.",
+    "phuong_an": {
+      "A": "Hệ quả tiêu cực",
+      "B": "Phương thức, động lực",
+      "C": "Yếu tố kìm hãm",
+      "D": "Quá trình tự phát"
+    },
+    "dap_an_dung": "B",
+    "giai_thich": "Mác gọi 'Cách mạng là đầu tàu của lịch sử'. Nó đóng vai trò là phương thức (đập tan cái cũ) và là động lực để thúc đẩy xã hội bước sang một hình thái mới tiến bộ hơn."
+  },
+  {
+    "cau_hoi": "Điền cụm từ đúng nhất: Theo nghĩa hẹp, [...] là việc lật đổ một chế độ chính trị đã lỗi thời và thiết lập một chế độ chính trị tiến bộ hơn của giai cấp cách mạng.",
+    "phuong_an": {
+      "A": "Cách mạng xã hội",
+      "B": "Tiến hóa xã hội",
+      "C": "Cải cách kinh tế",
+      "D": "Đảo chính quân sự"
+    },
+    "dap_an_dung": "A",
+    "giai_thich": "Về mặt chính trị, thực chất của cách mạng xã hội là sự kiện một giai cấp tiến bộ dùng bạo lực đập tan bộ máy nhà nước cũ để giành lấy quyền lực chính trị."
+  },
+  {
+    "cau_hoi": "Theo chủ nghĩa duy vật lịch sử: Yếu tố nào sau đây KHÔNG thuộc cấu trúc của hình thái kinh tế - xã hội?",
+    "phuong_an": {
+      "A": "Lực lượng sản xuất",
+      "B": "Quan hệ sản xuất",
+      "C": "Kiến trúc thượng tầng",
+      "D": "Điều kiện tự nhiên"
+    },
+    "dap_an_dung": "D",
+    "giai_thich": "Cấu trúc của một hình thái kinh tế - xã hội chỉ bao gồm 3 yếu tố cốt lõi: LLSX, QHSX (Cơ sở hạ tầng) và Kiến trúc thượng tầng. Điều kiện tự nhiên thuộc về phạm trù 'Tồn tại xã hội'."
+  },
+  {
+    "cau_hoi": "Điền cụm từ thích hợp vào chỗ trống sau: [...] là toàn bộ những quan hệ sản xuất của một xã hội trong sự vận động hiện thực của chúng hợp thành cơ cấu kinh tế của xã hội đó.",
+    "phuong_an": {
+      "A": "Cơ sở hạ tầng",
+      "B": "Lực lượng sản xuất",
+      "C": "Kiến trúc thượng tầng",
+      "D": "Tồn tại xã hội"
+    },
+    "dap_an_dung": "A",
+    "giai_thich": "Đây là định nghĩa kinh điển của Cơ sở hạ tầng trong học thuyết Mác. Nó nhấn mạnh vào cơ cấu kinh tế được dệt nên từ các quan hệ sản xuất."
+  },
+  {
+    "cau_hoi": "Điền cụm từ thích hợp vào chỗ trống sau: Trong cơ sở hạ tầng, quan hệ sản xuất [...] đặc trưng cho cơ sở hạ tầng của xã hội đó.",
+    "phuong_an": {
+      "A": "Tàn dư",
+      "B": "Mầm mống",
+      "C": "Thống trị",
+      "D": "Quá độ"
+    },
+    "dap_an_dung": "C",
+    "giai_thich": "Cơ sở hạ tầng gồm QHSX thống trị, QHSX tàn dư và mầm mống. Nhưng chỉ có QHSX thống trị mới đóng vai trò chi phối và quyết định bản chất của chế độ xã hội đó."
+  },
+  {
+    "cau_hoi": "Chọn phương án đúng nhất: Xuất phát từ cơ sở lý luận nào của chủ nghĩa Mác - Lênin, Đảng Cộng sản Việt Nam khẳng định: Việt Nam thực hiện quá độ lên chủ nghĩa xã hội bỏ qua chế độ tư bản chủ nghĩa?",
+    "phuong_an": {
+      "A": "Học thuyết về giai cấp và đấu tranh giai cấp",
+      "B": "Học thuyết về nhà nước",
+      "C": "Học thuyết hình thái kinh tế - xã hội",
+      "D": "Lý luận nhận thức"
+    },
+    "dap_an_dung": "C",
+    "giai_thich": "Lý luận này khẳng định sự tiến hóa của lịch sử mang tính tất yếu nhưng cũng thừa nhận sự phát triển bỏ qua một vài giai đoạn trong những hoàn cảnh đặc thù, làm cơ sở khoa học cho công cuộc xây dựng CNXH tại Việt Nam."
+  },
+  {
+    "cau_hoi": "Điền cụm từ đúng vào những chỗ trống sau: Khái niệm ý thức xã hội dùng để chỉ phương diện sinh hoạt tinh thần của xã hội, nảy sinh từ [...] và phản ánh [...] trong những giai đoạn phát triển nhất định.",
+    "phuong_an": {
+      "A": "Nhận thức cá nhân / nhận thức cá nhân",
+      "B": "Thực tiễn / thực tiễn",
+      "C": "Thế giới quan / thế giới quan",
+      "D": "Tồn tại xã hội / tồn tại xã hội"
+    },
+    "dap_an_dung": "D",
+    "giai_thich": "Mối quan hệ giữa Tồn tại xã hội và Ý thức xã hội là mối quan hệ giữa vật chất và ý thức phiên bản xã hội học. Tồn tại xã hội sinh ra và quyết định nội dung của ý thức xã hội."
+  },
+  {
+    "cau_hoi": "Điền cụm từ đúng: Khái niệm [...] dùng để chỉ toàn bộ những tri thức, những quan niệm của những con người trong một cộng đồng người nhất định, được hình thành trực tiếp từ hoạt động thực tiễn hằng ngày, chưa được hệ thống hóa, khái quát hóa thành lí luận.",
+    "phuong_an": {
+      "A": "Ý thức lí luận",
+      "B": "Hệ tư tưởng",
+      "C": "Ý thức xã hội thông thường",
+      "D": "Tâm lý xã hội"
+    },
+    "dap_an_dung": "C",
+    "giai_thich": "Ý thức xã hội thông thường là những kinh nghiệm, tri thức rời rạc, cảm tính sinh ra từ đời sống hàng ngày của người dân (như ca dao, tục ngữ, kinh nghiệm sản xuất)."
+  },
+  {
+    "cau_hoi": "Điền cụm từ đúng: Khái niệm [...] là những tư tưởng, quan điểm đã được hệ thống hóa, khái quát hóa thành các học thuyết xã hội, được trình bày dưới dạng những khái niệm, phạm trù, quy luật.",
+    "phuong_an": {
+      "A": "Ý thức lí luận",
+      "B": "Ý thức xã hội thông thường",
+      "C": "Tâm lý xã hội",
+      "D": "Phong tục tập quán"
+    },
+    "dap_an_dung": "A",
+    "giai_thich": "Khác với ý thức thông thường, ý thức lý luận đòi hỏi sự khái quát hóa ở trình độ cao thông qua tư duy logic, do các nhà tư tưởng, triết gia xây dựng thành học thuyết."
+  },
+  {
+    "cau_hoi": "Theo chủ nghĩa duy vật lịch sử: Sự ra đời và tồn tại của Nhà nước nhằm...",
+    "phuong_an": {
+      "A": "Giải quyết triệt để mọi mâu thuẫn trong xã hội",
+      "B": "Thể hiện ý chí của toàn thể nhân dân",
+      "C": "Xóa bỏ sự phân chia giai cấp",
+      "D": "Bảo vệ trật tự xã hội theo ý chí và lợi ích của giai cấp thống trị kinh tế"
+    },
+    "dap_an_dung": "D",
+    "giai_thich": "Bản chất của nhà nước trong xã hội có giai cấp là công cụ bạo lực được giai cấp cầm quyền tạo ra nhằm đàn áp các giai cấp khác, duy trì ách bóc lột và bảo vệ trật tự kinh tế hiện hành."
+  },
+   {
+    "cau_hoi": "Theo chủ nghĩa duy vật lịch sử, bộ máy tổ chức quyền lực và thực thi quyền lực đặc biệt của xã hội trong điều kiện xã hội có đối kháng giai cấp là...",
+    "phuong_an": {
+      "A": "Các đảng phái chính trị",
+      "B": "Hệ thống tôn giáo",
+      "C": "Các tổ chức phi chính phủ",
+      "D": "Nhà nước"
+    },
+    "dap_an_dung": "D",
+    "giai_thich": "Nhà nước ra đời trong điều kiện xã hội phân chia giai cấp, là bộ máy bạo lực đặc biệt do giai cấp thống trị lập ra để thực thi quyền lực và bảo vệ lợi ích của mình."
+  },
+  {
+    "cau_hoi": "Nhà nước đầu tiên trong lịch sử là kiểu nhà nước nào?",
+    "phuong_an": {
+      "A": "Nhà nước phong kiến",
+      "B": "Nhà nước chủ nô",
+      "C": "Nhà nước tư sản",
+      "D": "Nhà nước vô sản"
+    },
+    "dap_an_dung": "B",
+    "giai_thich": "Trong tiến trình lịch sử, chế độ chiếm hữu nô lệ là chế độ đầu tiên có giai cấp đối kháng, do đó nhà nước chủ nô là kiểu nhà nước đầu tiên xuất hiện trong lịch sử nhân loại."
+  },
+  {
+    "cau_hoi": "Theo chủ nghĩa duy vật lịch sử, nguyên nhân sâu xa của sự phát triển của các hình thái kinh tế - xã hội trong lịch sử là:",
+    "phuong_an": {
+      "A": "Sự phát triển của kiến trúc thượng tầng",
+      "B": "Sự phát triển của quan hệ sản xuất",
+      "C": "Sự phát triển của lực lượng sản xuất",
+      "D": "Sự mở rộng giao lưu quốc tế"
+    },
+    "dap_an_dung": "C",
+    "giai_thich": "Sự phát triển của lực lượng sản xuất (công cụ lao động và kỹ năng con người) là nguyên nhân sâu xa, là yếu tố động nhất thúc đẩy sự thay đổi của quan hệ sản xuất, từ đó làm thay đổi toàn bộ hình thái kinh tế - xã hội."
+  },
+  {
+    "cau_hoi": "Chọn câu trả lời đúng nhất: Ý thức xã hội lạc hậu so với tồn tại xã hội thể hiện rõ rệt nhất trong:",
+    "phuong_an": {
+      "A": "Sự phát triển của khoa học kỹ thuật",
+      "B": "Sự tác động trở lại của ý thức xã hội đối với tồn tại xã hội",
+      "C": "Sự bảo thủ của tâm lý xã hội và thói quen, truyền thống",
+      "D": "Sự vươn lên của hệ tư tưởng mới"
+    },
+    "dap_an_dung": "B",
+    "giai_thich": "Tính độc lập tương đối của ý thức xã hội thể hiện ở việc nó có thể lạc hậu, có thể vượt trước và đặc biệt là sức mạnh tác động trở lại mạnh mẽ đối với tồn tại xã hội (kinh tế)."
+  },
+  {
+    "cau_hoi": "Chọn câu trả lời đúng nhất: [...] của con người là một trong những yếu tố của tồn tại xã hội.",
+    "phuong_an": {
+      "A": "Năng lực tư duy",
+      "B": "Địa vị xã hội",
+      "C": "Đời sống tâm lý",
+      "D": "Hệ tư tưởng"
+    },
+    "dap_an_dung": "B",
+    "giai_thich": "Địa vị xã hội, đặc biệt là địa vị trong hệ thống quan hệ sản xuất, là yếu tố thuộc về điều kiện sinh hoạt vật chất, tồn tại xã hội của cá nhân và giai cấp."
+  },
+  {
+    "cau_hoi": "Điền cụm từ thích hợp vào chỗ trống sau: [...] là hình thái ý thức xã hội biểu hiện sự đánh giá của xã hội đối với hành vi của con người trong quan hệ với cộng đồng.",
+    "phuong_an": {
+      "A": "Đạo đức",
+      "B": "Tôn giáo",
+      "C": "Pháp quyền",
+      "D": "Nghệ thuật"
+    },
+    "dap_an_dung": "A",
+    "giai_thich": "Đạo đức phản ánh những quy tắc, chuẩn mực ứng xử nhằm điều chỉnh và đánh giá hành vi của con người trong các mối quan hệ xã hội (tốt - xấu, thiện - ác)."
+  },
+  {
+    "cau_hoi": "Điền từ vào chỗ trống: Sự phát triển của các hình thái kinh tế - xã hội là một quá trình lịch sử [...] và không thể [...].",
+    "phuong_an": {
+      "A": "khách quan / thay đổi",
+      "B": "chủ quan / tránh khỏi",
+      "C": "tự nhiên / khác",
+      "D": "tất yếu / đảo ngược"
+    },
+    "dap_an_dung": "C",
+    "giai_thich": "C. Mác coi sự phát triển của các hình thái kinh tế - xã hội là một quá trình lịch sử - tự nhiên, tức là tuân theo các quy luật khách quan tất yếu và không thể khác đi được do ý muốn chủ quan."
+  },
+  {
+    "cau_hoi": "Trong học thuyết về hình thái kinh tế - xã hội, yếu tố nào là yếu tố động nhất, cách mạng nhất?",
+    "phuong_an": {
+      "A": "Lực lượng sản xuất",
+      "B": "Quan hệ sản xuất",
+      "C": "Cơ sở hạ tầng",
+      "D": "Kiến trúc thượng tầng"
+    },
+    "dap_an_dung": "A",
+    "giai_thich": "Lực lượng sản xuất, đặc biệt là công cụ lao động, luôn luôn được con người cải tiến để tăng năng suất. Do đó nó là yếu tố động nhất và mang tính cách mạng nhất, luôn luôn phát triển."
+  },
+  {
+    "cau_hoi": "Theo chủ nghĩa duy vật lịch sử: Các nhà tư tưởng phi mác xít đã xuyên tạc học thuyết hình thái kinh tế - xã hội của chủ nghĩa Mác - Lênin là...",
+    "phuong_an": {
+      "A": "Coi nhẹ vai trò của đấu tranh giai cấp",
+      "B": "Bỏ qua các hình thái kinh tế - xã hội để nhảy vọt lên hình thái kinh tế - xã hội cao hơn",
+      "C": "Tuyệt đối hóa vai trò của khoa học kỹ thuật",
+      "D": "Quy mọi sự phát triển xã hội về yếu tố kinh tế đơn thuần"
+    },
+    "dap_an_dung": "B",
+    "giai_thich": "Các học giả phi mác-xít thường xuyên tạc học thuyết của Mác bằng cách phủ nhận tính quy luật tuần tự của lịch sử, cổ xúy việc bỏ qua vô căn cứ các nấc thang phát triển."
+  },
+  {
+    "cau_hoi": "Vai trò của [...] được thể hiện qua quy luật: Quan hệ sản xuất phải [...] với trình độ phát triển của lực lượng sản xuất.",
+    "phuong_an": {
+      "A": "lực lượng sản xuất / phù hợp",
+      "B": "quan hệ sản xuất / tương thích",
+      "C": "cơ sở hạ tầng / đồng bộ",
+      "D": "người lao động / thích ứng"
+    },
+    "dap_an_dung": "A",
+    "giai_thich": "Lực lượng sản xuất quyết định quan hệ sản xuất, do đó quan hệ sản xuất bắt buộc phải thay đổi để phù hợp với trình độ phát triển của lực lượng sản xuất."
+  },
+  {
+    "cau_hoi": "Chọn câu trả lời đúng nhất: Yếu tố nào là yếu tố quyết định và chi phối tất cả các quan hệ xã hội khác?",
+    "phuong_an": {
+      "A": "Quan hệ chính trị",
+      "B": "Quan hệ pháp luật",
+      "C": "Quan hệ sản xuất",
+      "D": "Quan hệ đạo đức"
+    },
+    "dap_an_dung": "C",
+    "giai_thich": "Quan hệ sản xuất (quan hệ kinh tế - vật chất) là quan hệ nền tảng, tạo nên cơ sở hạ tầng. Nó quyết định và chi phối toàn bộ các quan hệ tư tưởng, chính trị, xã hội khác (kiến trúc thượng tầng)."
+  },
+  {
+    "cau_hoi": "Điền từ thích hợp vào chỗ trống: Những biến đổi căn bản của [...] sớm hay muộn sẽ dẫn đến sự biến đổi căn bản trong kiến trúc thượng tầng.",
+    "phuong_an": {
+      "A": "Cơ sở hạ tầng",
+      "B": "Lực lượng sản xuất",
+      "C": "Tồn tại xã hội",
+      "D": "Quan hệ giai cấp"
+    },
+    "dap_an_dung": "A",
+    "giai_thich": "Theo quy luật cơ sở hạ tầng quyết định kiến trúc thượng tầng, một khi nền kinh tế (cơ sở hạ tầng) biến đổi thì toàn bộ kiến trúc thượng tầng đồ sộ cũng bị đảo lộn theo."
+  },
+  {
+    "cau_hoi": "Cơ sở kinh tế của bộ lạc (cộng sản nguyên thủy) là...",
+    "phuong_an": {
+      "A": "Chế độ công hữu về đất đai và công cụ sản xuất",
+      "B": "Chế độ sở hữu tư nhân về tư liệu sản xuất",
+      "C": "Chế độ chiếm hữu nô lệ",
+      "D": "Chế độ sở hữu hỗn hợp"
+    },
+    "dap_an_dung": "A",
+    "giai_thich": "Trong xã hội nguyên thủy, do trình độ lực lượng sản xuất quá thấp kém, con người bắt buộc phải sống dựa vào nhau, làm chung và hưởng chung, hình thành chế độ công hữu nguyên thủy."
+  },
+  {
+    "cau_hoi": "Quan điểm cho rằng, tồn tại xã hội quyết định ý thức xã hội nhưng đồng thời ý thức xã hội lại có tính độc lập tương đối là quan điểm của...",
+    "phuong_an": {
+      "A": "Chủ nghĩa duy vật lịch sử",
+      "B": "Chủ nghĩa duy tâm khách quan",
+      "C": "Chủ nghĩa duy vật siêu hình",
+      "D": "Chủ nghĩa duy tâm chủ quan"
+    },
+    "dap_an_dung": "A",
+    "giai_thich": "Đây là lập trường chuẩn xác của triết học Mác - Lênin (chủ nghĩa duy vật lịch sử) khi giải quyết mối quan hệ biện chứng giữa đời sống vật chất và đời sống tinh thần của xã hội."
+  },
+  {
+    "cau_hoi": "Chọn câu trả lời đúng theo quan điểm của Ph. Ăngghen: Con người là một động vật...",
+    "phuong_an": {
+      "A": "Biết suy nghĩ logic",
+      "B": "Biết sáng tạo nghệ thuật",
+      "C": "Biết giao tiếp bằng ngôn ngữ",
+      "D": "Biết chế tạo và sử dụng công cụ lao động"
+    },
+    "dap_an_dung": "D",
+    "giai_thich": "Ph. Ăngghen nhấn mạnh: Điểm khác biệt căn bản giữa xã hội loài người và loài vật là lao động sản xuất. Con vật may mắn lắm chỉ hái lượm, còn con người biết chế tạo và sử dụng công cụ."
+  },
+  {
+    "cau_hoi": "Theo chủ nghĩa duy vật lịch sử, mối quan hệ giữa lực lượng sản xuất và quan hệ sản xuất là:",
+    "phuong_an": {
+      "A": "Quan hệ sản xuất quyết định lực lượng sản xuất",
+      "B": "Chúng tồn tại độc lập, không tác động lẫn nhau",
+      "C": "Lực lượng sản xuất và quan hệ sản xuất có vai trò ngang nhau",
+      "D": "Lực lượng sản xuất quyết định quan hệ sản xuất và quan hệ sản xuất có tác động trở lại đối với lực lượng sản xuất"
+    },
+    "dap_an_dung": "D",
+    "giai_thich": "Đây là nội dung của quy luật QHSX phù hợp với trình độ của LLSX. LLSX là nội dung quyết định hình thức (QHSX), nhưng QHSX cũng có sự độc lập tương đối và tác động mạnh mẽ trở lại."
+  },
+  {
+    "cau_hoi": "Chọn phương án đúng nhất: Theo chủ nghĩa duy vật lịch sử, trong mối quan hệ giữa tồn tại xã hội và ý thức xã hội thì:",
+    "phuong_an": {
+      "A": "Ý thức xã hội quyết định tồn tại xã hội",
+      "B": "Tồn tại xã hội và ý thức xã hội song song tồn tại",
+      "C": "Ý thức xã hội là sự phản ánh thụ động của tồn tại xã hội",
+      "D": "Tồn tại xã hội quyết định ý thức xã hội và ý thức xã hội có thể tác động trở lại đối với tồn tại xã hội"
+    },
+    "dap_an_dung": "D",
+    "giai_thich": "Tồn tại xã hội (kinh tế, vật chất) sinh ra và quyết định ý thức xã hội, nhưng ý thức xã hội (tư tưởng, chính trị) có tính độc lập tương đối và có thể thúc đẩy hoặc kìm hãm sự phát triển của xã hội."
+  },
+  {
+    "cau_hoi": "Theo chủ nghĩa duy vật lịch sử, yếu tố cơ bản nhất của tồn tại xã hội là...?",
+    "phuong_an": {
+      "A": "Phương thức sản xuất vật chất",
+      "B": "Điều kiện tự nhiên, địa lý",
+      "C": "Mật độ dân số",
+      "D": "Các yếu tố văn hóa truyền thống"
+    },
+    "dap_an_dung": "A",
+    "giai_thich": "Tồn tại xã hội gồm 3 yếu tố: Phương thức sản xuất, Điều kiện tự nhiên và Dân cư. Trong đó, Phương thức sản xuất vật chất là yếu tố nền tảng và quyết định nhất đối với sự tồn tại của xã hội."
+  },
+  {
+    "cau_hoi": "Theo chủ nghĩa duy vật lịch sử, cơ sở hạ tầng của xã hội dùng để chỉ:",
+    "phuong_an": {
+      "A": "Đường xá, cầu cống, điện, đường, trường, trạm",
+      "B": "Toàn bộ đời sống vật chất của xã hội",
+      "C": "Toàn bộ những quan hệ sản xuất hợp thành cơ cấu kinh tế của xã hội",
+      "D": "Hệ thống nhà máy, xí nghiệp"
+    },
+    "dap_an_dung": "C",
+    "giai_thich": "Cơ sở hạ tầng trong triết học Mác không phải là kết cấu vật chất hạ tầng (điện, đường), mà là tổng hợp các quan hệ kinh tế - sản xuất hiện thực của xã hội đó."
+  },
+  {
+    "cau_hoi": "Chọn phương án đúng nhất: Theo chủ nghĩa duy vật lịch sử, trong xã hội có giai cấp, ý thức xã hội luôn luôn:",
+    "phuong_an": {
+      "A": "Bảo vệ lợi ích của mọi tầng lớp",
+      "B": "Mang bản chất của giai cấp thống trị",
+      "C": "Hoàn toàn độc lập với giai cấp thống trị",
+      "D": "Phản ánh lợi ích của giai cấp bị trị"
+    },
+    "dap_an_dung": "B",
+    "giai_thich": "C. Mác khẳng định: 'Tư tưởng thống trị của một thời đại bao giờ cũng là tư tưởng của giai cấp thống trị'. Giai cấp nắm quyền kinh tế sẽ chi phối hệ tư tưởng để bảo vệ quyền lợi của mình."
+  },
+  {
+    "cau_hoi": "Trong nhận thức và thực tiễn, nếu tuyệt đối hoá kinh tế, hạ thấp hoặc phủ nhận yếu tố chính trị là rơi vào...",
+    "phuong_an": {
+      "A": "Chủ nghĩa duy tâm khách quan",
+      "B": "Chủ nghĩa duy vật tầm thường",
+      "C": "Chủ nghĩa duy vật biện chứng",
+      "D": "Bệnh chủ quan duy ý chí"
+    },
+    "dap_an_dung": "B",
+    "giai_thich": "Việc chỉ nhìn thấy vai trò của kinh tế mà gạt bỏ sức mạnh tác động trở lại của chính trị, tư tưởng là biểu hiện của chủ nghĩa duy vật tầm thường (kinh tế chủ nghĩa)."
+  },
+  {
+    "cau_hoi": "Trong nhận thức và thực tiễn, nếu tuyệt đối hoá về chính trị, hạ thấp hoặc phủ nhận vai trò của kinh tế sẽ dẫn đến sai lầm nào?",
+    "phuong_an": {
+      "A": "Chủ nghĩa duy vật tầm thường",
+      "B": "Chủ nghĩa duy vật lịch sử",
+      "C": "Chủ nghĩa duy tâm",
+      "D": "Chủ nghĩa thực chứng"
+    },
+    "dap_an_dung": "C",
+    "giai_thich": "Nếu ảo tưởng sức mạnh của ý chí, tư tưởng, chính trị mà bất chấp các quy luật kinh tế khách quan thì sẽ rơi vào chủ nghĩa duy tâm (bệnh chủ quan duy ý chí)."
+  },
+  {
+    "cau_hoi": "Theo chủ nghĩa duy vật lịch sử, nếu quan hệ sản xuất phù hợp với trình độ phát triển của lực lượng sản xuất, thì...",
+    "phuong_an": {
+      "A": "Thúc đẩy sự phát triển của lực lượng sản xuất",
+      "B": "Kìm hãm sự phát triển của lực lượng sản xuất",
+      "C": "Lực lượng sản xuất sẽ ngừng phát triển",
+      "D": "Không có tác động gì đáng kể"
+    },
+    "dap_an_dung": "A",
+    "giai_thich": "Sự phù hợp này tạo ra một 'địa bàn đầy đủ' và hệ thống động lực tối ưu để người lao động sáng tạo, máy móc được sử dụng hiệu quả, qua đó thúc đẩy nền sản xuất cất cánh."
+  },
+  {
+    "cau_hoi": "Theo chủ nghĩa duy vật lịch sử, trình độ của lực lượng sản xuất thể hiện ở:",
+    "phuong_an": {
+      "A": "Trình độ công cụ lao động và người lao động",
+      "B": "Trình độ tổ chức và phân công lao động xã hội",
+      "C": "Trình độ ứng dụng khoa học và công nghệ vào sản xuất",
+      "D": "Tất cả các phương án đều đúng"
+    },
+    "dap_an_dung": "D",
+    "giai_thich": "Trình độ của LLSX là sự phát triển toàn diện của các yếu tố cấu thành nó, bao gồm công cụ tiên tiến, kỹ năng người lao động cao, quản lý sản xuất hợp lý và áp dụng khoa học công nghệ."
+  },
+  {
+    "cau_hoi": "Mục tiêu cuối cùng của đấu tranh giai cấp của giai cấp vô sản trong thời kì quá độ lên CNXH ở Việt Nam là...",
+    "phuong_an": {
+      "A": "Xây dựng thành công CNXH",
+      "B": "Giành được quyền lực nhà nước",
+      "C": "Xóa bỏ giai cấp tư sản",
+      "D": "Đạt được tự do ngôn luận"
+    },
+    "dap_an_dung": "A",
+    "giai_thich": "Khác với các cuộc cách mạng trước đây chỉ nhằm thay thế hình thức bóc lột, cuộc cách mạng của vô sản có mục tiêu cuối cùng là xây dựng thành công CNXH, tiến tới xóa bỏ hoàn toàn giai cấp."
+  },
+  {
+    "cau_hoi": "Chọn phương án đúng nhất: Đấu tranh giai cấp đạt tới đỉnh cao thường dẫn đến...",
+    "phuong_an": {
+      "A": "Cải cách kinh tế",
+      "B": "Cách mạng xã hội",
+      "C": "Đảo chính quân sự",
+      "D": "Khủng hoảng kinh tế"
+    },
+    "dap_an_dung": "B",
+    "giai_thich": "Khi mâu thuẫn giai cấp trở nên gay gắt đỉnh điểm không thể điều hòa, giai cấp bị áp bức sẽ dùng bạo lực để giành lấy chính quyền, đó chính là cách mạng xã hội."
+  },
+  {
+    "cau_hoi": "Theo chủ nghĩa duy vật lịch sử, yếu tố nào trong tư liệu sản xuất thường xuyên biến đổi nhất?",
+    "phuong_an": {
+      "A": "Đối tượng lao động",
+      "B": "Phương tiện bảo quản",
+      "C": "Công cụ lao động",
+      "D": "Kết cấu hạ tầng"
+    },
+    "dap_an_dung": "C",
+    "giai_thich": "Công cụ lao động là yếu tố động nhất và cách mạng nhất. Con người luôn luôn tìm cách cải tiến công cụ để làm việc năng suất hơn, giảm bớt sức lực bỏ ra."
+  },
+  {
+    "cau_hoi": "Điền từ vào chỗ trống: Trong thời kỳ đổi mới đất nước, Đảng Cộng sản Việt Nam chủ trương đổi mới toàn diện cả [...] và [...].",
+    "phuong_an": {
+      "A": "kinh tế và chính trị",
+      "B": "văn hóa và giáo dục",
+      "C": "công nghiệp và nông nghiệp",
+      "D": "đối nội và đối ngoại"
+    },
+    "dap_an_dung": "A",
+    "giai_thich": "Vận dụng quy luật biện chứng giữa CSHT (kinh tế) và KTTT (chính trị), Đảng ta chủ trương phải đổi mới toàn diện cả nền kinh tế lẫn hệ thống chính trị để phát triển đồng bộ."
+  },
+  {
+    "cau_hoi": "Nguồn gốc TRỰC TIẾP dẫn đến sự xuất hiện giai cấp là do sự ra đời và tồn tại của...",
+    "phuong_an": {
+      "A": "Chế độ chiếm hữu tư nhân về tư liệu sản xuất",
+      "B": "Sự phát triển của lực lượng sản xuất",
+      "C": "Sự xuất hiện của công cụ bằng kim loại",
+      "D": "Các cuộc chiến tranh xâm lược"
+    },
+    "dap_an_dung": "A",
+    "giai_thich": "Chế độ tư hữu cho phép một nhóm người thâu tóm tài sản thành của riêng, từ đó họ có khả năng chiếm đoạt sức lao động của người khác, trực tiếp phân hóa xã hội thành các giai cấp đối kháng."
+  },
+  {
+    "cau_hoi": "Nguồn gốc SÂU XA dẫn đến sự xuất hiện giai cấp là do sự phát triển của...",
+    "phuong_an": {
+      "A": "Kiến trúc thượng tầng",
+      "B": "Lực lượng sản xuất",
+      "C": "Nhà nước",
+      "D": "Tôn giáo"
+    },
+    "dap_an_dung": "B",
+    "giai_thich": "Sự phát triển của lực lượng sản xuất làm xuất hiện của cải dư thừa, phá vỡ tính bình đẳng của xã hội nguyên thủy, là nguyên nhân sâu xa dẫn đến chế độ tư hữu và giai cấp."
+  },
+  {
+    "cau_hoi": "Theo chủ nghĩa duy vật lịch sử, chủ thể chân chính sáng tạo ra lịch sử là:",
+    "phuong_an": {
+      "A": "Thượng đế",
+      "B": "Các vĩ nhân, lãnh tụ",
+      "C": "Quần chúng nhân dân",
+      "D": "Giai cấp thống trị"
+    },
+    "dap_an_dung": "C",
+    "giai_thich": "Quần chúng nhân dân là người trực tiếp sản xuất ra của cải vật chất nuôi sống xã hội, là động lực của các cuộc cách mạng và sáng tạo ra văn hóa, nên họ là chủ thể chân chính quyết định lịch sử."
+  },
+  {
+    "cau_hoi": "Theo chủ nghĩa duy vật lịch sử, nếu quan hệ sản xuất KHÔNG phù hợp với trình độ phát triển của lực lượng sản xuất, thì...",
+    "phuong_an": {
+      "A": "Thúc đẩy sự phát triển của lực lượng sản xuất",
+      "B": "Kìm hãm sự phát triển của lực lượng sản xuất",
+      "C": "Làm cho lực lượng sản xuất biến mất",
+      "D": "Không có tác động gì"
+    },
+    "dap_an_dung": "B",
+    "giai_thich": "Khi QHSX đã trở nên lạc hậu, nó sẽ trở thành 'xiềng xích' trói buộc, kìm hãm sự phát triển của LLSX, và tất yếu sẽ bị cách mạng xã hội phá bỏ."
+  },
+  {
+    "cau_hoi": "Đấu tranh giai cấp là tất yếu do sự đối lập về [...] căn bản không thể điều hoà được giữa các giai cấp.",
+    "phuong_an": {
+      "A": "Hệ tư tưởng",
+      "B": "Quan điểm tôn giáo",
+      "C": "Lợi ích",
+      "D": "Lối sống"
+    },
+    "dap_an_dung": "C",
+    "giai_thich": "Nguyên nhân căn bản của mọi cuộc đấu tranh giai cấp luôn là sự xung đột gay gắt về lợi ích kinh tế (một bên muốn bóc lột và một bên muốn xóa bỏ bóc lột)."
+  },
+  {
+    "cau_hoi": "Nội dung của cuộc đấu tranh giai cấp trong thời kỳ quá độ lên chủ nghĩa xã hội ở Việt Nam hiện nay là thực hiện thắng lợi mục tiêu độc lập dân tộc và [...], xây dựng một xã hội dân giàu, nước mạnh, dân chủ, công bằng, văn minh.",
+    "phuong_an": {
+      "A": "Chủ nghĩa xã hội",
+      "B": "Công nghiệp hóa",
+      "C": "Kinh tế thị trường",
+      "D": "Hội nhập quốc tế"
+    },
+    "dap_an_dung": "A",
+    "giai_thich": "Độc lập dân tộc gắn liền với chủ nghĩa xã hội là đường lối cơ bản, xuyên suốt của cách mạng Việt Nam, là nội dung cốt lõi của cuộc đấu tranh giai cấp trong giai đoạn hiện nay."
+  },
+  {
+    "cau_hoi": "Theo chủ nghĩa duy vật lịch sử, bộ máy tổ chức quyền lực và thực thi quyền lực đặc biệt của xã hội trong điều kiện xã hội có đối kháng giai cấp là...",
+    "phuong_an": {
+      "A": "Hệ thống pháp luật",
+      "B": "Các tổ chức tôn giáo",
+      "C": "Các đảng phái chính trị",
+      "D": "Nhà nước"
+    },
+    "dap_an_dung": "D",
+    "giai_thich": "Nhà nước ra đời khi mâu thuẫn giai cấp không thể điều hòa. Nó là một bộ máy bạo lực đặc biệt để thực thi quyền lực và bảo vệ lợi ích của giai cấp thống trị."
+  },
+  {
+    "cau_hoi": "Theo chủ nghĩa duy vật lịch sử, muốn tìm nguồn gốc của tư tưởng, tâm lý xã hội cần phải tìm ở trong...",
+    "phuong_an": {
+      "A": "Hoạt động não bộ của con người",
+      "B": "Sự mặc khải của Thượng đế",
+      "C": "Hiện thực vật chất (Tồn tại xã hội)",
+      "D": "Những truyền thuyết lịch sử"
+    },
+    "dap_an_dung": "C",
+    "giai_thich": "Vì tồn tại xã hội (đời sống vật chất) quyết định ý thức xã hội, nên để giải thích căn nguyên của các hiện tượng tư tưởng, tâm lý, ta phải đối chiếu với đời sống vật chất hiện thực."
+  },
+  {
+    "cau_hoi": "Theo chủ nghĩa duy vật lịch sử, về bản chất, nhà nước là...",
+    "phuong_an": {
+      "A": "Cơ quan bảo vệ lợi ích của toàn dân",
+      "B": "Bộ máy tập trung quyền lực của giai cấp nắm quyền thống trị kinh tế",
+      "C": "Công cụ dung hòa mâu thuẫn giai cấp",
+      "D": "Tổ chức từ thiện lớn nhất xã hội"
+    },
+    "dap_an_dung": "B",
+    "giai_thich": "Bản chất của nhà nước mang tính giai cấp sâu sắc. Nó là công cụ bạo lực được lập ra để bảo vệ lợi ích của giai cấp nắm giữ sức mạnh kinh tế (sở hữu TLSX)."
+  },
+  {
+    "cau_hoi": "Theo quan điểm duy vật lịch sử, trong tính hiện thực của nó, bản chất con người là...",
+    "phuong_an": {
+      "A": "Sự kết hợp giữa yếu tố sinh học và tâm lý",
+      "B": "Một động vật có lý trí",
+      "C": "Tổng hoà các quan hệ xã hội",
+      "D": "Bản năng sinh tồn"
+    },
+    "dap_an_dung": "C",
+    "giai_thich": "Mác khẳng định: 'Trong tính hiện thực của nó, bản chất con người là tổng hòa những quan hệ xã hội'. Con người được định hình bởi các mối quan hệ xã hội trong thời đại họ sống."
+  },
+  {
+    "cau_hoi": "Sự ra đời và tồn tại của Nhà nước nhằm mục đích gì?",
+    "phuong_an": {
+      "A": "Xóa bỏ sự phân chia giai cấp",
+      "B": "Bảo vệ quyền con người vô điều kiện",
+      "C": "Giải quyết mọi bất công trong xã hội",
+      "D": "Bảo vệ trật tự xã hội theo ý chí và lợi ích của giai cấp thống trị kinh tế"
+    },
+    "dap_an_dung": "D",
+    "giai_thich": "Nhà nước sử dụng pháp luật và bạo lực (quân đội, cảnh sát, nhà tù) để dập tắt sự phản kháng của giai cấp bị trị, duy trì trật tự xã hội có lợi nhất cho giai cấp cầm quyền."
+  },
+  {
+    "cau_hoi": "Quy luật về sự phù hợp của quan hệ sản xuất với trình độ phát triển của lực lượng sản xuất là quy luật [...] của sự phát triển xã hội.",
+    "phuong_an": {
+      "A": "Cụ thể nhất",
+      "B": "Tạm thời",
+      "C": "Phụ thuộc",
+      "D": "Chung nhất"
+    },
+    "dap_an_dung": "D",
+    "giai_thich": "Đây là quy luật cơ bản, xuyên suốt chi phối toàn bộ tiến trình lịch sử nhân loại, từ xã hội nguyên thủy đến xã hội cộng sản chủ nghĩa, nên nó được coi là quy luật chung nhất."
+  },{
+    "cau_hoi": "Chọn phương án đúng nhất: Quan điểm triết học nào cho rằng: Để giải thích mọi hiện tượng của đời sống tinh thần chỉ cần dựa vào các quan hệ kinh tế hiện có?",
+    "phuong_an": {
+      "A": "Chủ nghĩa duy vật lịch sử",
+      "B": "Chủ nghĩa duy tâm lịch sử",
+      "C": "Chủ nghĩa duy vật siêu hình",
+      "D": "Chủ nghĩa duy vật tầm thường"
+    },
+    "dap_an_dung": "A",
+    "giai_thich": "Chủ nghĩa duy vật lịch sử khẳng định rằng Tồn tại xã hội (đời sống vật chất, quan hệ kinh tế) quyết định Ý thức xã hội (đời sống tinh thần). Do đó, để giải thích các hiện tượng tinh thần, tư tưởng, ta phải tìm nguyên nhân từ cơ sở kinh tế hiện có."
+  },
+  {
+    "cau_hoi": "Quan điểm nào cho rằng ý chí, tư tưởng của con người là động lực sâu xa của lịch sử?",
+    "phuong_an": {
+      "A": "Chủ nghĩa duy vật lịch sử",
+      "B": "Chủ nghĩa duy tâm lịch sử",
+      "C": "Chủ nghĩa duy vật biện chứng",
+      "D": "Chủ nghĩa duy vật siêu hình"
+    },
+    "dap_an_dung": "B",
+    "giai_thich": "Chủ nghĩa duy tâm lịch sử đảo ngược mối quan hệ biện chứng, họ đề cao vai trò tuyệt đối của ý thức, tư tưởng, ý chí con người (hoặc các vĩ nhân) và coi đó là động lực quyết định tiến trình lịch sử."
+  },
+  {
+    "cau_hoi": "Theo chủ nghĩa duy vật lịch sử, sự biến đổi và phát triển của sản xuất vật chất bao giờ cũng bắt đầu từ sự biến đổi và phát triển của...",
+    "phuong_an": {
+      "A": "Quan hệ sản xuất",
+      "B": "Lực lượng sản xuất",
+      "C": "Kiến trúc thượng tầng",
+      "D": "Cơ sở hạ tầng"
+    },
+    "dap_an_dung": "B",
+    "giai_thich": "Lực lượng sản xuất (đặc biệt là công cụ lao động) là yếu tố động nhất, cách mạng nhất. Mọi sự thay đổi của phương thức sản xuất đều bắt nguồn từ sự phát triển của lực lượng sản xuất."
+  },
+  {
+    "cau_hoi": "Theo chủ nghĩa duy vật lịch sử: Mâu thuẫn biện chứng giữa nội dung vật chất và hình thức xã hội của quá trình sản xuất là mâu thuẫn giữa:",
+    "phuong_an": {
+      "A": "Cơ sở hạ tầng và kiến trúc thượng tầng",
+      "B": "Tồn tại xã hội và ý thức xã hội",
+      "C": "Lực lượng sản xuất và quan hệ sản xuất",
+      "D": "Giai cấp thống trị và giai cấp bị trị"
+    },
+    "dap_an_dung": "C",
+    "giai_thich": "Trong phương thức sản xuất, Lực lượng sản xuất đóng vai trò là nội dung vật chất (biểu hiện quan hệ giữa người với tự nhiên), còn Quan hệ sản xuất đóng vai trò là hình thức xã hội (biểu hiện quan hệ giữa người với người)."
+  },
+  {
+    "cau_hoi": "Chọn câu trả lời đúng theo quan điểm duy tâm về xã hội: Lực lượng sáng tạo ra và quyết định lịch sử là:",
+    "phuong_an": {
+      "A": "Quần chúng nhân dân",
+      "B": "Giai cấp công nhân",
+      "C": "Lực lượng siêu tự nhiên (hoặc vĩ nhân, cá nhân kiệt xuất)",
+      "D": "Lực lượng sản xuất"
+    },
+    "dap_an_dung": "C",
+    "giai_thich": "Chủ nghĩa duy tâm lịch sử thường quy động lực lịch sử về sức mạnh của thần linh, Thượng đế (duy tâm khách quan) hoặc tuyệt đối hóa vai trò của các cá nhân kiệt xuất, lãnh tụ (duy tâm chủ quan)."
+  },
+  {
+    "cau_hoi": "Tiền đề xuất phát của quan điểm duy vật lịch sử là:",
+    "phuong_an": {
+      "A": "Con người hiện thực",
+      "B": "Ý thức xã hội",
+      "C": "Tồn tại xã hội",
+      "D": "Quan hệ sản xuất"
+    },
+    "dap_an_dung": "A",
+    "giai_thich": "C. Mác và Ph. Ăngghen khẳng định tiền đề xuất phát của lý luận triết học Mác không phải là những giáo điều trừu tượng, mà là 'những cá nhân con người hiện thực' đang tiến hành lao động sản xuất."
+  },
+  {
+    "cau_hoi": "Theo chủ nghĩa duy vật lịch sử, yếu tố cơ bản nhất dẫn đến sự khác nhau về địa vị của các giai cấp trong hệ thống kinh tế - xã hội là:",
+    "phuong_an": {
+      "A": "Trình độ học vấn",
+      "B": "Sở hữu tư liệu sản xuất",
+      "C": "Nguồn gốc xuất thân",
+      "D": "Khả năng quản lý"
+    },
+    "dap_an_dung": "B",
+    "giai_thich": "Sở hữu tư liệu sản xuất là hạt nhân của quan hệ sản xuất. Giai cấp nào nắm quyền sở hữu các tư liệu sản xuất chủ yếu sẽ nắm quyền chi phối tổ chức quản lý và phân phối sản phẩm, từ đó vươn lên thành giai cấp thống trị."
+  },
+  {
+    "cau_hoi": "Theo chủ nghĩa duy vật lịch sử, tệ sùng bái cá nhân nghĩa là tuyệt đối hoá vai trò của:",
+    "phuong_an": {
+      "A": "Quần chúng nhân dân",
+      "B": "Giai cấp thống trị",
+      "C": "Lãnh tụ",
+      "D": "Lực lượng sản xuất"
+    },
+    "dap_an_dung": "C",
+    "giai_thich": "Tệ sùng bái cá nhân là việc thổi phồng quá mức vai trò của các vĩ nhân, lãnh tụ, coi họ là thần thánh sáng tạo ra lịch sử mà hạ thấp vai trò quyết định chân chính của quần chúng nhân dân."
+  },
+  {
+    "cau_hoi": "Chọn phương án đúng nhất: Theo chủ nghĩa duy vật lịch sử, đấu tranh giai cấp giữ vai trò là:",
+    "phuong_an": {
+      "A": "Yếu tố kìm hãm sự phát triển của xã hội",
+      "B": "Nguồn gốc của mọi mâu thuẫn xã hội",
+      "C": "Một trong những phương thức, động lực của sự tiến bộ, phát triển xã hội trong xã hội có giai cấp đối kháng",
+      "D": "Quá trình tự phát dẫn đến sự tiêu vong của nhân loại"
+    },
+    "dap_an_dung": "C",
+    "giai_thich": "Trong các xã hội phân chia giai cấp, đấu tranh giai cấp là động lực trực tiếp, quan trọng giúp đập tan quan hệ sản xuất cũ, mở đường cho lực lượng sản xuất mới phát triển."
+  },
+  {
+    "cau_hoi": "Theo chủ nghĩa duy vật lịch sử, lực lượng sản xuất là biểu hiện của:",
+    "phuong_an": {
+      "A": "Mối quan hệ giữa người với người trong sản xuất",
+      "B": "Mối quan hệ giữa con người với tự nhiên trong quá trình sản xuất",
+      "C": "Quan hệ chính trị giữa các giai cấp",
+      "D": "Quan hệ giữa cơ sở hạ tầng và kiến trúc thượng tầng"
+    },
+    "dap_an_dung": "B",
+    "giai_thich": "Lực lượng sản xuất (gồm người lao động và tư liệu sản xuất) thể hiện năng lực thực tiễn của con người trong việc chinh phục và cải biến tự nhiên để tạo ra của cải."
+  },
+  {
+    "cau_hoi": "Chọn phương án SAI, theo chủ nghĩa duy vật lịch sử:",
+    "phuong_an": {
+      "A": "Quan hệ sản xuất là nội dung vật chất của quá trình sản xuất",
+      "B": "Lực lượng sản xuất là nội dung vật chất của quá trình sản xuất",
+      "C": "Quan hệ sản xuất là hình thức xã hội của quá trình sản xuất",
+      "D": "Lực lượng sản xuất và quan hệ sản xuất thống nhất với nhau tạo thành phương thức sản xuất"
+    },
+    "dap_an_dung": "A",
+    "giai_thich": "Khẳng định A là sai. Trong phương thức sản xuất, Lực lượng sản xuất mới là 'nội dung vật chất', còn Quan hệ sản xuất là 'hình thức xã hội'."
+  },
+  {
+    "cau_hoi": "Chọn phương án SAI, theo chủ nghĩa duy vật lịch sử:",
+    "phuong_an": {
+      "A": "Cơ sở hạ tầng quyết định kiến trúc thượng tầng",
+      "B": "Kiến trúc thượng tầng có sự tác động trở lại cơ sở hạ tầng",
+      "C": "Mọi cơ sở hạ tầng có một kiến trúc thượng tầng tương ứng",
+      "D": "Kiến trúc thượng tầng do cơ sở hạ tầng sinh ra"
+    },
+    "dap_an_dung": "C",
+    "giai_thich": "Khẳng định C được xem là sai vì mang tính tuyệt đối hóa. Một cơ sở hạ tầng có thể có nhiều tàn dư hoặc mầm mống của nhiều kiến trúc thượng tầng khác nhau đan xen (đặc biệt trong thời kỳ quá độ)."
+  },
+  {
+    "cau_hoi": "Chọn phương án đúng, theo chủ nghĩa duy vật lịch sử: Tồn tại xã hội thực chất là...",
+    "phuong_an": {
+      "A": "Đời sống vật chất của xã hội",
+      "B": "Đời sống tinh thần của xã hội",
+      "C": "Các quan hệ chính trị của xã hội",
+      "D": "Các thiết chế nhà nước"
+    },
+    "dap_an_dung": "A",
+    "giai_thich": "Tồn tại xã hội là toàn bộ đời sống vật chất và những điều kiện sinh hoạt vật chất của xã hội (như phương thức sản xuất, điều kiện tự nhiên, dân cư)."
+  },
+  {
+    "cau_hoi": "Chọn phương án đúng nhất: Theo chủ nghĩa duy vật lịch sử, ý thức xã hội thực chất là...",
+    "phuong_an": {
+      "A": "Đời sống vật chất của xã hội",
+      "B": "Đời sống tinh thần của xã hội",
+      "C": "Phương thức sản xuất vật chất",
+      "D": "Hệ thống pháp luật"
+    },
+    "dap_an_dung": "B",
+    "giai_thich": "Ý thức xã hội là phương diện sinh hoạt tinh thần của xã hội (quan điểm, tư tưởng, tình cảm, phong tục...) nảy sinh từ tồn tại xã hội."
+  },
+  {
+    "cau_hoi": "Theo chủ nghĩa duy vật lịch sử, yếu tố nào sau đây KHÔNG thuộc tồn tại xã hội?",
+    "phuong_an": {
+      "A": "Phương thức sản xuất vật chất",
+      "B": "Điều kiện tự nhiên - hoàn cảnh địa lý",
+      "C": "Hệ tư tưởng",
+      "D": "Dân số và mật độ dân số"
+    },
+    "dap_an_dung": "C",
+    "giai_thich": "Hệ tư tưởng (quan điểm chính trị, triết học, tôn giáo...) thuộc về ý thức xã hội (đời sống tinh thần), không thuộc tồn tại xã hội."
+  },
+  {
+    "cau_hoi": "Theo chủ nghĩa duy vật lịch sử, yếu tố nào sau đây KHÔNG thuộc ý thức xã hội?",
+    "phuong_an": {
+      "A": "Ý thức chính trị",
+      "B": "Phương thức sản xuất vật chất",
+      "C": "Ý thức pháp quyền",
+      "D": "Ý thức tôn giáo"
+    },
+    "dap_an_dung": "B",
+    "giai_thich": "Phương thức sản xuất vật chất là nhân tố cốt lõi của Tồn tại xã hội (đời sống vật chất), không phải ý thức xã hội."
+  },
+  {
+    "cau_hoi": "Chọn phương án SAI, theo chủ nghĩa duy vật lịch sử:",
+    "phuong_an": {
+      "A": "Tồn tại xã hội quyết định ý thức xã hội",
+      "B": "Ý thức xã hội có tính độc lập tương đối",
+      "C": "Ý thức xã hội có thể tác động trở lại tồn tại xã hội",
+      "D": "Ý thức xã hội luôn vượt trước tồn tại xã hội"
+    },
+    "dap_an_dung": "D",
+    "giai_thich": "Ý thức xã hội thường có xu hướng lạc hậu hơn tồn tại xã hội do sức ỳ của thói quen. Nó chỉ 'vượt trước' trong trường hợp là hệ tư tưởng tiên tiến, khoa học. Nói 'luôn vượt trước' là hoàn toàn sai."
+  },
+  {
+    "cau_hoi": "Theo chủ nghĩa duy vật lịch sử, yếu tố nào sau đây KHÔNG thuộc ý thức xã hội?",
+    "phuong_an": {
+      "A": "Khoa học",
+      "B": "Quan hệ sản xuất",
+      "C": "Đạo đức",
+      "D": "Nghệ thuật"
+    },
+    "dap_an_dung": "B",
+    "giai_thich": "Quan hệ sản xuất là những quan hệ kinh tế - vật chất tạo nên cơ sở hạ tầng (thuộc về tồn tại xã hội), không thuộc lĩnh vực ý thức tinh thần."
+  },
+  {
+    "cau_hoi": "Theo chủ nghĩa duy vật lịch sử, yếu tố nào sau đây KHÔNG thuộc ý thức xã hội?",
+    "phuong_an": {
+      "A": "Tôn giáo",
+      "B": "Cơ sở hạ tầng",
+      "C": "Triết học",
+      "D": "Phong tục tập quán"
+    },
+    "dap_an_dung": "B",
+    "giai_thich": "Cơ sở hạ tầng là toàn bộ các quan hệ sản xuất hợp thành cơ cấu kinh tế (đời sống vật chất), hoàn toàn không thuộc về ý thức xã hội."
+  },
+  {
+    "cau_hoi": "Trong các xã hội sau, xã hội nào KHÔNG có giai cấp?",
+    "phuong_an": {
+      "A": "Chiếm hữu nô lệ",
+      "B": "Phong kiến",
+      "C": "Tư bản chủ nghĩa",
+      "D": "Cộng sản nguyên thủy"
+    },
+    "dap_an_dung": "D",
+    "giai_thich": "Trong xã hội cộng sản nguyên thủy, do lực lượng sản xuất quá thấp kém, của cải làm ra chỉ đủ ăn, không có dư thừa nên không có chế độ sở hữu tư nhân, từ đó không có phân chia giai cấp."
+  },
+  {
+    "cau_hoi": "Trong các xã hội sau, xã hội nào chưa có nhà nước?",
+    "phuong_an": {
+      "A": "Chủ nô",
+      "B": "Phong kiến",
+      "C": "Tư sản",
+      "D": "Cộng sản nguyên thủy"
+    },
+    "dap_an_dung": "D",
+    "giai_thich": "Nhà nước chỉ ra đời khi mâu thuẫn giai cấp không thể điều hòa. Xã hội nguyên thủy chưa có giai cấp đối kháng nên cũng chưa xuất hiện thiết chế nhà nước."
+  },
+  {
+    "cau_hoi": "Theo quan niệm duy vật lịch sử: Nhà nước, về bản chất là công cụ thống trị của...",
+    "phuong_an": {
+      "A": "Giai cấp thống trị",
+      "B": "Toàn thể nhân dân",
+      "C": "Các tôn giáo",
+      "D": "Giai cấp bị trị"
+    },
+    "dap_an_dung": "A",
+    "giai_thich": "Nhà nước là sản phẩm của đấu tranh giai cấp. Giai cấp nào nắm giữ sức mạnh kinh tế sẽ lập ra nhà nước để bảo vệ quyền lợi của mình, do đó nhà nước là công cụ bạo lực của giai cấp thống trị."
+  },
+  {
+    "cau_hoi": "Theo chủ nghĩa duy vật lịch sử, một trong những nội dung biểu hiện vai trò quyết định của cơ sở hạ tầng đối với kiến trúc thượng tầng là:",
+    "phuong_an": {
+      "A": "Kiến trúc thượng tầng có thể tự phát triển không cần cơ sở hạ tầng",
+      "B": "Mọi sự thay đổi của kiến trúc thượng tầng đều không liên quan đến cơ sở hạ tầng",
+      "C": "Tương ứng với một cơ sở hạ tầng nhất định sẽ sinh ra một kiến trúc thượng tầng phù hợp",
+      "D": "Kiến trúc thượng tầng quyết định tính chất của cơ sở hạ tầng"
+    },
+    "dap_an_dung": "C",
+    "giai_thich": "Đây là quy luật tất yếu. Cơ sở hạ tầng nào (ví dụ kinh tế tư bản) thì sẽ tự động sinh ra kiến trúc thượng tầng ấy (ví dụ nhà nước tư sản, pháp luật tư sản) để bảo vệ nó."
+  },
+  {
+    "cau_hoi": "Theo chủ nghĩa duy vật lịch sử, một trong những nội dung biểu hiện vai trò quyết định của cơ sở hạ tầng đối với kiến trúc thượng tầng là:",
+    "phuong_an": {
+      "A": "Giai cấp bị trị chi phối kiến trúc thượng tầng",
+      "B": "Sự đấu tranh, xung đột lợi ích chính trị - xã hội có nguyên nhân sâu xa từ sự mâu thuẫn, đấu tranh lợi ích trong cơ sở kinh tế của xã hội",
+      "C": "Nhà nước tự quyết định sự phát triển của nền kinh tế",
+      "D": "Tôn giáo quyết định sự phân hóa giai cấp"
+    },
+    "dap_an_dung": "B",
+    "giai_thich": "Mọi xung đột về mặt chính trị, tư tưởng, pháp luật (KTTT) thực chất chỉ là biểu hiện ra bên ngoài của những mâu thuẫn đối kháng về mặt lợi ích kinh tế (CSHT)."
+  },
+  {
+    "cau_hoi": "Theo chủ nghĩa duy vật lịch sử, một trong những nội dung biểu hiện vai trò quyết định của tồn tại xã hội đối với ý thức xã hội là:",
+    "phuong_an": {
+      "A": "Ý thức xã hội tồn tại hoàn toàn biệt lập với tồn tại xã hội",
+      "B": "Ý thức xã hội sinh ra tồn tại xã hội",
+      "C": "Ý thức xã hội nảy sinh từ tồn tại xã hội",
+      "D": "Ý thức xã hội không phản ánh tồn tại xã hội"
+    },
+    "dap_an_dung": "C",
+    "giai_thich": "Đời sống vật chất (tồn tại xã hội) là cái có trước, là nền tảng nguồn gốc nảy sinh và quyết định nội dung của đời sống tinh thần (ý thức xã hội)."
+  },
+  {
+    "cau_hoi": "Theo chủ nghĩa duy vật lịch sử, một trong những nội dung biểu hiện vai trò quyết định của tồn tại xã hội đối với ý thức xã hội là:",
+    "phuong_an": {
+      "A": "Khi tồn tại xã hội biến đổi thì ý thức xã hội vẫn đứng im vĩnh viễn",
+      "B": "Khi tồn tại xã hội biến đổi thì ý thức xã hội cũng biến đổi theo",
+      "C": "Ý thức xã hội biến đổi trước rồi mới kéo theo sự biến đổi của tồn tại xã hội",
+      "D": "Sự biến đổi của ý thức xã hội không phụ thuộc vào kinh tế"
+    },
+    "dap_an_dung": "B",
+    "giai_thich": "Vì tồn tại xã hội quyết định ý thức xã hội, nên sự thay đổi của phương thức sản xuất và hoàn cảnh sống tất yếu sẽ kéo theo sự thay đổi của các quan điểm, tư tưởng, tâm lý."
+  },
+  {
+    "cau_hoi": "Theo chủ nghĩa duy vật lịch sử, một trong những nội dung biểu hiện tính độc lập tương đối của ý thức xã hội đối với tồn tại xã hội là:",
+    "phuong_an": {
+      "A": "Ý thức xã hội tác động trở lại tồn tại xã hội",
+      "B": "Ý thức xã hội hoàn toàn phụ thuộc thụ động vào tồn tại xã hội",
+      "C": "Ý thức xã hội sinh ra tồn tại xã hội",
+      "D": "Ý thức xã hội không thể tác động đến kinh tế"
+    },
+    "dap_an_dung": "A",
+    "giai_thich": "Ý thức xã hội không thụ động mà có khả năng tác động mạnh mẽ trở lại đời sống vật chất thông qua việc định hướng hoạt động thực tiễn của con người."
+  },
+  {
+    "cau_hoi": "Theo chủ nghĩa duy vật lịch sử, yếu tố nào sau đây KHÔNG thuộc tồn tại xã hội?",
+    "phuong_an": {
+      "A": "Phương thức sản xuất vật chất",
+      "B": "Điều kiện địa lý",
+      "C": "Mật độ dân số",
+      "D": "Tâm lý xã hội"
+    },
+    "dap_an_dung": "D",
+    "giai_thich": "Tâm lý xã hội (thói quen, tình cảm, ước muốn...) thuộc về lĩnh vực tinh thần (ý thức xã hội), không thuộc đời sống vật chất khách quan."
+  },
+  {
+    "cau_hoi": "Theo chủ nghĩa duy vật lịch sử, yếu tố nào sau đây KHÔNG thuộc tồn tại xã hội?",
+    "phuong_an": {
+      "A": "Ý thức chính trị",
+      "B": "Dân số",
+      "C": "Điều kiện tự nhiên",
+      "D": "Phương thức sản xuất"
+    },
+    "dap_an_dung": "A",
+    "giai_thich": "Ý thức chính trị là một hình thái tư tưởng của ý thức xã hội, nó phản ánh các quan hệ chính trị, do đó không thuộc tồn tại xã hội."
+  },
+  {
+    "cau_hoi": "Theo chủ nghĩa duy vật lịch sử, một trong những nội dung biểu hiện tính độc lập tương đối của ý thức xã hội đối với tồn tại xã hội là:",
+    "phuong_an": {
+      "A": "Ý thức xã hội biến đổi đồng thời tuyệt đối với tồn tại xã hội",
+      "B": "Ý thức xã hội thường lạc hậu hơn tồn tại xã hội",
+      "C": "Ý thức xã hội quyết định sự tồn vong của thế giới vật chất",
+      "D": "Tồn tại xã hội luôn lạc hậu hơn ý thức xã hội"
+    },
+    "dap_an_dung": "B",
+    "giai_thich": "Do thói quen truyền thống và sự bảo vệ của giai cấp bóc lột, nhiều yếu tố của ý thức xã hội (như phong tục tập quán) vẫn tồn tại rất lâu ngay cả khi cơ sở kinh tế sinh ra nó đã bị tiêu diệt."
+  },
+  {
+    "cau_hoi": "Theo chủ nghĩa duy vật lịch sử, một trong những nội dung biểu hiện tính độc lập tương đối của ý thức xã hội so với tồn tại xã hội là:",
+    "phuong_an": {
+      "A": "Ý thức xã hội tự sinh ra không cần nền tảng vật chất",
+      "B": "Ý thức xã hội không có sự kế thừa",
+      "C": "Ý thức xã hội có tính kế thừa trong quá trình phát triển",
+      "D": "Ý thức xã hội luôn đối lập với sự tiến bộ"
+    },
+    "dap_an_dung": "C",
+    "giai_thich": "Các tư tưởng, học thuyết của thời đại sau luôn kế thừa những di sản tinh thần của thời đại trước, làm cho ý thức xã hội có mạch phát triển nội tại tương đối độc lập."
+  },
+  {
+    "cau_hoi": "Theo chủ nghĩa duy vật lịch sử: Giai cấp lãnh đạo cách mạng xã hội là giai cấp có...",
+    "phuong_an": {
+      "A": "Hệ tư tưởng tiến bộ",
+      "B": "Đại diện cho xu hướng phát triển của xã hội",
+      "C": "Đại diện cho phương thức sản xuất tiến bộ",
+      "D": "Cả A, B, C"
+    },
+    "dap_an_dung": "D",
+    "giai_thich": "Giai cấp lãnh đạo cách mạng phải là giai cấp mang trong mình phương thức sản xuất mới, đại diện cho xu hướng đi lên của lịch sử và được vũ trang bằng một hệ tư tưởng tiên tiến."
+  },
+  {
+    "cau_hoi": "Chọn phương án đúng nhất: Theo C. Mác và Ph. Ăngghen, đời sống [...] của xã hội hình thành và phát triển trên cơ sở của đời sống [...].",
+    "phuong_an": {
+      "A": "tinh thần / vật chất",
+      "B": "vật chất / tinh thần",
+      "C": "chính trị / đạo đức",
+      "D": "văn hóa / tôn giáo"
+    },
+    "dap_an_dung": "A",
+    "giai_thich": "Đây là cách diễn đạt khác của nguyên lý 'Tồn tại xã hội quyết định ý thức xã hội'. Đời sống vật chất (kinh tế, sản xuất) là cơ sở quyết định cho sự hình thành đời sống tinh thần (tư tưởng, văn hóa)."
+  },
+  {
+    "cau_hoi": "Theo chủ nghĩa duy vật lịch sử: Nhân tố giữ vai trò quyết định trong lực lượng sản xuất là:",
+    "phuong_an": {
+      "A": "Người lao động",
+      "B": "Công cụ lao động",
+      "C": "Đối tượng lao động",
+      "D": "Phương tiện lao động"
+    },
+    "dap_an_dung": "A",
+    "giai_thich": "Công cụ lao động là yếu tố 'động nhất', nhưng người lao động với trí tuệ, kỹ năng của mình mới là chủ thể sáng tạo ra công cụ lao động, do đó đóng vai trò 'quyết định nhất'."
+  },
+  {
+    "cau_hoi": "Theo chủ nghĩa duy vật lịch sử, yếu tố nào sau đây KHÔNG thuộc tồn tại xã hội?",
+    "phuong_an": {
+      "A": "Ý thức khoa học",
+      "B": "Dân số",
+      "C": "Điều kiện tự nhiên",
+      "D": "Lực lượng sản xuất"
+    },
+    "dap_an_dung": "A",
+    "giai_thich": "Ý thức khoa học là sự phản ánh thế giới khách quan dưới dạng các lý thuyết, định lý, do đó nó thuộc hệ thống ý thức xã hội (đời sống tinh thần)."
+  },
+  {
+    "cau_hoi": "Chọn phương án đúng nhất: Theo chủ nghĩa duy vật lịch sử, cơ sở hạ tầng và kiến trúc thượng tầng chính là mối quan hệ giữa:",
+    "phuong_an": {
+      "A": "Vật chất và ý thức",
+      "B": "Tự nhiên và xã hội",
+      "C": "Kinh tế và chính trị",
+      "D": "Tồn tại và tư duy"
+    },
+    "dap_an_dung": "C",
+    "giai_thich": "Cơ sở hạ tầng hợp thành cơ cấu 'kinh tế' của xã hội. Trong khi đó, bộ phận cốt lõi nhất, có sức mạnh nhất của kiến trúc thượng tầng là nhà nước, pháp luật (đại diện cho 'chính trị')."
+  },
+  {
+    "cau_hoi": "Điền cụm từ đúng nhất vào chỗ trống: Khái niệm phương thức sản xuất dùng để chỉ những [...] mà con người sử dụng để tiến hành quá trình sản xuất của xã hội ở những giai đoạn lịch sử nhất định.",
+    "phuong_an": {
+      "A": "Cách thức",
+      "B": "Công cụ",
+      "C": "Kỹ thuật",
+      "D": "Hình thức"
+    },
+    "dap_an_dung": "A",
+    "giai_thich": "Phương thức sản xuất là 'cách thức' (phương thức) kết hợp giữa Lực lượng sản xuất và Quan hệ sản xuất để làm ra của cải vật chất trong một giai đoạn lịch sử."
+  },
+  {
+    "cau_hoi": "Chọn phương án đúng nhất: Theo chủ nghĩa duy vật lịch sử, sự vận động, phát triển của toàn bộ đời sống xã hội, suy đến cùng có nguyên nhân từ tình trạng phát triển của:",
+    "phuong_an": {
+      "A": "Nền sản xuất của xã hội",
+      "B": "Hệ thống chính trị",
+      "C": "Văn hóa, giáo dục",
+      "D": "Sự gia tăng dân số"
+    },
+    "dap_an_dung": "A",
+    "giai_thich": "Sản xuất vật chất là cơ sở của sự tồn tại và phát triển xã hội. Mọi biến đổi chính trị, văn hóa xã hội xét đến cùng đều bắt nguồn từ sự phát triển của nền sản xuất (LLSX)."
+  },
+  {
+    "cau_hoi": "Theo chủ nghĩa duy vật lịch sử: Yếu tố phản ánh rõ nhất trình độ phát triển của lực lượng sản xuất và thể hiện tiêu biểu trình độ con người chinh phục giới tự nhiên là:",
+    "phuong_an": {
+      "A": "Đối tượng lao động",
+      "B": "Khoa học kỹ thuật",
+      "C": "Trình độ quản lý",
+      "D": "Công cụ lao động"
+    },
+    "dap_an_dung": "D",
+    "giai_thich": "C. Mác nói 'Các thời đại kinh tế khác nhau không phải ở chỗ chúng sản xuất ra cái gì, mà là ở chỗ chúng sản xuất bằng cách nào, với những tư liệu lao động (công cụ) nào'. Công cụ lao động là thước đo trình độ chinh phục tự nhiên."
+  },
+  {
+    "cau_hoi": "Theo chủ nghĩa duy vật lịch sử: Yếu tố nào sau đây KHÔNG thuộc cơ sở hạ tầng?",
+    "phuong_an": {
+      "A": "Quan hệ sản xuất thống trị",
+      "B": "Quan hệ sản xuất tàn dư",
+      "C": "Quan hệ sản xuất mầm mống",
+      "D": "Quan hệ chính trị - xã hội"
+    },
+    "dap_an_dung": "D",
+    "giai_thich": "Cơ sở hạ tầng chỉ bao gồm các loại quan hệ sản xuất (quan hệ kinh tế). Quan hệ chính trị - xã hội thuộc về kiến trúc thượng tầng."
+  },
+  {
+    "cau_hoi": "Theo chủ nghĩa duy vật lịch sử: Yếu tố nào sau đây KHÔNG thuộc cấu trúc của hình thái kinh tế - xã hội?",
+    "phuong_an": {
+      "A": "Lực lượng sản xuất",
+      "B": "Quan hệ sản xuất",
+      "C": "Kiến trúc thượng tầng",
+      "D": "Điều kiện tự nhiên"
+    },
+    "dap_an_dung": "D",
+    "giai_thich": "Cấu trúc của một hình thái kinh tế - xã hội chỉ bao gồm 3 yếu tố cốt lõi: LLSX, QHSX (Cơ sở hạ tầng) và Kiến trúc thượng tầng. Điều kiện tự nhiên thuộc về phạm trù 'Tồn tại xã hội', không nằm trong cấu trúc này."
+  },
+  {
+    "cau_hoi": "Điền cụm từ đúng nhất vào chỗ trống: Theo nghĩa hẹp, [...] là việc lật đổ một chế độ chính trị đã lỗi thời và thiết lập một chế độ chính trị tiến bộ hơn của giai cấp cách mạng.",
+    "phuong_an": {
+      "A": "Cách mạng xã hội",
+      "B": "Cải cách xã hội",
+      "C": "Tiến hóa xã hội",
+      "D": "Bạo loạn chính trị"
+    },
+    "dap_an_dung": "A",
+    "giai_thich": "Cách mạng xã hội (nghĩa hẹp) là đỉnh cao của đấu tranh giai cấp, là bước nhảy vọt bằng bạo lực để đập tan bộ máy nhà nước cũ, giành chính quyền về tay giai cấp tiến bộ."
+  },
+  {
+    "cau_hoi": "Theo chủ nghĩa duy vật lịch sử, cách mạng xã hội giữ vai trò là một trong những [...] của sự phát triển xã hội.",
+    "phuong_an": {
+      "A": "Nguyên nhân cản trở",
+      "B": "Phương thức, động lực",
+      "C": "Yếu tố ngẫu nhiên",
+      "D": "Hiện tượng nhất thời"
+    },
+    "dap_an_dung": "B",
+    "giai_thich": "C. Mác coi 'Cách mạng là đầu tàu của lịch sử'. Nó đóng vai trò là phương thức xóa bỏ xã hội cũ và là động lực vĩ đại thúc đẩy xã hội tiến lên những nấc thang mới."
+  },
+  {
+    "cau_hoi": "Điền cụm từ đúng nhất vào chỗ trống: Theo C. Mác: Bản chất con người không phải là một cái trừu tượng cố hữu của cá nhân riêng biệt. Trong tính hiện thực của nó, bản chất con người là tổng hòa những [...]",
+    "phuong_an": {
+      "A": "Đặc điểm sinh học",
+      "B": "Quan hệ xã hội",
+      "C": "Bản năng sinh tồn",
+      "D": "Tư duy sáng tạo"
+    },
+    "dap_an_dung": "B",
+    "giai_thich": "Đây là Luận cương thứ 6 về Phoiơbắc của Mác, nhấn mạnh bản chất con người được định hình, nhào nặn thông qua các mối quan hệ xã hội (kinh tế, chính trị, gia đình...) mà họ tham gia."
+  },
+  {
+    "cau_hoi": "Theo nguyên lý tồn tại xã hội quyết định ý thức xã hội, lối sống, phong tục tập quán của con người ở những vùng miền khác nhau là do:",
+    "phuong_an": {
+      "A": "Sự khác biệt về di truyền sinh học",
+      "B": "Điều kiện kinh tế - xã hội ở mỗi vùng miền khác nhau",
+      "C": "Sự an bài của đấng siêu nhiên",
+      "D": "Ý muốn ngẫu nhiên của các cá nhân"
+    },
+    "dap_an_dung": "B",
+    "giai_thich": "Lối sống và phong tục (thuộc ý thức xã hội/tâm lý xã hội) luôn được sinh ra từ chính hoàn cảnh sống, điều kiện sản xuất, sinh hoạt vật chất (tồn tại xã hội) đặc thù của từng vùng miền."
+  },
+  {
+    "cau_hoi": "Chọn phương án SAI: Theo chủ nghĩa duy vật lịch sử, nhà nước...",
+    "phuong_an": {
+      "A": "Ra đời cùng sự xuất hiện của con người",
+      "B": "Là bộ máy trấn áp của một giai cấp",
+      "C": "Là một hiện tượng mang tính lịch sử",
+      "D": "Sẽ tiêu vong khi các giai cấp biến mất"
+    },
+    "dap_an_dung": "A",
+    "giai_thich": "Con người xuất hiện từ thời nguyên thủy, nhưng khi đó xã hội chưa có giai cấp nên chưa hề có nhà nước. Nhà nước chỉ là sản phẩm của lịch sử khi xã hội phân chia giai cấp."
+  },
+  {
+    "cau_hoi": "Từ nguyên lý tồn tại xã hội quyết định ý thức xã hội của chủ nghĩa duy vật lịch sử, cho thấy tâm lý tiểu nông của người Việt Nam truyền thống căn bản là do:",
+    "phuong_an": {
+      "A": "Hệ tư tưởng Nho giáo áp đặt",
+      "B": "Bản tính lười biếng bẩm sinh",
+      "C": "Phương thức sản xuất tiểu nông, manh mún, lạc hậu",
+      "D": "Sự cai trị của thực dân phương Tây"
+    },
+    "dap_an_dung": "C",
+    "giai_thich": "Tâm lý tiểu nông (hẹp hòi, bảo thủ, tùy tiện...) là phản ánh trực tiếp của nền tảng kinh tế vật chất (tồn tại xã hội): đó là nền nông nghiệp trồng lúa nước nhỏ lẻ, manh mún, phụ thuộc thiên nhiên bao đời nay."
   }
 ]
