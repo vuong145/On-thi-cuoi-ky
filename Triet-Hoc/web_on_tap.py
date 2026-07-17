@@ -37,6 +37,7 @@ if "50 câu" in che_do:
         st.session_state.de_50_cau = random.sample(ngan_hang, min(50, len(ngan_hang)))
         st.session_state.diem_50_cau = 0
         st.session_state.so_cau_da_lam_50 = 0
+        st.session_state.so_dap_an_dung = 0 
     bo_de_hien_tai = st.session_state.de_50_cau
 elif "chung" in che_do or "vô tận" in che_do:
     bo_de_hien_tai = ngan_hang
@@ -56,7 +57,8 @@ else:
         st.session_state.chi_so_cau = 0
         st.session_state.da_tra_loi = False
         st.session_state.che_do_cu = che_do
-        st.session_state.so_dap_an_dung = 0  # Đếm số câu đúng
+        st.session_state.so_dap_an_dung = 0
+        st.session_state.so_dap_an_dung = 0 # Đếm số câu đúng
 
     # Kiểm tra nếu đã làm hết các câu trong lượt hiện tại
     if st.session_state.chi_so_cau >= len(st.session_state.danh_sach_cau):
