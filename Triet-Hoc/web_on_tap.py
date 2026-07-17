@@ -11,7 +11,7 @@ local_storage = LocalStorage()
 
 @st.cache_data
 def tai_ngan_hang_de():
-    with open("triet_data.json", "r", encoding="utf-8") as file:
+    with open("Triet-Hoc/triet_data.json", "r", encoding="utf-8") as file:
         return json.load(file)
 
 ngan_hang = tai_ngan_hang_de()
