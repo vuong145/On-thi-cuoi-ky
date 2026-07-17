@@ -101,7 +101,8 @@ else:
             
             if dap_an_user == cau_hien_tai["dap_an_dung"]:
                 st.success("✓ Chính xác!")
-                st.session_state.so_dap_an_dung += 1
+                if "50 câu" in che_do:
+                    st.session_state.so_dap_an_dung += 1
                 if "Luyện lại câu sai" in che_do and cau_hien_tai in cac_cau_sai_da_luu:
                     cac_cau_sai_da_luu.remove(cau_hien_tai)
                     local_storage.setItem("cac_cau_sai", json.dumps(cac_cau_sai_da_luu))
