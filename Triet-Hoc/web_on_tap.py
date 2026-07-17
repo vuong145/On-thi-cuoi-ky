@@ -24,7 +24,8 @@ else:
 st.sidebar.header("Chế độ học")
 che_do = st.sidebar.radio(
     "Bạn muốn làm gì?", 
-    ["Thi thử vô tận", "Thi thử 50 câu", f"Luyện lại câu sai ({len(cac_cau_sai_da_luu)} câu)"]
+    ["Thi thử vô tận", "Thi thử 50 câu", f"Luyện lại câu sai ({len(cac_cau_sai_da_luu)} câu)"],
+     key="che_do_radio"
 )
 
 # Reset toàn bộ khi đổi chế độ
