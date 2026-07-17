@@ -56,51 +56,51 @@ else:
         
         cac_lua_chon = [f"{k}. {v}" for k, v in cau_hien_tai["phuong_an"].items()]
         
-        # Vô hiệu hóa ô chọn đáp án sau khi đã nộp bài để tránh người dùng sửa đáp án
-        chon_lua = st.radio(
-            "Chọn đáp án của bạn:", 
-            cac_lua_chon, 
-            index=None, 
-            disabled=st.session_state.da_tra_loi
-        )
-        
-        # Chỉ hiển thị nút Nộp bài nếu chưa trả lời
-        if not st.session_state.da_tra_loi:
-            if st.button("Nộp bài"):
-                if chon_lua is not None:
-                    st.session_state.da_tra_loi = True
-                    st.rerun()
-                else:
-                    st.warning("Vui lòng chọn một đáp án trước khi nộp bài!")
+# ... existing code up to st.radio line ...
 
-        # Khối xử lý hiển thị kết quả và các nút điều hướng khi ĐÃ TRẢ LỜI
-        if st.session_state.da_tra_loi and chon_lua is not None:
-            dap_an_user = chon_lua[0]
-            
-            if dap_an_user == cau_hien_tai["dap_an_dung"]:
-                st.success(" 正 Chính xác!")
-                if "Luyện lại câu sai" in che_do and cau_hien_tai in cac_cau_sai_da_luu:
-                    cac_cau_sai_da_luu.remove(cau_hien_tai)
-                    local_storage.setItem("cac_cau_sai", json.dumps(cac_cau_sai_da_luu))
-            else:
-                st.error(f" ✘ Sai rồi! Đáp án đúng là: {cau_hien_tai['dap_an_dung']}")
-                if "Thi thử bộ đề chung" in che_do and cau_hien_tai not in cac_cau_sai_da_luu:
-                    cac_cau_sai_da_luu.append(cau_hien_tai)
-                    local_storage.setItem("cac_cau_sai", json.dumps(cac_cau_sai_da_luu))
-            
-            st.info(f"**Giải thích:** {cau_hien_tai['giai_thich']}")
-            
-            # --- KHU VỰC CÁC NÚT ĐIỀU HƯỚNG BÊN NGOÀI ---
-            st.write("---")
-            col1, col2 = st.columns(2)
-            with col1:
-                if st.button("➡️ Câu tiếp theo"):
-                    st.session_state.chi_so_cau += 1
-                    st.session_state.da_tra_loi = False
-                    st.rerun()
-            with col2:
-                if st.button("🔄 Đổi lượt / Xáo bài ngay"):
-                    st.session_state.danh_sach_cau = random.sample(bo_de_hien_tai, len(bo_de_hien_tai))
-                    st.session_state.chi_so_cau = 0
-                    st.session_state.da_tra_loi = False
-                    st.rerun()
+# Vô hiệu hóa ô chọn đáp án sau khi đã nộp bài để tránh người dùng sửa đáp án
+if not st.session_state.da_tra_loi:
+    chon_lua = st.radio(
+        "Chọn đáp án của bạn:", 
+        cac_lua_chon, 
+        index=None
+    )
+    
+    if st.button("Nộp bài"):
+        if chon_lua is not None:
+            st.session_state.da_tra_loi = True
+            st.session_state.cau_tra_loi_hien_tai = chon_lua[0]  # Lưu đáp án
+            st.rerun()
+        else:
+            st.warning("Vui lòng chọn một đáp án trước khi nộp bài!")
+
+if st.session_state.da_tra_loi:
+    dap_an_user = st.session_state.cau_tra_loi_hien_tai
+    
+    if dap_an_user == cau_hien_tai["dap_an_dung"]:
+        st.success("✓ Chính xác!")
+        if "Luyện lại câu sai" in che_do and cau_hien_tai in cac_cau_sai_da_luu:
+            cac_cau_sai_da_luu.remove(cau_hien_tai)
+            local_storage.setItem("cac_cau_sai", json.dumps(cac_cau_sai_da_luu))
+    else:
+        st.error(f"✘ Sai rồi! Đáp án đúng là: {cau_hien_tai['dap_an_dung']}")
+        if "Thi thử bộ đề chung" in che_do and cau_hien_tai not in cac_cau_sai_da_luu:
+            cac_cau_sai_da_luu.append(cau_hien_tai)
+            local_storage.setItem("cac_cau_sai", json.dumps(cac_cau_sai_da_luu))
+    
+    st.info(f"**Giải thích:** {cau_hien_tai['giai_thich']}")
+    
+    # --- KHU VỰC CÁC NÚT ĐIỀU HƯỚNG BÊN NGOÀI ---
+    st.write("---")
+    col1, col2 = st.columns(2)
+    with col1:
+        if st.button("➡️ Câu tiếp theo"):
+            st.session_state.chi_so_cau += 1
+            st.session_state.da_tra_loi = False
+            st.rerun()
+    with col2:
+        if st.button("🔄 Đổi lượt / Xáo bài ngay"):
+            st.session_state.danh_sach_cau = random.sample(bo_de_hien_tai, len(bo_de_hien_tai))
+            st.session_state.chi_so_cau = 0
+            st.session_state.da_tra_loi = False
+            st.rerun()        
