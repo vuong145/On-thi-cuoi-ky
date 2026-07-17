@@ -6,7 +6,6 @@ from streamlit_local_storage import LocalStorage
 st.set_page_config(page_title="Thi Thử Triết Học", page_icon="📚")
 st.title("📚 Ôn Thi Trắc Nghiệm Triết Học")
 
-# Khởi tạo bộ lưu trữ cục bộ trên trình duyệt của người dùng
 local_storage = LocalStorage()
 
 @st.cache_data
@@ -16,42 +15,38 @@ def tai_ngan_hang_de():
 
 ngan_hang = tai_ngan_hang_de()
 
-# Lấy danh sách câu sai đã lưu từ trước trong trình duyệt
 cac_cau_sai_da_luu = local_storage.getItem("cac_cau_sai")
 if cac_cau_sai_da_luu is None:
     cac_cau_sai_da_luu = []
 else:
     cac_cau_sai_da_luu = json.loads(cac_cau_sai_da_luu)
 
-# --- PHẦN MENU CHỌN CHẾ ĐỘ HỌC BÊN TRÁI ---
 st.sidebar.header("Chế độ học")
 che_do = st.sidebar.radio(
     "Bạn muốn làm gì?", 
     ["Thi thử vô tận", "Thi thử 50 câu", f"Luyện lại câu sai ({len(cac_cau_sai_da_luu)} câu)"]
 )
 
-# Xác định bộ đề hiện tại - chỉ reset khi đổi chế độ
+# Reset toàn bộ khi đổi chế độ
 if "che_do_cu" not in st.session_state or st.session_state.che_do_cu != che_do:
-    if "50 câu" in che_do:
-        st.session_state.de_50_cau = random.sample(ngan_hang, min(50, len(ngan_hang)))
-        st.session_state.bo_de_hien_tai = st.session_state.de_50_cau
-    elif "vô tận" in che_do:
-        st.session_state.bo_de_hien_tai = ngan_hang[:]  # copy để tránh tham chiếu
-    else:
-        st.session_state.bo_de_hien_tai = cac_cau_sai_da_luu[:]
-    
-    st.session_state.danh_sach_cau = random.sample(st.session_state.bo_de_hien_tai, len(st.session_state.bo_de_hien_tai))
+    st.session_state.che_do_cu = che_do
     st.session_state.chi_so_cau = 0
     st.session_state.da_tra_loi = False
-    st.session_state.che_do_cu = che_do
     st.session_state.so_dap_an_dung = 0
+    
+    if "50 câu" in che_do:
+        st.session_state.danh_sach_cau = random.sample(ngan_hang, min(50, len(ngan_hang)))
+        st.session_state.de_50_cau = st.session_state.danh_sach_cau
+    elif "vô tận" in che_do:
+        st.session_state.danh_sach_cau = random.sample(ngan_hang, len(ngan_hang))
+        st.session_state.de_50_cau = None
+    else:
+        st.session_state.danh_sach_cau = random.sample(cac_cau_sai_da_luu, len(cac_cau_sai_da_luu))
+        st.session_state.de_50_cau = None
 
-bo_de_hien_tai = st.session_state.bo_de_hien_tai
-
-if not bo_de_hien_tai:
+if not st.session_state.danh_sach_cau:
     st.info("Hiện tại bạn chưa có câu nào bị sai! Hãy chọn chế độ Thi thử bộ đề chung bên menu trái.")
 else:
-    # Kiểm tra nếu đã làm hết các câu trong lượt hiện tại
     if st.session_state.chi_so_cau >= len(st.session_state.danh_sach_cau):
         if "50 câu" in che_do:
             st.balloons()
@@ -63,10 +58,12 @@ else:
         
         if st.button("🔄 Làm lại từ đầu"):
             if "50 câu" in che_do:
-                st.session_state.de_50_cau = random.sample(ngan_hang, min(50, len(ngan_hang)))
-                st.session_state.danh_sach_cau = st.session_state.de_50_cau
+                st.session_state.danh_sach_cau = random.sample(ngan_hang, min(50, len(ngan_hang)))
+                st.session_state.de_50_cau = st.session_state.danh_sach_cau
+            elif "vô tận" in che_do:
+                st.session_state.danh_sach_cau = random.sample(ngan_hang, len(ngan_hang))
             else:
-                st.session_state.danh_sach_cau = random.sample(bo_de_hien_tai, len(bo_de_hien_tai))
+                st.session_state.danh_sach_cau = random.sample(cac_cau_sai_da_luu, len(cac_cau_sai_da_luu))
             st.session_state.chi_so_cau = 0
             st.session_state.da_tra_loi = False
             st.session_state.so_dap_an_dung = 0
@@ -128,10 +125,12 @@ else:
             with col2:
                 if st.button("🔄 Đổi lượt / Xáo bài ngay"):
                     if "50 câu" in che_do:
-                        st.session_state.de_50_cau = random.sample(ngan_hang, min(50, len(ngan_hang)))
-                        st.session_state.danh_sach_cau = st.session_state.de_50_cau
+                        st.session_state.danh_sach_cau = random.sample(ngan_hang, min(50, len(ngan_hang)))
+                        st.session_state.de_50_cau = st.session_state.danh_sach_cau
+                    elif "vô tận" in che_do:
+                        st.session_state.danh_sach_cau = random.sample(ngan_hang, len(ngan_hang))
                     else:
-                        st.session_state.danh_sach_cau = random.sample(bo_de_hien_tai, len(bo_de_hien_tai))
+                        st.session_state.danh_sach_cau = random.sample(cac_cau_sai_da_luu, len(cac_cau_sai_da_luu))
                     st.session_state.chi_so_cau = 0
                     st.session_state.da_tra_loi = False
                     st.session_state.so_dap_an_dung = 0
