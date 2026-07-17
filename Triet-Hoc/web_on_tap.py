@@ -27,35 +27,68 @@ else:
 st.sidebar.header("Chế độ học")
 che_do = st.sidebar.radio(
     "Bạn muốn làm gì?", 
-    ["Thi thử bộ đề chung", f"Luyện lại câu sai ({len(cac_cau_sai_da_luu)} câu)"]
+    ["Thi thử vô tận", "Thi thử 50 câu", f"Luyện lại câu sai ({len(cac_cau_sai_da_luu)} câu)"]
 )
 
-bo_de_hien_tai = ngan_hang if "chung" in che_do else cac_cau_sai_da_luu
+# Xác định bộ đề hiện tại
+if "50 câu" in che_do:
+    # Tạo đề 50 câu mới nếu chưa có
+    if "de_50_cau" not in st.session_state or st.session_state.che_do_cu != che_do:
+        st.session_state.de_50_cau = random.sample(ngan_hang, min(50, len(ngan_hang)))
+        st.session_state.diem_50_cau = 0
+        st.session_state.so_cau_da_lam_50 = 0
+    bo_de_hien_tai = st.session_state.de_50_cau
+elif "chung" in che_do or "vô tận" in che_do:
+    bo_de_hien_tai = ngan_hang
+else:
+    bo_de_hien_tai = cac_cau_sai_da_luu
 
 if not bo_de_hien_tai:
     st.info("Hiện tại bạn chưa có câu nào bị sai! Hãy chọn chế độ Thi thử bộ đề chung bên menu trái.")
 else:
     # Tự động xáo bài và reset khi người dùng đổi chế độ ở menu
     if "che_do_cu" not in st.session_state or st.session_state.che_do_cu != che_do:
-        st.session_state.danh_sach_cau = random.sample(bo_de_hien_tai, len(bo_de_hien_tai))
+        # Chỉ xáo bài nếu không phải chế độ 50 câu (vì 50 câu đã xử lý riêng)
+        if "50 câu" not in che_do:
+            st.session_state.danh_sach_cau = random.sample(bo_de_hien_tai, len(bo_de_hien_tai))
+        else:
+            st.session_state.danh_sach_cau = st.session_state.de_50_cau
         st.session_state.chi_so_cau = 0
         st.session_state.da_tra_loi = False
         st.session_state.che_do_cu = che_do
+        st.session_state.so_dap_an_dung = 0  # Đếm số câu đúng
 
     # Kiểm tra nếu đã làm hết các câu trong lượt hiện tại
     if st.session_state.chi_so_cau >= len(st.session_state.danh_sach_cau):
-        st.success("🎉 Bạn đã hoàn thành lượt câu hỏi này!")
-        if st.button("🔄 Xáo bài và làm lại từ đầu"):
-            st.session_state.danh_sach_cau = random.sample(bo_de_hien_tai, len(bo_de_hien_tai))
+        if "50 câu" in che_do:
+            # Hiển thị kết quả cho đề 50 câu
+            st.balloons()
+            st.success(f"🎉 Bạn đã hoàn thành đề 50 câu!")
+            st.metric("Điểm số", f"{st.session_state.so_dap_an_dung}/{len(st.session_state.danh_sach_cau)}")
+            st.metric("Tỷ lệ đúng", f"{st.session_state.so_dap_an_dung/len(st.session_state.danh_sach_cau)*100:.1f}%")
+        else:
+            st.success("🎉 Bạn đã hoàn thành lượt câu hỏi này!")
+        
+        if st.button("🔄 Làm lại từ đầu"):
+            if "50 câu" in che_do:
+                st.session_state.de_50_cau = random.sample(ngan_hang, min(50, len(ngan_hang)))
+                st.session_state.danh_sach_cau = st.session_state.de_50_cau
+            else:
+                st.session_state.danh_sach_cau = random.sample(bo_de_hien_tai, len(bo_de_hien_tai))
             st.session_state.chi_so_cau = 0
             st.session_state.da_tra_loi = False
+            st.session_state.so_dap_an_dung = 0
             st.rerun()
     else:
         cau_hien_tai = st.session_state.danh_sach_cau[st.session_state.chi_so_cau]
+        
+        # Hiển thị tiến độ cho đề 50 câu
+        if "50 câu" in che_do:
+            st.progress(st.session_state.chi_so_cau / len(st.session_state.danh_sach_cau))
+            st.caption(f"Câu {st.session_state.chi_so_cau + 1}/{len(st.session_state.danh_sach_cau)}")
+        
         st.subheader(f"Câu {st.session_state.chi_so_cau + 1}: {cau_hien_tai['cau_hoi']}")
         
-       # ... existing code up to cac_lua_chon ...
-
         cac_lua_chon = [f"{k}. {v}" for k, v in cau_hien_tai["phuong_an"].items()]
         
         # Luôn hiển thị radio button, chỉ vô hiệu hóa khi đã trả lời
@@ -82,16 +115,21 @@ else:
             
             if dap_an_user == cau_hien_tai["dap_an_dung"]:
                 st.success("✓ Chính xác!")
+                st.session_state.so_dap_an_dung += 1  # Tăng điểm
                 if "Luyện lại câu sai" in che_do and cau_hien_tai in cac_cau_sai_da_luu:
                     cac_cau_sai_da_luu.remove(cau_hien_tai)
                     local_storage.setItem("cac_cau_sai", json.dumps(cac_cau_sai_da_luu))
             else:
                 st.error(f"✘ Sai rồi! Đáp án đúng là: {cau_hien_tai['dap_an_dung']}")
-                if "Thi thử bộ đề chung" in che_do and cau_hien_tai not in cac_cau_sai_da_luu:
+                if "Luyện lại câu sai" not in che_do and cau_hien_tai not in cac_cau_sai_da_luu:
                     cac_cau_sai_da_luu.append(cau_hien_tai)
                     local_storage.setItem("cac_cau_sai", json.dumps(cac_cau_sai_da_luu))
             
             st.info(f"**Giải thích:** {cau_hien_tai['giai_thich']}")
+            
+            # Hiển thị điểm hiện tại cho đề 50 câu
+            if "50 câu" in che_do:
+                st.metric("Điểm hiện tại", f"{st.session_state.so_dap_an_dung}/{st.session_state.chi_so_cau + 1}")
             
             # --- KHU VỰC CÁC NÚT ĐIỀU HƯỚNG ---
             st.write("---")
@@ -103,7 +141,12 @@ else:
                     st.rerun()
             with col2:
                 if st.button("🔄 Đổi lượt / Xáo bài ngay"):
-                    st.session_state.danh_sach_cau = random.sample(bo_de_hien_tai, len(bo_de_hien_tai))
+                    if "50 câu" in che_do:
+                        st.session_state.de_50_cau = random.sample(ngan_hang, min(50, len(ngan_hang)))
+                        st.session_state.danh_sach_cau = st.session_state.de_50_cau
+                    else:
+                        st.session_state.danh_sach_cau = random.sample(bo_de_hien_tai, len(bo_de_hien_tai))
                     st.session_state.chi_so_cau = 0
                     st.session_state.da_tra_loi = False
+                    st.session_state.so_dap_an_dung = 0
                     st.rerun()
