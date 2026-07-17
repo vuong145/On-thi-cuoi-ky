@@ -39,7 +39,7 @@ if "50 câu" in che_do:
         st.session_state.so_cau_da_lam_50 = 0
         st.session_state.so_dap_an_dung = 0 
     bo_de_hien_tai = st.session_state.de_50_cau
-elif "chung" in che_do or "vô tận" in che_do:
+elif "vô tận" in che_do:
     bo_de_hien_tai = ngan_hang
 else:
     bo_de_hien_tai = cac_cau_sai_da_luu
