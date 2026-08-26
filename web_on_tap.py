@@ -5,41 +5,33 @@ import random
 import streamlit as st
 from streamlit_local_storage import LocalStorage
 
-st.set_page_config(page_title="Thi Thử Triết Học", page_icon="📚")
-st.title("📚 Ôn Thi Trắc Nghiệm Triết Học")
+st.set_page_config(page_title="Ôn Thi Trắc Nghiệm", page_icon="📚")
+st.title("📚 Ôn Thi Trắc Nghiệm")
 
 # Bộ lưu trữ cục bộ trên trình duyệt của người dùng
 local_storage = LocalStorage()
 
-
-@st.cache_data
-def tai_ngan_hang_de():
-    # Thử nhiều đường dẫn để app chạy được dù mở từ thư mục nào
-    thu_muc_script = os.path.dirname(os.path.abspath(__file__))
-    cac_duong_dan = [
-        os.path.join(thu_muc_script, "Triet-Hoc", "triet_data.json"),
-        os.path.join(thu_muc_script, "triet_data.json"),
-        "Triet-Hoc/triet_data.json",
-        "triet_data.json",
-    ]
-    for duong_dan in cac_duong_dan:
-        try:
-            with open(duong_dan, "r", encoding="utf-8") as file:
-                return json.load(file)
-        except FileNotFoundError:
-            continue
-    raise FileNotFoundError("Không tìm thấy file triet_data.json")
-
-
-ngan_hang = tai_ngan_hang_de()
-
 # ======================================================================
-# ẢNH CỔ VŨ: mỗi khi trả lời đúng 5 câu liên tục, một ảnh ngẫu nhiên
-# trong thư mục "anh_co_vu" sẽ hiện ra ở cột bên phải để cổ vũ.
-# - Ưu tiên thư mục "anh_co_vu" ĐÃ CÓ ẢNH (có thể dùng chung).
-# - Nếu chưa có ảnh, app sẽ tự tạo thư mục "anh_co_vu" cạnh file chạy.
-# Hỗ trợ định dạng: .png .jpg .jpeg .gif .webp .bmp
+# 📖 DANH SÁCH MÔN HỌC
+# ----------------------------------------------------------------------
+# MUỐN THÊM MÔN MỚI, chỉ cần làm 3 bước:
+#   1. Tạo thư mục môn học trong repo, ví dụ:  Toan-hoc/
+#   2. Bỏ file ngân hàng câu hỏi (JSON, cấu trúc giống triet_data.json)
+#      vào thư mục đó, ví dụ:                  Toan-hoc/toan_data.json
+#   3. Thêm 1 dòng vào MON_HOC bên dưới, ví dụ:
+#        "Toán học": {
+#            "thu_muc": "Toan-hoc",
+#            "file_json": "toan_data.json",
+#        },
+# Giao diện sẽ tự động hiện thêm môn đó trong dropdown bên trái.
 # ======================================================================
+MON_HOC = {
+    "Triết học": {
+        "thu_muc": "Triet-Hoc",
+        "file_json": "triet_data.json",
+    },
+}
+
 THU_MUC_SCRIPT = os.path.dirname(os.path.abspath(__file__))
 DINH_DANG_ANH = (".png", ".jpg", ".jpeg", ".gif", ".webp", ".bmp")
 
@@ -63,14 +55,46 @@ anh_co_vu = sorted(
     ten for ten in os.listdir(THU_MUC_ANH) if ten.lower().endswith(DINH_DANG_ANH)
 )
 
-# Danh sách câu sai đã lưu trên trình duyệt của người dùng
-cac_cau_sai_da_luu = local_storage.getItem("cac_cau_sai")
+
+@st.cache_data
+def tai_ngan_hang_cau_hoi(thu_muc, file_json):
+    """Đọc ngân hàng câu hỏi của môn đang chọn (thử nhiều đường dẫn cho chắc)."""
+    cac_duong_dan = [
+        os.path.join(THU_MUC_SCRIPT, thu_muc, file_json),
+        os.path.join(THU_MUC_SCRIPT, thu_muc.lower(), file_json),
+        os.path.join(THU_MUC_SCRIPT, file_json),
+        file_json,
+    ]
+    for duong_dan in cac_duong_dan:
+        try:
+            with open(duong_dan, "r", encoding="utf-8") as file:
+                return json.load(file)
+        except FileNotFoundError:
+            continue
+    raise FileNotFoundError(f"Không tìm thấy file '{file_json}' của môn '{thu_muc}'.")
+
+
+# ---------------- MENU CHỌN MÔN HỌC (bên trái) ----------------
+st.sidebar.header("Môn học")
+ten_mon = st.sidebar.selectbox("Chọn môn cần ôn tập:", list(MON_HOC.keys()))
+thong_tin_mon = MON_HOC[ten_mon]
+st.sidebar.caption(f"📖 Đang ôn: **{ten_mon}**")
+
+# Khóa lưu câu sai RIÊNG cho từng môn (lưu trên trình duyệt của người dùng)
+KHOI_CAU_SAI = f"cac_cau_sai_{thong_tin_mon['thu_muc'].lower()}"
+
+cac_cau_sai_da_luu = local_storage.getItem(KHOI_CAU_SAI)
+if cac_cau_sai_da_luu is None:
+    # Chuyển dữ liệu cũ (khóa "cac_cau_sai") cho môn đầu tiên
+    du_lieu_cu = local_storage.getItem("cac_cau_sai")
+    if du_lieu_cu is not None:
+        cac_cau_sai_da_luu = du_lieu_cu
 if cac_cau_sai_da_luu is None:
     cac_cau_sai_da_luu = []
 else:
     cac_cau_sai_da_luu = json.loads(cac_cau_sai_da_luu)
 
-# --- MENU CHỌN CHẾ ĐỘ HỌC ---
+# ---------------- MENU CHỌN CHẾ ĐỘ HỌC (bên trái) ----------------
 st.sidebar.header("Chế độ học")
 che_do = st.sidebar.radio(
     "Bạn muốn làm gì?",
@@ -78,6 +102,13 @@ che_do = st.sidebar.radio(
     key="che_do_radio",
 )
 
+# Tải ngân hàng câu hỏi của môn đang chọn
+try:
+    ngan_hang = tai_ngan_hang_cau_hoi(thong_tin_mon["thu_muc"], thong_tin_mon["file_json"])
+except FileNotFoundError as loi:
+    st.error(str(loi))
+    st.info("Hãy kiểm tra lại mục MON_HOC ở đầu file web_on_tap.py.")
+    st.stop()
 
 def tao_de_moi():
     """Xáo lại bộ đề của chế độ hiện tại và quay về câu đầu tiên."""
@@ -99,12 +130,15 @@ def tinh_diem():
     return sum(1 for tt in st.session_state.cac_cau_da_tra_loi.values() if tt["dung"])
 
 
-# Reset toàn bộ khi lần đầu chạy hoặc khi đổi chế độ
-if "che_do_cu" not in st.session_state or st.session_state.che_do_cu != che_do:
+# Reset toàn bộ khi: lần đầu chạy, ĐỔI MÔN hoặc ĐỔI CHẾ ĐỘ
+if ("mon_cu" not in st.session_state or st.session_state.mon_cu != ten_mon
+        or "che_do_cu" not in st.session_state or st.session_state.che_do_cu != che_do):
+    st.session_state.mon_cu = ten_mon
     st.session_state.che_do_cu = che_do
     tao_de_moi()
 
 danh_sach_cau = st.session_state.danh_sach_cau
+
 if not danh_sach_cau:
     st.info("Hiện tại bạn chưa có câu nào bị sai! Hãy chọn chế độ Thi thử bộ đề chung bên menu trái.")
 else:
@@ -184,13 +218,13 @@ else:
                             # Luyện câu sai: làm đúng thì xóa câu đó khỏi danh sách sai
                             if "Luyện lại câu sai" in che_do and cau_hien_tai in cac_cau_sai_da_luu:
                                 cac_cau_sai_da_luu.remove(cau_hien_tai)
-                                local_storage.setItem("cac_cau_sai", json.dumps(cac_cau_sai_da_luu))
+                                local_storage.setItem(KHOI_CAU_SAI, json.dumps(cac_cau_sai_da_luu))
                         else:
                             st.session_state.chuoi_dung_lien_tiep = 0
                             # Thi thử: làm sai thì thêm câu đó vào danh sách câu sai
                             if "Luyện lại câu sai" not in che_do and cau_hien_tai not in cac_cau_sai_da_luu:
                                 cac_cau_sai_da_luu.append(cau_hien_tai)
-                                local_storage.setItem("cac_cau_sai", json.dumps(cac_cau_sai_da_luu))
+                                local_storage.setItem(KHOI_CAU_SAI, json.dumps(cac_cau_sai_da_luu))
 
                         st.rerun()
                     else:
