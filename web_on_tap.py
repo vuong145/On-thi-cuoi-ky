@@ -36,11 +36,11 @@ THU_MUC_SCRIPT = os.path.dirname(os.path.abspath(__file__))
 DINH_DANG_ANH = (".png", ".jpg", ".jpeg", ".gif", ".webp", ".bmp")
 
 # ======================================================================
-# ẢNH CỔ VŨ & ẢNH CHẾ GIỄU
+# ẢNH CỔ VŨ & ẢNH CHẾ GIỄU (ảnh, GIF, hoặc video ngắn đều được)
 # Trong thư mục anh_co_vu/ có 2 thư mục con:
-#   - anh_co_vu/anh_co_vu/     -> ảnh cổ vũ    (đúng 5 câu liên tục -> hiện 1 ảnh)
-#   - anh_co_vu/anh_che_gieu/  -> ảnh chế giễu (sai 3 câu liên tục -> hiện 1 ảnh)
-# Chỉ cần bỏ ảnh (.png/.jpg/.jpeg/.gif/.webp/.bmp) vào 2 thư mục đó.
+#   - anh_co_vu/anh_co_vu/     -> ảnh cổ vũ    (đúng 5 câu liên tục -> hiện 1 file)
+#   - anh_co_vu/anh_che_gieu/  -> ảnh chế giễu (sai 3 câu liên tục -> hiện 1 file)
+# Bỏ file (.png .jpg .jpeg .gif .webp .bmp .mp4 .webm .ogg .mov) vào 2 thư mục đó.
 # ======================================================================
 THU_MUC_ANH = os.path.join(THU_MUC_SCRIPT, "anh_co_vu")
 THU_MUC_ANH_CO_VU = os.path.join(THU_MUC_ANH, "anh_co_vu")
@@ -48,11 +48,14 @@ THU_MUC_ANH_CHE_GIEU = os.path.join(THU_MUC_ANH, "anh_che_gieu")
 os.makedirs(THU_MUC_ANH_CO_VU, exist_ok=True)
 os.makedirs(THU_MUC_ANH_CHE_GIEU, exist_ok=True)
 
+DINH_DANG_VIDEO = (".mp4", ".webm", ".ogg", ".mov")
+DINH_DANG_HOP_LE = DINH_DANG_ANH + DINH_DANG_VIDEO
+
 anh_co_vu = sorted(
-    ten for ten in os.listdir(THU_MUC_ANH_CO_VU) if ten.lower().endswith(DINH_DANG_ANH)
+    ten for ten in os.listdir(THU_MUC_ANH_CO_VU) if ten.lower().endswith(DINH_DANG_HOP_LE)
 )
 anh_che_gieu = sorted(
-    ten for ten in os.listdir(THU_MUC_ANH_CHE_GIEU) if ten.lower().endswith(DINH_DANG_ANH)
+    ten for ten in os.listdir(THU_MUC_ANH_CHE_GIEU) if ten.lower().endswith(DINH_DANG_HOP_LE)
 )
 
 
@@ -281,15 +284,18 @@ else:
                 tao_de_moi()
                 st.rerun()
 
-        # ----- Cột phải: ảnh bất ngờ (cổ vũ hoặc chế giễu), không kèm chữ -----
+        # ----- Cột phải: ảnh/video bất ngờ (cổ vũ hoặc chế giễu), không kèm chữ -----
         with cot_anh_co_vu:
             anh_bat_ngo = (
                 st.session_state.anh_co_vu_hien_tai
                 or st.session_state.anh_che_gieu_hien_tai
             )
             if anh_bat_ngo:
-                st.image(
-                    anh_bat_ngo,
-                    width="stretch",
-                )
+                if anh_bat_ngo.lower().endswith(DINH_DANG_VIDEO):
+                    st.video(anh_bat_ngo, autoplay=True, loop=True)
+                else:
+                    st.image(
+                        anh_bat_ngo,
+                        width="stretch",
+                    )
 

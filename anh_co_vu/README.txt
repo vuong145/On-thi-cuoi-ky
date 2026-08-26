@@ -6,8 +6,8 @@ Trong thư mục này có **2 thư mục con**:
 
 ## 📤 Cách thêm ảnh để mọi người xem được trên Streamlit Cloud
 
-1. Bỏ ảnh (.png .jpg .jpeg .gif .webp .bmp) vào 1 trong 2 thư mục con ở trên
-   (đặt tên không dấu, VD: anh1.png).
+1. Bỏ ảnh/GIF/video ngắn (.png .jpg .jpeg .gif .webp .bmp .mp4 .webm .ogg .mov)
+   vào 1 trong 2 thư mục con ở trên (đặt tên không dấu, VD: anh1.png, video1.mp4).
 2. Commit và push lên GitHub:
        git add anh_co_vu
        git commit -m "Them anh co vu / che gieu"

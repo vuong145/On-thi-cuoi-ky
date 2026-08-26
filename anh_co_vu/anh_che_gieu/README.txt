@@ -1,4 +1,8 @@
-﻿# THU MUC ANH CHE GIEU
+﻿📁 THƯ MỤC ẢNH CHẾ GIỄU
 
-Bo cac file anh (.png .jpg .jpeg .gif .webp .bmp) vao thu muc nay.
-Moi khi tra loi SAI 3 cau lien tuc, web se hien ngau nhien 1 anh tu thu muc nay.
+Bỏ các file vào đây:
+- Ảnh: .png .jpg .jpeg .webp .bmp
+- GIF động: .gif
+- Video ngắn: .mp4 .webm .ogg .mov
+
+Mỗi khi trả lời SAI 3 câu liên tục, web sẽ hiện ngẫu nhiên 1 file từ thư mục này.
