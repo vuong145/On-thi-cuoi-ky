@@ -1,6 +1,6 @@
 # On-thi-cuoi-ky
 
-📚 Web ôn thi trắc nghiệm **nhiều môn** (hiện tại: **Triết học**).
+📚 Web ôn thi trắc nghiệm **nhiều môn** .
 Chạy bằng: `streamlit run web_on_tap.py`
 
 ## 📁 Cấu trúc thư mục
@@ -13,7 +13,7 @@ Triet-Hoc/
 anh_co_vu/               <- ảnh cổ vũ (trả lời đúng 5 câu liên tục -> hiện 1 ảnh ngẫu nhiên)
 ```
 
-## ➕ Thêm môn học mới (rất đơn giản)
+## ➕ Thêm môn học mới 
 
 1. Tạo thư mục môn học, ví dụ: `Toan-hoc/`
 2. Bỏ file ngân hàng câu hỏi (JSON, cấu trúc giống `Triet-Hoc/triet_data.json`)
