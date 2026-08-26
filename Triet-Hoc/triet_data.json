@@ -4980,5 +4980,995 @@
     },
     "dap_an_dung": "C",
     "giai_thich": "Tâm lý tiểu nông (hẹp hòi, bảo thủ, tùy tiện...) là phản ánh trực tiếp của nền tảng kinh tế vật chất (tồn tại xã hội): đó là nền nông nghiệp trồng lúa nước nhỏ lẻ, manh mún, phụ thuộc thiên nhiên bao đời nay."
+  },
+  {
+    "cau_hoi": "Ai là người phát biểu luận điểm nổi tiếng: 'Không ai tắm hai lần trên một dòng sông'?",
+    "phuong_an": {
+      "A": "Thales",
+      "B": "Anaximander",
+      "C": "Heraclitus (Hê-ra-clít)",
+      "D": "Democritus"
+    },
+    "dap_an_dung": "C",
+    "giai_thich": "Triết gia Hy Lạp cổ đại Heraclitus (Hê-ra-clít) là tác giả của câu nói nổi tiếng này để diễn tả tính biện chứng khách quan, sự vận động và biến đổi không ngừng của thế giới vật chất [7, 12]."
+  },
+  {
+    "cau_hoi": "Theo quan điểm triết học Mác - Lênin, trong một tác phẩm văn học nghệ thuật thì phạm trù 'hình thức' dùng để chỉ yếu tố nào sau đây?",
+    "phuong_an": {
+      "A": "Ý đồ tư tưởng chủ đạo của tác phẩm",
+      "B": "Ngôn ngữ, cấu trúc bố cục và phương pháp thể hiện",
+      "C": "Giá trị hiện thực và tính nhân văn của tác phẩm",
+      "D": "Toàn bộ thông điệp đạo đức mà tác phẩm truyền tải"
+    },
+    "dap_an_dung": "B",
+    "giai_thich": "Hình thức là phương thức tồn tại và biểu hiện của nội dung. Trong một tác phẩm nghệ thuật, hình thức bao gồm ngôn ngữ biểu đạt, bố cục cấu trúc, cách thức tổ chức các tình tiết [7]."
+  },
+  {
+    "cau_hoi": "Tác phẩm nào của C. Mác không chỉ là một công trình kinh tế học đồ sộ mà còn là sự bổ sung, phát triển to lớn đối với Triết học Mác nói riêng và học thuyết Mác nói chung?",
+    "phuong_an": {
+      "A": "Hệ tư tưởng Đức",
+      "B": "Gia đình thần thánh",
+      "C": "Tuyên ngôn của Đảng Cộng sản",
+      "D": "Bộ Tư bản (Bộ Tư Tưởng)"
+    },
+    "dap_an_dung": "D",
+    "giai_thich": "Tác phẩm 'Bộ Tư bản' (ở trang 70 giáo trình đôi khi dịch nghĩa rộng là Bộ Tư Tưởng) là công trình vĩ đại nhất của C.Mác, đóng vai trò phát triển triệt để chủ nghĩa duy vật biện chứng và duy vật lịch sử vào việc nghiên cứu xã hội tư bản [3, 7]."
+  },
+  {
+    "cau_hoi": "Xét đến cùng, sự vận động và phát triển của lịch sử xã hội loài người được quyết định bởi yếu tố nào?",
+    "phuong_an": {
+      "A": "Sự biến đổi của cơ cấu giai cấp",
+      "B": "Sự phát triển của lực lượng sản xuất",
+      "C": "Sự thay đổi của hệ tư tưởng xã hội",
+      "D": "Các chính sách pháp luật của Nhà nước"
+    },
+    "dap_an_dung": "B",
+    "giai_thich": "Chủ nghĩa duy vật lịch sử khẳng định rằng xét đến cùng, sự vận động và phát triển của xã hội bắt nguồn từ sự biến đổi và phát triển của lực lượng sản xuất vật chất [6, 13, 14]."
+  },
+  {
+    "cau_hoi": "Tính chất đặc trưng và nổi bật nhất của hình thái ý thức khoa học là gì?",
+    "phuong_an": {
+      "A": "Tính trực quan cảm tính và tự phát",
+      "B": "Tính hệ thống, tính khách quan, tính chính xác và tính thực tiễn kiểm nghiệm được",
+      "C": "Tính siêu nhiên, sùng bái đức tin và giáo điều",
+      "D": "Tính trừu tượng, tư biện và xa rời hoàn toàn đời sống"
+    },
+    "dap_an_dung": "B",
+    "giai_thich": "Ý thức khoa học phản ánh thế giới khách quan dưới dạng các tri thức chân thực đã được hệ thống hóa, khái quát hóa thành khái niệm, định luật, có khả năng chứng minh và kiểm nghiệm bằng thực tiễn [7, 8]."
+  },
+  {
+    "cau_hoi": "Tính phổ biến của ý thức đạo đức thể hiện qua đặc điểm nào sau đây?",
+    "phuong_an": {
+      "A": "Được áp đặt bắt buộc bằng các thiết chế bạo lực pháp luật",
+      "B": "Điều chỉnh hành vi của con người trong mối quan hệ với cộng đồng bằng dư luận xã hội và lương tâm",
+      "C": "Chỉ tồn tại ở giai cấp thống trị trong xã hội đối kháng",
+      "D": "Hoàn toàn không thay đổi theo thời gian và hoàn cảnh sống"
+    },
+    "dap_an_dung": "B",
+    "giai_thich": "Ý thức đạo đức là hệ thống các chuẩn mực điều chỉnh quan hệ giữa người với người trong cộng đồng một cách tự nguyện, dựa trên sức mạnh của dư luận xã hội, phong tục tập quán và lương tâm cá nhân [7, 8]."
+  },
+  {
+    "cau_hoi": "Ý thức nghệ thuật (thẩm mỹ) phản ánh thế giới khách quan chủ yếu thông qua hình thức nào?",
+    "phuong_an": {
+      "A": "Hệ thống các khái niệm, quy luật logic chặt chẽ",
+      "B": "Các hình tượng nghệ thuật cảm tính mang tính thẩm mỹ và giá trị nhân loại",
+      "C": "Lòng tin tôn giáo vào đấng sáng tạo siêu nhiên",
+      "D": "Các điều luật, quy định cưỡng chế của cơ quan công quyền"
+    },
+    "dap_an_dung": "B",
+    "giai_thich": "Nghệ thuật phản ánh hiện thực bằng các hình tượng nghệ thuật sinh động, khơi gợi xúc cảm thẩm mỹ và tính nhân bản sâu sắc của con người [7, 8]."
+  },
+  {
+    "cau_hoi": "Hãy sắp xếp các hình thức cộng đồng người theo tiến trình lịch sử từ thấp đến cao?",
+    "phuong_an": {
+      "A": "Bộ lạc -> Thị tộc -> Dân tộc -> Bộ tộc",
+      "B": "Thị tộc -> Bộ lạc -> Bộ tộc -> Dân tộc",
+      "C": "Thị tộc -> Bộ tộc -> Bộ lạc -> Dân tộc",
+      "D": "Bộ tộc -> Bộ lạc -> Thị tộc -> Dân tộc"
+    },
+    "dap_an_dung": "B",
+    "giai_thich": "Lịch sử nhân loại đã trải qua các hình thức cộng đồng người từ thấp đến cao gồm: Thị tộc (nguyên thủy, dựa trên huyết thống) -> Bộ lạc -> Bộ tộc (giai đoạn có ranh giới lãnh thổ và phân chia giai cấp) -> Dân tộc [7, 8, 15]."
+  },
+  {
+    "cau_hoi": "Sự phân chia giai cấp và sự ra đời của Nhà nước bắt đầu xuất hiện từ hình thức cộng đồng người nào?",
+    "phuong_an": {
+      "A": "Thị tộc",
+      "B": "Bộ lạc",
+      "C": "Bộ tộc",
+      "D": "Dân tộc"
+    },
+    "dap_an_dung": "C",
+    "giai_thich": "Trong giai đoạn Bộ tộc, lực lượng sản xuất phát triển làm xuất hiện chế độ tư hữu tư liệu sản xuất, dẫn tới sự phân hóa giàu nghèo, chia tách giai cấp và xuất hiện Nhà nước để quản lý [7, 8]."
+  },
+  {
+    "cau_hoi": "Nhà nước thực hiện việc quản lý dân cư trên một đơn vị lãnh thổ nhất định thể hiện nội dung nào?",
+    "phuong_an": {
+      "A": "Chức năng đối ngoại của bộ máy nhà nước",
+      "B": "Đặc trưng cơ bản của Nhà nước phân biệt với tổ chức thị tộc, bộ lạc trước đó",
+      "C": "Sự áp đặt bạo lực tuyệt đối của giai cấp thống trị",
+      "D": "Mục tiêu hòa bình của xã hội hiện đại"
+    },
+    "dap_an_dung": "B",
+    "giai_thich": "Đặc trưng cơ bản của Nhà nước (khác với thị tộc quản lý theo huyết thống) là Nhà nước phân chia và quản lý dân cư theo các đơn vị hành chính lãnh thổ xác định [7, 8]."
+  },
+  {
+    "cau_hoi": "Trước khi phép biện chứng duy vật của chủ nghĩa Mác ra đời, hình thức phép biện chứng nào đạt tới trình độ lý luận phát triển nhất trong lịch sử triết học?",
+    "phuong_an": {
+      "A": "Phép biện chứng tự phát thời cổ đại",
+      "B": "Phép biện chứng duy tâm cổ điển Đức của G.W.Ph. Hegel",
+      "C": "Phép biện chứng duy vật cổ đại của Democritus",
+      "D": "Phép biện chứng siêu hình thời cận đại"
+    },
+    "dap_an_dung": "B",
+    "giai_thich": "Hegel có công lao xây dựng phép biện chứng thành một hệ thống lý luận chặt chẽ với các quy luật, phạm trù hoàn bị nhất thời tiền Mác, mặc dù hệ thống đó đứng trên lập trường duy tâm [7-9]."
+  },
+  {
+    "cau_hoi": "Mục đích cuối cùng của cuộc đấu tranh giai cấp trong lịch sử xã hội (đặc biệt là của giai cấp vô sản) là gì?",
+    "phuong_an": {
+      "A": "Tích lũy của cải vật chất cho giai cấp mình",
+      "B": "Xóa bỏ áp bức, bóc lột và tiến tới xóa bỏ giai cấp hoàn toàn",
+      "C": "Giành quyền thu thuế và quản lý nền kinh tế xã hội",
+      "D": "Thay thế hình thức tư hữu này bằng một hình thức tư hữu khác"
+    },
+    "dap_an_dung": "B",
+    "giai_thich": "Mục đích cuối cùng của đấu tranh giai cấp của giai cấp vô sản là lật đổ ách áp bức của tư sản, xây dựng xã hội cộng sản chủ nghĩa không còn phân chia giai cấp và người bóc lột người [7, 8]."
+  },
+  {
+    "cau_hoi": "Hiện tượng 'Chính phủ triển khai các nghị quyết kinh tế - xã hội giúp hỗ trợ người dân phục hồi và phát triển kinh tế' phản ánh quy luật biện chứng nào?",
+    "phuong_an": {
+      "A": "Cơ sở hạ tầng quyết định tuyệt đối kiến trúc thượng tầng",
+      "B": "Tồn tại xã hội quyết định trực tiếp ý thức xã hội lạc hậu",
+      "C": "Kiến trúc thượng tầng (chính sách, nhà nước) tác động trở lại đối với cơ sở hạ tầng (kinh tế)",
+      "D": "Sự tác động độc lập của ý thức cá nhân đối với xã hội"
+    },
+    "dap_an_dung": "C",
+    "giai_thich": "Nhà nước và chính phủ thuộc kiến trúc thượng tầng, việc can thiệp bằng các nghị quyết, chính sách để điều tiết, phát triển kinh tế thể hiện vai trò tác động trở lại mạnh mẽ của nó đối với cơ sở hạ tầng kinh tế [7, 9, 16]."
+  },
+  {
+    "cau_hoi": "Trong lịch sử phát triển của tư duy nhân loại, chủ nghĩa duy vật triết học bao gồm các loại hình cơ bản nào?",
+    "phuong_an": {
+      "A": "Chủ nghĩa duy vật tầm thường, chủ nghĩa duy vật lịch sử, chủ nghĩa duy vật lý thuyết",
+      "B": "Chủ nghĩa duy vật chất phác, chủ nghĩa duy vật siêu hình, chủ nghĩa duy vật biện chứng",
+      "C": "Chủ nghĩa duy vật tự phát, chủ nghĩa duy vật nhất nguyên, chủ nghĩa duy vật nhị nguyên",
+      "D": "Chủ nghĩa duy vật khoa học, chủ nghĩa duy vật vô thần, chủ nghĩa duy vật tôn giáo"
+    },
+    "dap_an_dung": "B",
+    "giai_thich": "Chủ nghĩa duy vật triết học đã trải qua 3 hình thức cơ bản kế tiếp nhau: duy vật cổ đại (chất phác) -> duy vật cận đại (siêu hình, máy móc) -> duy vật biện chứng (phát triển cao nhất) [6, 7, 9]."
+  },
+  {
+    "cau_hoi": "Phép biện chứng của bản thân thế giới khách quan (giới tự nhiên, xã hội loài người) tồn tại độc lập với ý thức con người được gọi là gì?",
+    "phuong_an": {
+      "A": "Biện chứng chủ quan",
+      "B": "Biện chứng khách quan",
+      "C": "Biện chứng siêu hình",
+      "D": "Biện chứng duy tâm"
+    },
+    "dap_an_dung": "B",
+    "giai_thich": "Biện chứng khách quan là biện chứng của thế giới vật chất độc lập ngoài ý não, còn biện chứng chủ quan (tư duy biện chứng) chỉ là phản ảnh sự chi phối của vận động khách quan vào óc con người [7, 9, 17]."
+  },
+  {
+    "cau_hoi": "Phạm trù nào dưới đây được xem là căn bản, nền tảng cốt lõi nhất của chủ nghĩa duy vật triết học?",
+    "phuong_an": {
+      "A": "Phạm trù ý thức",
+      "B": "Phạm trù mâu thuẫn",
+      "C": "Phạm trù vật chất",
+      "D": "Phạm trù thực tiễn"
+    },
+    "dap_an_dung": "C",
+    "giai_thich": "Chủ nghĩa duy vật lấy phạm trù vật chất làm phạm trù trung tâm và xuất phát điểm để giải quyết mặt thứ nhất vấn đề cơ bản của triết học [7, 9]."
+  },
+  {
+    "cau_hoi": "Xét về mặt thời gian, Triết học ra đời vào khoảng thời kỳ nào trong lịch sử?",
+    "phuong_an": {
+      "A": "Thế kỷ XV - XVI sau Công nguyên",
+      "B": "Thời kỳ quá độ từ phong kiến lên tư bản chủ nghĩa",
+      "C": "Khoảng từ thế kỷ VIII đến thế kỷ VI trước Công nguyên (TCN)",
+      "D": "Vào những năm 40 của thế kỷ XIX"
+    },
+    "dap_an_dung": "C",
+    "giai_thich": "Triết học hình thành gần như đồng thời tại các trung tâm văn minh lớn thời cổ đại (Ấn Độ, Trung Quốc, Hy Lạp) vào khoảng thế kỷ VIII đến thế kỷ VI TCN [7-9]."
+  },
+  {
+    "cau_hoi": "Triết học Mác (vũ khí lý luận của giai cấp vô sản) chính thức ra đời vào thời gian nào?",
+    "phuong_an": {
+      "A": "Thế kỷ VIII trước Công nguyên (TCN)",
+      "B": "Vào thời kỳ cận đại Tây Âu (thế kỷ XVII - XVIII)",
+      "C": "Vào những năm 40 của thế kỷ XIX",
+      "D": "Sau khi Cách mạng Tháng Mười Nga thành công (1917)"
+    },
+    "dap_an_dung": "C",
+    "giai_thich": "Triết học Mác ra đời vào những năm 40 thế kỷ XIX khi các điều kiện kinh tế - xã hội của phương thức sản xuất tư bản chủ nghĩa chín muồi và phong trào công nhân phát triển mạnh mẽ [7, 9, 10]."
+  },
+  {
+    "cau_hoi": "Giai đoạn nhận thức phản ánh một cách gián tiếp, trừu tượng và khái quát những thuộc tính bản chất, những mối liên hệ bên trong mang tính quy luật của sự vật được gọi là gì?",
+    "phuong_an": {
+      "A": "Trực quan sinh động (nhận thức cảm tính)",
+      "B": "Nhận thức kinh nghiệm thông thường",
+      "C": "Tư duy trừu tượng (nhận thức lý luận / lý tính)",
+      "D": "Nhận thức tự phát thiên bẩm"
+    },
+    "dap_an_dung": "C",
+    "giai_thich": "Nhận thức lý tính (hay lý luận) là quá trình nhận thức cao hơn nhận thức cảm tính, giúp phản ánh sâu sắc bản chất sự vật một cách gián tiếp và khái quát [10]."
+  },
+  {
+    "cau_hoi": "Nhận thức mang tính chủ động, gián tiếp nhằm phản ánh các mối quan hệ bản chất, quy luật khách quan của đối tượng bằng phương pháp khoa học được gọi là gì?",
+    "phuong_an": {
+      "A": "Nhận thức thông thường dã man",
+      "B": "Nhận thức kinh nghiệm thực tiễn",
+      "C": "Nhận thức khoa học",
+      "D": "Nhận thức cảm tính sơ khai"
+    },
+    "dap_an_dung": "C",
+    "giai_thich": "Nhận thức khoa học là trình độ nhận thức tự giác, chủ động sử dụng các công cụ lý luận và phương pháp nghiên cứu khoa học để đi sâu vào bản chất của đối tượng [10, 11]."
+  },
+  {
+    "cau_hoi": "Trong triết học, phạm trù 'khả năng' khác biệt cơ bản nhất so với khái niệm 'xác suất' ở điểm nào?",
+    "phuong_an": {
+      "A": "Khả năng chỉ là sự tưởng tượng của con người, còn xác suất tồn tại khách quan",
+      "B": "Khả năng dùng để chỉ khuynh hướng phát triển có thực của sự vật hiện tượng, còn xác suất là đại lượng toán học đo lường độ chắc chắn xảy ra của khả năng đó",
+      "C": "Xác suất phản ánh nguyên nhân bên trong, khả năng phản ánh nguyên nhân bên ngoài",
+      "D": "Khả năng và xác suất hoàn toàn giống nhau về mặt triết học và toán học"
+    },
+    "dap_an_dung": "B",
+    "giai_thich": "Khả năng phản ánh mầm mống, tiền đề thực tế của cái mới chưa xuất hiện nhưng sẽ xảy ra khi đủ điều kiện. Xác suất là công cụ toán học biểu thị tần suất xuất hiện hay độ chắc chắn của khả năng đó [10, 18]."
+  },
+  {
+    "cau_hoi": "Căn cứ vào mối quan hệ giữa sự vật, hiện tượng với các điều kiện xung quanh, người ta phân chia 'khả năng' thành các loại hình nào?",
+    "phuong_an": {
+      "A": "Khả năng chủ quan và khả năng khách quan",
+      "B": "Khả năng thực tế, khả năng xa, khả năng gần",
+      "C": "Khả năng tất nhiên và khả năng ngẫu nhiên",
+      "D": "Khả năng sinh học và khả năng xã hội hóa"
+    },
+    "dap_an_dung": "B",
+    "giai_thich": "Triết học phân chia khả năng dựa vào mức độ chín muồi của các điều kiện đi kèm thành khả năng thực tế (có đủ điều kiện ngay), khả năng gần, và khả năng xa [10, 19]."
+  },
+  {
+    "cau_hoi": "Trường phái triết học Tây Âu thời Trung cổ nào khẳng định 'cái chung' là cái thực thể tồn tại thực sự độc lập, không phụ thuộc và sinh ra 'cái riêng'?",
+    "phuong_an": {
+      "A": "Chủ nghĩa duy danh",
+      "B": "Chủ nghĩa kinh nghiệm",
+      "C": "Chủ nghĩa duy thực",
+      "D": "Chủ nghĩa hoài nghi"
+    },
+    "dap_an_dung": "C",
+    "giai_thich": "Trong cuộc tranh luận về bản chất của cái chung, chủ nghĩa duy thực đứng trên lập trường duy tâm để khẳng định cái chung tồn tại thực tế và có trước, sinh ra cái riêng [10, 13]."
+  },
+  {
+    "cau_hoi": "Hình thức thế giới quan nào dưới đây đóng vai trò là thế giới quan chung nhất và phổ biến nhất trong đời sống xã hội?",
+    "phuong_an": {
+      "A": "Thế giới quan thần thoại cổ xưa",
+      "B": "Thế giới quan tôn giáo dựa trên đức tin",
+      "C": "Thế giới quan triết học",
+      "D": "Thế giới quan kinh nghiệm thông thường"
+    },
+    "dap_an_dung": "C",
+    "giai_thich": "Thế giới quan triết học là thế giới quan chung nhất, phổ biến nhất vì nó hệ thống hóa các quan niệm dưới dạng lý luận tự giác và logic biện chứng [10, 11, 20]."
+  },
+  {
+    "cau_hoi": "Chọn nhận định SAI khi nói về các mặt đối lập trong quy luật mâu thuẫn?",
+    "phuong_an": {
+      "A": "Các mặt đối lập luôn liên hệ, ràng buộc và làm tiền đề tồn tại cho nhau",
+      "B": "Các mặt đối lập bài trừ, phủ định và đấu tranh gay gắt với nhau",
+      "C": "Các mặt đối lập không nhất thiết phải cùng tồn tại trong sự vật, hiện tượng",
+      "D": "Sự đấu tranh của các mặt đối lập là nguồn gốc và động lực của sự phát triển"
+    },
+    "dap_an_dung": "C",
+    "giai_thich": "Nhận định C là sai vì các mặt đối lập cấu thành mâu thuẫn biện chứng bắt buộc phải luôn cùng tồn tại khách quan trong lòng bản thân một sự vật, hiện tượng cụ thể [10, 11, 21]."
+  },
+  {
+    "cau_hoi": "Mặt đối lập biện chứng là những mặt có đặc điểm và xu hướng phát triển như thế nào?",
+    "phuong_an": {
+      "A": "Hoàn toàn giống nhau và hỗ trợ hòa bình",
+      "B": "Trái ngược nhau, bài trừ và phủ định lẫn nhau",
+      "C": "Tồn tại cô lập, tách rời không ảnh hưởng lẫn nhau",
+      "D": "Chỉ xuất hiện trong tư duy chủ quan của con người"
+    },
+    "dap_an_dung": "B",
+    "giai_thich": "Mặt đối lập biện chứng là những mặt, những yếu tố, khuynh hướng phát triển trái ngược nhau tồn tại khách quan trong sự vật, vừa thống nhất vừa đấu tranh với nhau [10, 11, 22]."
+  },
+  {
+    "cau_hoi": "Phạm trù triết học dùng để chỉ mối liên hệ bản chất, do nguyên nhân cơ bản bên trong sự vật, hiện tượng quy định, trong những điều kiện nhất định phải xảy ra như thế chứ không thể khác là gì?",
+    "phuong_an": {
+      "A": "Ngẫu nhiên",
+      "B": "Tất nhiên (Tất yếu)",
+      "C": "Khả năng",
+      "D": "Nguyên nhân"
+    },
+    "dap_an_dung": "B",
+    "giai_thich": "Tất nhiên là phạm trù triết học dùng để chỉ cái bắt nguồn từ bản chất sự vật, phải xảy ra như vậy chứ không thể khác [10, 11, 23]."
+  },
+  {
+    "cau_hoi": "Trong triết học cổ điển của I. Kant, phạm phù 'Vật tự nó' (Thing-in-itself) được hiểu là gì?",
+    "phuong_an": {
+      "A": "Sự tự thân vận động nội tại của thế giới vật chất",
+      "B": "Thế giới khách quan độc lập bên ngoài ý thức nhưng con người không thể nhận thức được bản chất thực sự của nó",
+      "C": "Ý niệm tuyệt đối tự tha hóa ra giới tự nhiên",
+      "D": "Cảm giác chủ quan của con người tự sinh ra sự vật"
+    },
+    "dap_an_dung": "B",
+    "giai_thich": "Học thuyết của I. Kant khẳng định sự tồn tại của thế giới vật chất khách quan độc lập bên ngoài nhưng con người chỉ nhận thức được hiện tượng bên ngoài chứ không thể biết được thực chất 'vật tự nó' (bản chất thật) [10, 11, 24]."
+  },
+  {
+    "cau_hoi": "Những thành phần chủ yếu và cốt lõi nhất cấu thành nên hệ thống thế giới quan của con người là gì?",
+    "phuong_an": {
+      "A": "Tri thức, niềm tin và lý tưởng",
+      "B": "Cảm giác, tri giác và biểu tượng",
+      "C": "Ý chí, hành vi và các kỹ năng nghề nghiệp",
+      "D": "Tôn giáo, chính trị và nghệ thuật xã hội"
+    },
+    "dap_an_dung": "A",
+    "giai_thich": "Cấu trúc thế giới quan bao gồm nhiều nhân tố đan xen, trong đó tri thức (sự hiểu biết) là cơ sở, niềm tin là động lực và lý tưởng là mục tiêu dẫn dắt hành động [10, 11, 25]."
+  },
+  {
+    "cau_hoi": "Trường phái triết học nào khẳng định ý thức là cái có trước vật chất và thừa nhận một thực thể tinh thần khách quan (như Ý niệm tuyệt đối) tồn tại độc lập với con người?",
+    "phuong_an": {
+      "A": "Chủ nghĩa duy tâm chủ quan",
+      "B": "Chủ nghĩa duy tâm khách quan",
+      "C": "Chủ nghĩa duy vật siêu hình",
+      "D": "Chủ nghĩa duy vật biện chứng"
+    },
+    "dap_an_dung": "B",
+    "giai_thich": "Chủ nghĩa duy tâm khách quan thừa nhận tính thứ nhất của ý thức/tinh thần nhưng coi đó là thực thể tinh thần khách quan tồn tại độc lập ngoài con người (như ý niệm tuyệt đối, tinh thần tuyệt đối, Trời) [11, 14, 26]."
+  },
+  {
+    "cau_hoi": "Hiện tượng 'ngày xưa xã hội kỳ thị người LGBT nhưng ngày nay cộng đồng đã dần thấu hiểu, công nhận và bảo vệ quyền lợi của họ' phản ánh quy luật biện chứng nào trong triết học Mác - Lênin?",
+    "phuong_an": {
+      "A": "Ý thức xã hội luôn vượt trước tồn tại xã hội trong mọi hoàn cảnh",
+      "B": "Tồn tại xã hội (hoàn cảnh thực tiễn đời sống, khoa học) thay đổi quyết định sự biến đổi của ý thức xã hội (quan niệm, tư tưởng)",
+      "C": "Kiến trúc thượng tầng hoàn toàn độc lập và không phụ thuộc vào cơ sở hạ tầng kinh tế",
+      "D": "Tâm lý xã hội và hệ tư tưởng luôn thống nhất và biến đổi đồng thời với nhau"
+    },
+    "dap_an_dung": "B",
+    "giai_thich": "Sự thay đổi trong quan niệm, thái độ của xã hội đối với người LGBT (thuộc về ý thức xã hội) là sự phản ánh đối với sự thay đổi của thực tiễn đời sống kinh tế, sự tiến bộ của khoa học y sinh và các quan hệ xã hội thực tế (thuộc tồn tại xã hội). Đây là biểu hiện của quy luật tồn tại xã hội quyết định ý thức xã hội [2, 3]."
+  },
+  {
+    "cau_hoi": "Quyết định của cựu Tổng thống Mỹ Donald Trump về việc rút khỏi Hiệp ước Paris về bảo vệ môi trường để tập trung ưu tiên phát triển kinh tế quốc gia phản ánh quy luật biện chứng nào?",
+    "phuong_an": {
+      "A": "Kiến trúc thượng tầng quyết định tính chất của cơ sở hạ tầng",
+      "B": "Ý thức xã hội hoàn toàn độc lập và chi phối tồn tại xã hội",
+      "C": "Mối quan hệ biện chứng giữa cơ sở hạ tầng và kiến trúc thượng tầng, trong đó cơ sở hạ tầng (lợi ích kinh tế) quyết định kiến trúc thượng tầng (chính sách, luật pháp, ngoại giao)",
+      "D": "Sự phù hợp tuyệt đối mang tính chủ quan của lực lượng sản xuất đối với quan hệ sản xuất"
+    },
+    "dap_an_dung": "C",
+    "giai_thich": "Việc rút khỏi hiệp ước khí hậu quốc tế (một thiết chế pháp lý/chính trị thuộc kiến trúc thượng tầng) nhằm bảo vệ lợi ích sản xuất, phát triển kinh tế trong nước (thuộc cơ sở hạ tầng) là minh chứng cho việc cơ sở hạ tầng quyết định kiến trúc thượng tầng trong thực tế đời sống chính trị [3]."
+  },
+  {
+    "cau_hoi": "Hiện tượng các doanh nghiệp, nghiệp đoàn hoặc các tổ chức kinh tế lớn tiến hành quyên góp tài chính và kêu gọi ủng hộ để bầu ông Donald Trump làm Tổng thống phản ánh nội dung nào dưới đây?",
+    "phuong_an": {
+      "A": "Chính trị là yếu tố hoàn toàn quyết định và sinh ra nền kinh tế",
+      "B": "Vai trò quyết định của cơ sở hạ tầng (lực lượng vật chất, tài chính kinh tế) đối với kiến trúc thượng tầng (cuộc vận động bầu cử, bộ máy chính quyền nhà nước)",
+      "C": "Sự tác động độc lập không tương tác giữa các hình thái ý thức xã hội",
+      "D": "Sự phủ định sạch trơn của các thế lực phản động đối với nền dân chủ tự do"
+    },
+    "dap_an_dung": "B",
+    "giai_thich": "Hoạt động tài trợ, quyên góp tài chính từ các tổ chức kinh tế (thuộc cơ sở hạ tầng) nhằm can thiệp, tác động và định hình bộ máy nhà nước, chính trị cầm quyền (thuộc kiến trúc thượng tầng) phản ánh quy luật cơ sở hạ tầng quyết định kiến trúc thượng tầng [3]."
+  },
+  {
+    "cau_hoi": "Vận dụng quy luật Lượng – Chất để giải thích hiện tượng: 'Một gia đình có người con đã lớn, phát triển đến độ tuổi học lớp 4, lớp 5 nhưng vẫn hoàn toàn chưa biết nói'?",
+    "phuong_an": {
+      "A": "Đây là hiện tượng lượng đổi dẫn đến chất đổi nhanh chóng",
+      "B": "Sự vật đã có sự tích lũy, thay đổi về lượng (tuổi tác, thể chất tăng lên) nhưng chưa có sự biến đổi về chất (khả năng ngôn ngữ và tư duy tương ứng chưa hình thành)",
+      "C": "Chất của sự vật đã biến đổi hoàn toàn khi lượng chưa hề thay đổi",
+      "D": "Hiện tượng này chứng minh quy luật lượng chất không áp dụng cho con người"
+    },
+    "dap_an_dung": "B",
+    "giai_thich": "Đứa trẻ tăng dần về tuổi tác và kích thước cơ thể (lượng tăng) nhưng chất (khả năng ngôn ngữ) chưa được cải biến tương xứng. Điều này phản ánh tình trạng lượng đổi nhưng chất chưa đổi do các rào cản sinh học hoặc điều kiện phát triển [3]."
+  },
+  {
+    "cau_hoi": "Trong Thế chiến thứ hai, sự kiện Mỹ ném hai quả bom nguyên tử xuống các thành phố Hiroshima và Nagasaki của Nhật Bản nói về điều gì trong phép biện chứng duy vật?",
+    "phuong_an": {
+      "A": "Đây là một sự phủ định biện chứng hoàn chỉnh",
+      "B": "Đây là sự phủ định siêu hình (phủ định sạch trơn) bằng tác động cơ học cưỡng ép từ bên ngoài, phá vỡ sự phát triển tự thân của sự vật và không có tính kế thừa",
+      "C": "Sự phát triển xoáy ốc mang tính tất nhiên của lịch sử",
+      "D": "Sự thống nhất và liên hệ biện chứng giữa các thế lực đối lập"
+    },
+    "dap_an_dung": "B",
+    "giai_thich": "Phủ định biện chứng là sự tự phủ định, tự phát triển khách quan từ bên trong và có tính kế thừa. Sự hủy diệt bằng bom đạn từ lực lượng bên ngoài là sự phủ định siêu hình, mang tính triệt tiêu thô bạo sự vật cũ chứ không tạo tiền đề cho sự vật cũ tự thân phát triển đi lên [3]."
+  },
+  {
+    "cau_hoi": "Điền cụm từ đúng vào chỗ trống theo giáo trình Triết học Mác - Lênin: 'Khi mới sinh ra, đứa trẻ chỉ là một cá thể động vật. Chỉ khi cá thể đó có giao tiếp xã hội, quan hệ xã hội và có ý thức mới trở thành một...'",
+    "phuong_an": {
+      "A": "Cá thể độc lập",
+      "B": "Quần chúng nhân dân",
+      "C": "Cá nhân (chủ thể có bản sắc xã hội)",
+      "D": "Lãnh tụ giai cấp"
+    },
+    "dap_an_dung": "C",
+    "giai_thich": "Theo giáo trình Triết học Mác - Lênin, con người sinh ra ban đầu chỉ là cá thể sinh học. Thông qua giao tiếp xã hội, lao động và rèn luyện ý thức, cá thể đó mới thực sự xác lập tư cách 'cá nhân' - tức là một thực thể xã hội có ý thức [3]."
+  },
+  {
+    "cau_hoi": "Hiện tượng 'Một nhóm người trong xã hội tình cờ có cùng chung sở thích về cách ăn mặc' phản ánh mối liên hệ mang tính chất gì?",
+    "phuong_an": {
+      "A": "Mối liên hệ tất nhiên mang tính bản chất khách quan của loài người",
+      "B": "Cái chung mang tính ngẫu nhiên, xuất hiện do sự trùng hợp nhất thời từ các yếu tố bên ngoài",
+      "C": "Mối liên hệ nhân quả tất yếu quyết định sự sinh tồn của xã hội",
+      "D": "Hiện tượng duy tâm khách quan do số mệnh sắp đặt"
+    },
+    "dap_an_dung": "B",
+    "giai_thich": "Sở thích ăn mặc giống nhau của các cá nhân rời rạc không bắt nguồn từ quy luật sinh học tất yếu hay bản chất xã hội cốt lõi của con người, mà chỉ là sự trùng hợp ngẫu nhiên về thị hiếu nhất thời [3]."
+  },
+  {
+    "cau_hoi": "Thành ngữ dân gian Việt Nam 'Trời sinh voi, trời sinh cỏ' phản ánh thế giới quan triết học nào?",
+    "phuong_an": {
+      "A": "Thế giới quan duy vật biện chứng",
+      "B": "Thế giới quan duy tâm khách quan (tin vào sự an bài, sắp đặt sẵn của lực lượng siêu nhiên)",
+      "C": "Thế giới quan duy vật siêu hình máy móc",
+      "D": "Thế giới quan duy tâm chủ quan của cá nhân"
+    },
+    "dap_an_dung": "B",
+    "giai_thich": "Câu thành ngữ thể hiện niềm tin rằng mọi sự sinh tồn của muôn loài đều do một lực lượng siêu nhiên (Trời) định đoạt, sắp đặt sẵn một cách thụ động, phản ánh lập trường Duy tâm khách quan [3]."
+  },
+  {
+    "cau_hoi": "Câu nói nổi tiếng 'Có áp bức, có đấu tranh' thể hiện rõ nét nhất quy luật nào của phép biện chứng duy vật?",
+    "phuong_an": {
+      "A": "Quy luật phủ định của phủ định",
+      "B": "Quy luật lượng biến đổi dẫn đến chất biến đổi",
+      "C": "Quy luật thống nhất và đấu tranh giữa các mặt đối lập (quy luật mâu thuẫn)",
+      "D": "Quy luật nhân quả mang tính ngẫu nhiên khách quan"
+    },
+    "dap_an_dung": "C",
+    "giai_thich": "Áp bức (giai cấp thống trị) và đấu tranh (giai cấp bị trị) là hai mặt đối lập biện chứng tồn tại trong lòng xã hội có giai cấp đối kháng. Sự đấu tranh giữa hai mặt đối lập này chính là nguồn gốc, động lực thúc đẩy xã hội tự vận động và phát triển [3]."
+  },
+  {
+    "cau_hoi": "Nhận định dân gian 'Thấy vậy mà không phải vậy' nói lên mối quan hệ biện chứng giữa cặp phạm trù nào sau đây?",
+    "phuong_an": {
+      "A": "Nguyên nhân và Kết quả",
+      "B": "Khả năng và Hiện thực",
+      "C": "Bản chất và Hiện tượng",
+      "D": "Cái riêng và Cái chung"
+    },
+    "dap_an_dung": "C",
+    "giai_thich": "Hiện tượng là sự biểu hiện ra bên ngoài của bản chất. Tuy nhiên, có những hiện tượng phản ánh đúng bản chất, và có những hiện tượng giả tạo xuyên tạc bản chất bên trong của sự vật ('thấy thế nhưng thực chất không phải thế') [3]."
+  },
+  {
+    "cau_hoi": "Nhận định nào sau đây là chính xác khi bàn về mối quan hệ giữa 'tâm lý xã hội' và 'hệ tư tưởng'?",
+    "phuong_an": {
+      "A": "Tâm lý xã hội phản ánh gián tiếp và tự giác, còn hệ tư tưởng phản ánh trực tiếp và tự phát",
+      "B": "Tâm lý xã hội phản ánh trực tiếp và tự phát hoàn cảnh sống; còn hệ tư tưởng phản ánh gián tiếp và tự giác dưới dạng hệ thống lý luận",
+      "C": "Cả hai đều phản ánh tồn tại xã hội một cách trực tiếp và không có tính giai cấp",
+      "D": "Hệ tư tưởng luôn luôn xuất hiện trước và quyết định sự ra đời của tâm lý xã hội"
+    },
+    "dap_an_dung": "B",
+    "giai_thich": "Tâm lý xã hội hình thành tự phát thông qua cuộc sống thường ngày nên mang tính trực quan, trực tiếp. Hệ tư tưởng là trình độ nhận thức cao hơn, phản ánh gián tiếp và tự giác thông qua hệ thống lý luận của các nhà tư tưởng [3]."
+  },
+  {
+    "cau_hoi": "Trong đợt tuyển dụng của một công ty, có rất nhiều ứng viên nộp đơn trùng hợp cùng có chung hộ khẩu tại tỉnh Y. Sự việc này phản ánh cặp phạm trù nào?",
+    "phuong_an": {
+      "A": "Cái tất nhiên",
+      "B": "Cái ngẫu nhiên",
+      "C": "Cái bản chất",
+      "D": "Nguyên nhân tất yếu"
+    },
+    "dap_an_dung": "B",
+    "giai_thich": "Việc các ứng viên nộp đơn ngẫu nhiên trùng hộ khẩu với nhau không phải là mối liên hệ bản chất, quy luật của việc tuyển dụng mà chỉ là một sự trùng hợp tình cờ bên ngoài, thuộc về phạm trù ngẫu nhiên [3]."
+  },
+  {
+    "cau_hoi": "Sự ra đời của 'triết học kinh viện' mang tính tôn giáo giáo điều và thống trị tư tưởng diễn ra trong giai đoạn nào lịch sử?",
+    "phuong_an": {
+      "A": "Triết học Hy Lạp cổ đại",
+      "B": "Tây Âu thời kỳ Trung cổ",
+      "C": "Thời kỳ Phục hưng Tây Âu",
+      "D": "Triết học Cổ điển Đức thế kỷ XIX"
+    },
+    "dap_an_dung": "B",
+    "giai_thich": "Triết học kinh viện (Scolasticism) thống trị sâu sắc toàn bộ đời sống tư tưởng, văn hóa Tây Âu thời kỳ Trung cổ, gắn liền với thần học Kitô giáo [3]."
+  },
+  {
+    "cau_hoi": "Đối tượng truyền dẫn lực lượng tác động của người lao động vào đối tượng lao động để biến đổi nó theo mục đích của mình được gọi là gì?",
+    "phuong_an": {
+      "A": "Công cụ lao động",
+      "B": "Hệ thống nhà kho xưởng",
+      "C": "Phương tiện vận chuyển",
+      "D": "Năng lượng điện"
+    },
+    "dap_an_dung": "A",
+    "giai_thich": "Công cụ lao động là bộ phận trực tiếp truyền dẫn lực lượng tác động của con người vào đối tượng lao động, đóng vai trò là thước đo trình độ chinh phục tự nhiên của con người [3]."
+  },
+  {
+    "cau_hoi": "Đặc điểm cơ bản nhất của hình thức chủ nghĩa duy vật chất phác thời cổ đại là gì?",
+    "phuong_an": {
+      "A": "Đồng nhất vật chất với khối lượng và lực hấp dẫn",
+      "B": "Thừa nhận tính thứ nhất của vật chất nhưng đồng nhất vật chất với một hoặc một số chất cụ thể, hữu hình, cảm tính",
+      "C": "Xem thế giới như một cỗ máy cơ học khổng lồ tĩnh tại",
+      "D": "Giải thích thế giới bằng các khái niệm trừu tượng tự thân"
+    },
+    "dap_an_dung": "B",
+    "giai_thich": "Chủ nghĩa duy vật cổ đại thừa nhận tính thứ nhất của vật chất nhưng do khoa học chưa phát triển nên đã quy vật chất về các thực thể cụ thể như Đất, Nước, Lửa, Gió, Nguyên tử... mang tính trực quan [3]."
+  },
+  {
+    "cau_hoi": "Khi nghiên cứu về cuộc Cách mạng tháng Tám năm 1945 ở Việt Nam, đối tượng trực tiếp cần phải lật đổ của cuộc cách mạng xã hội này là ai?",
+    "phuong_an": {
+      "A": "Giai cấp địa chủ phong kiến bản địa nói chung",
+      "B": "Chính quyền thực dân xâm lược và giai cấp phong kiến tay sai",
+      "C": "Giai cấp tư sản dân tộc",
+      "D": "Các thế lực tư bản phương Tây đồng minh"
+    },
+    "dap_an_dung": "B",
+    "giai_thich": "Cách mạng xã hội là việc lật đổ chế độ cũ lỗi thời. Trong Cách mạng tháng Tám năm 1945, đối tượng cách mạng trực tiếp là ách thống trị của thực dân phát xít (Pháp - Nhật) và chính quyền phong kiến tay sai bù nhìn [3]."
+  },
+  {
+    "cau_hoi": "Nhị nguyên luận giải thích thế giới bằng hai bản nguyên song song. Trong lịch sử triết học, nhị nguyên luận thực chất có xu hướng ngả về phía trường phái nào khi giải quyết các vấn đề thực tiễn?",
+    "phuong_an": {
+      "A": "Chủ nghĩa duy vật biện chứng",
+      "B": "Chủ nghĩa duy tâm",
+      "C": "Thuyết hoài nghi",
+      "D": "Chủ nghĩa thực chứng khoa học"
+    },
+    "dap_an_dung": "B",
+    "giai_thich": "Dù đứng ở lập trường trung lập, nhưng vì nhị nguyên luận vẫn thừa nhận ý thức có thể tồn tại độc lập, không do vật chất sinh ra, nên khi giải quyết các vấn đề triết học triệt để, họ thường có xu hướng trượt vào chủ nghĩa duy tâm [3]."
+  },
+  {
+    "cau_hoi": "Tác phẩm triết học vĩ đại nào của V.I. Lênin ra đời năm 1908 nhằm chống lại trào lưu duy tâm, bảo vệ định nghĩa khoa học về vật chất?",
+    "phuong_an": {
+      "A": "Bút ký triết học",
+      "B": "Nhà nước và Cách mạng",
+      "C": "Chủ nghĩa duy vật và chủ nghĩa kinh nghiệm phê phán",
+      "D": "Tuyên ngôn của Đảng Cộng sản"
+    },
+    "dap_an_dung": "C",
+    "giai_thich": "Tác phẩm 'Chủ nghĩa duy vật và chủ nghĩa kinh nghiệm phê phán' (1908) là công trình lý luận xuất sắc của Lênin nhằm phê phán triệt để chủ nghĩa duy tâm chủ quan, định nghĩa hoàn chỉnh phạm trù vật chất [3]."
+  },
+  {
+    "cau_hoi": "Ai là tác giả của câu nói kinh điển: 'Triết học không treo lơ lửng ở ngoài thế giới, cũng như bộ óc không tồn tại bên ngoài con người'?",
+    "phuong_an": {
+      "A": "V.I.LêNin",
+      "B": "Ph.Ăngghen",
+      "C": "C.Mác",
+      "D": "G.W.Ph. Hegel"
+    },
+    "dap_an_dung": "C",
+    "giai_thich": "Luận điểm này của C.Mác khẳng định triết học không phải là lý thuyết suông tách rời thực tế, mà nó bắt nguồn từ đời sống hiện thực và là sản phẩm tư duy của con người trong lịch sử [3]."
+  },
+  {
+    "cau_hoi": "Điền từ đúng vào chỗ trống trong luận điểm nổi tiếng của C.Mác: 'Trong tính hiện thực của nó, bản chất con người là... '?",
+    "phuong_an": {
+      "A": "Sự sáng tạo của Thượng đế",
+      "B": "Khát vọng tự do tuyệt đối",
+      "C": "Tổng hòa những quan hệ xã hội",
+      "D": "Thực thể sinh học thuần túy"
+    },
+    "dap_an_dung": "C",
+    "giai_thich": "C. Mác khẳng định bản chất con người không phải cái trừu tượng có sẵn trong mỗi cá nhân riêng biệt, mà được hình thành, nhào nặn bởi tổng thể các mối quan hệ xã hội trong thực tiễn cuộc sống [3]."
+  },
+  {
+    "cau_hoi": "Ai là tác giả của nhận định nổi tiếng về vật lý học: 'Điện tử cũng vô cùng tận như nguyên tử; tự nhiên là vô tận'?",
+    "phuong_an": {
+      "A": "Albert Einstein",
+      "B": "V.I.LêNin",
+      "C": "Ph.Ăngghen",
+      "D": "Isaac Newton"
+    },
+    "dap_an_dung": "B",
+    "giai_thich": "Luận điểm của Lênin trong cuốn 'Bút ký triết học' thể hiện thế giới quan duy vật biện chứng sâu sắc, dự báo trước sự phát triển vô tận của khoa học và cấu trúc vật chất [3]."
+  },
+  {
+    "cau_hoi": "Điền thuật ngữ đúng vào chỗ trống trong luận điểm của Ph.Ăngghen: 'Các hình thức cơ bản của mọi tồn tại là [...] và [...]; tồn tại ngoài [...] thì cũng hết sức vô lý như tồn tại ngoài [...]'?",
+    "phuong_an": {
+      "A": "vật chất / ý thức",
+      "B": "vận động / đứng im",
+      "C": "không gian / thời gian",
+      "D": "bản chất / hiện tượng"
+    },
+    "dap_an_dung": "C",
+    "giai_thich": "Ăngghen khẳng định không gian và thời gian là những hình thức tồn tại khách quan, cố hữu của vật chất đang vận động, không thể có vật chất tồn tại ngoài không gian và thời gian [3]."
+  },
+  {
+    "cau_hoi": "Câu nói nổi tiếng của C.Mác: 'Đứa trẻ nào cũng biết rằng bất kể dân tộc nào cũng sẽ diệt vong, nếu như nó ngừng lao động, không phải một năm, mà chỉ mấy tuần thôi' nhằm khẳng định tầm quan trọng quyết định của yếu tố nào?",
+    "phuong_an": {
+      "A": "Ý thức tôn giáo của cộng đồng",
+      "B": "Hoạt động sản xuất vật chất (lao động)",
+      "C": "Các thiết chế pháp luật của Nhà nước",
+      "D": "Năng lực tư duy trừu tượng"
+    },
+    "dap_an_dung": "B",
+    "giai_thich": "Luận điểm của Mác khẳng định hoạt động sản xuất vật chất (lao động) là điều kiện tiên quyết, cơ bản nhất để duy trì sự tồn tại và phát triển của xã hội loài người [3]."
+  },
+  {
+    "cau_hoi": "Ai là người khẳng định vai trò tối cao của lao động đối với sự tiến hóa của loài người qua luận điểm: 'Lao động đã sáng tạo ra bản thân con người'?",
+    "phuong_an": {
+      "A": "C.Mác",
+      "B": "V.I.LêNin",
+      "C": "Ph.Ăngghen",
+      "D": "Charles Darwin"
+    },
+    "dap_an_dung": "C",
+    "giai_thich": "Ph.Ăngghen trong các tác phẩm của mình đã chứng minh chính hoạt động lao động chế tạo công cụ sản xuất đã tách con người ra khỏi thế giới động vật và định hình cơ thể, tư duy con người [3]."
+  },
+  {
+    "cau_hoi": "Điền từ đúng vào chỗ trống trong luận điểm thực tiễn của C.Mác: 'Các nhà triết học đã chỉ giải thích thế giới bằng nhiều cách khác nhau, song vấn đề là [...] thế giới'?",
+    "phuong_an": {
+      "A": "nhìn nhận",
+      "B": "thừa nhận",
+      "C": "cải tạo",
+      "D": "thấu hiểu"
+    },
+    "dap_an_dung": "C",
+    "giai_thich": "Luận điểm thứ 11 trong Luận cương về Phoiơbắc của Mác nhấn mạnh sứ mệnh tối cao của triết học chân chính không chỉ dừng lại ở mặt lý thuyết giải thích thế giới, mà phải hướng tới hoạt động thực tiễn để cải tạo thế giới [3]."
+  },
+  {
+    "cau_hoi": "Câu nói của C.Mác: 'Giống như triết học thấy giai cấp vô sản là vũ khí vật chất của mình, giai cấp vô sản cũng thấy triết học là vũ khí... của mình'?",
+    "phuong_an": {
+      "A": "kinh tế",
+      "B": "tinh thần",
+      "C": "bạo lực",
+      "D": "chính trị"
+    },
+    "dap_an_dung": "B",
+    "giai_thich": "Mác khẳng định mối quan hệ biện chứng hữu cơ giữa phong trào cách mạng của giai cấp vô sản (lực lượng vật chất thực tiễn) và triết học duy vật biện chứng (vũ khí tinh thần, lý luận dẫn đường) [3]."
+  },
+  {
+    "cau_hoi": "Luận điểm của C.Mác: 'Vũ khí của sự phê phán cố nhiên không thể thay thế được sự phê phán của vũ khí, lực lượng vật chất chỉ có thể bị đánh đổ bằng lực lượng vật chất; nhưng [...] cũng sẽ trở thành lực lượng vật chất, một khi nó thâm nhập vào quần chúng'?",
+    "phuong_an": {
+      "A": "niềm tin",
+      "B": "tôn giáo",
+      "C": "lý luận (tư tưởng)",
+      "D": "khoa học tự nhiên"
+    },
+    "dap_an_dung": "C",
+    "giai_thich": "Mác nhấn mạnh sức mạnh của lý luận khoa học. Khi lý luận đúng đắn thâm nhập và được tiếp thu bởi quần chúng nhân dân rộng rãi, nó sẽ biến thành sức mạnh vật chất to lớn để cải tạo xã hội [3]."
+  },
+  {
+    "cau_hoi": "Ai viết luận điểm: 'Quan niệm mới về giới tự nhiên đã được hoàn thành trên những nét cơ bản: tất cả cái gì cứng nhắc đều bị tan ra, tất cả cái gì là cố định đều biến thành mây khói...' để mô tả sự chiến thắng của thế giới quan biện chứng?",
+    "phuong_an": {
+      "A": "C.Mác",
+      "B": "V.I.LêNin",
+      "C": "Ph.Ăngghen",
+      "D": "Heraclitus"
+    },
+    "dap_an_dung": "C",
+    "giai_thich": "Ph. Ăngghen viết câu này để khẳng định thế giới quan duy vật biện chứng đã đập tan phương pháp tư duy siêu hình coi thế giới là tĩnh tại, chứng minh mọi thứ đều trong dòng chảy vận động, biến đổi không ngừng [3]."
+  },
+  {
+    "cau_hoi": "Nhận định sau đây của ai: 'Chính trị là sự biểu hiện tập trung của kinh tế… Chính trị không thể không chiếm địa vị hàng đầu so với kinh tế'?",
+    "phuong_an": {
+      "A": "C.Mác",
+      "B": "Ph.Ăngghen",
+      "C": "V.I.LêNin",
+      "D": "Hêghen"
+    },
+    "dap_an_dung": "C",
+    "giai_thich": "V.I. Lênin khẳng định chính trị có mối quan hệ gắn bó hữu cơ và bắt nguồn từ kinh tế (biểu hiện tập trung của kinh tế), nhưng chính trị phải chiếm địa vị hàng đầu vì nó định hướng, quyết định con đường phát triển kinh tế [3]."
+  },
+  {
+    "cau_hoi": "Theo quan điểm của C.Mác và Ph.Ăngghen, vì sao 'chủ nghĩa cộng sản không phải là một trạng thái cần phải sáng tạo ra, không phải là một lý tưởng mà hiện thực phải khuôn theo'?",
+    "phuong_an": {
+      "A": "Vì chủ nghĩa cộng sản là một phong trào hiện thực xóa bỏ trạng thái hiện nay, phát triển tự nhiên dựa trên quy luật khách quan",
+      "B": "Vì chủ nghĩa cộng sản chỉ là một giả thuyết lý thuyết thuần túy",
+      "C": "Vì chủ nghĩa cộng sản được lập nên dựa vào ý muốn của các vĩ nhân",
+      "D": "Vì chủ nghĩa cộng sản là sự áp đặt hoàn toàn từ giới tự nhiên"
+    },
+    "dap_an_dung": "A",
+    "giai_thich": "Mác và Ăngghen khẳng định chủ nghĩa cộng sản ra đời không phải từ mong muốn chủ quan của con người, mà là một tiến trình vận động lịch sử - tự nhiên khách quan nhằm giải quyết các mâu thuẫn nội tại của lòng xã hội tư bản [3]."
+  },
+  {
+    "cau_hoi": "Nhà vật lý học thiên tài Stephen Hawking từng đưa ra nhận định gây tranh cãi nào về vai trò của Triết học trong thời đại ngày nay?",
+    "phuong_an": {
+      "A": "“Triết học là khoa học của mọi khoa học”",
+      "B": "“Triết học đã chết” vì không theo kịp sự phát triển của khoa học tự nhiên hiện đại",
+      "C": "“Triết học quyết định tương lai của vật lý học”",
+      "D": "“Triết học và tôn giáo là một”"
+    },
+    "dap_an_dung": "B",
+    "giai_thich": "Stephen Hawking nhận định “triết học đã chết” (philosophy is dead) vì ông cho rằng triết học truyền thống không còn giữ vai trò dẫn đường hay bắt kịp những khám phá đột phá mang tính vĩ mô của vật lý học hiện đại."
+  },
+  {
+    "cau_hoi": "Theo tổng hợp kinh nghiệm và review của các sinh viên khóa trước đạt điểm số cao (8.0 - 8.4đ) trong tài liệu ôn tập, phương pháp học tập cốt lõi nhất để đạt kết quả tốt môn Triết học Mác - Lênin là gì?",
+    "phuong_an": {
+      "A": "Chỉ cần học thuộc lòng các câu hỏi trắc nghiệm có sẵn trên mạng",
+      "B": "Đọc kỹ giáo trình (sách đỏ) để nắm chắc bản chất khái niệm kết hợp với hiểu các quy luật, phạm trù",
+      "C": "Học tủ một vài câu hỏi trọng tâm của chương 2",
+      "D": "Nhờ người khác thi hộ"
+    },
+    "dap_an_dung": "B",
+    "giai_thich": "Kinh nghiệm của các khóa trước nhấn mạnh việc đọc kỹ sách giáo trình/sách đỏ để hiểu rõ bản chất vấn đề, các quy luật biện chứng và mối quan hệ giữa các phạm trù thay vì chỉ học vẹt."
+  },
+  {
+    "cau_hoi": "V.I. Lênin đã khẳng định vai trò quyết định của lý luận khoa học đối với phong trào đấu tranh thông qua luận điểm nổi tiếng nào?",
+    "phuong_an": {
+      "A": "“Học, học nữa, học mãi”",
+      "B": "“Không có lý luận cách mạng thì cũng không thể có phong trào cách mạng”",
+      "C": "“Chính trị là biểu hiện tập trung của kinh tế”",
+      "D": "“Vật chất là một phạm trù triết học”"
+    },
+    "dap_an_dung": "B",
+    "giai_thich": "Luận điểm này của Lênin nhấn mạnh tầm quan trọng của lý luận tiền phong (Triết học Mác - Lênin) trong việc dẫn đường, định hình phương hướng cho phong trào đấu tranh tự giác của giai cấp công nhân."
+  },
+  {
+    "cau_hoi": "Hãy hoàn thiện luận điểm nổi tiếng của C. Mác: “Tôi coi sự phát triển của các hình thái kinh tế - xã hội là một quá trình...”?",
+    "phuong_an": {
+      "A": "lịch sử - tự nhiên",
+      "B": "tuần hoàn lặp lại",
+      "C": "ngẫu nhiên chủ quan",
+      "D": "do ý muốn của vĩ nhân quyết định"
+    },
+    "dap_an_dung": "A",
+    "giai_thich": "C. Mác chỉ ra rằng sự thay thế và phát triển của các hình thái kinh tế - xã hội tuân theo các quy luật khách quan, tựa như một quá trình “lịch sử - tự nhiên”, không phụ thuộc vào ý muốn chủ quan của con người."
+  },
+  {
+    "cau_hoi": "Ph. Ăngghen định nghĩa phép biện chứng là khoa học về những quy luật phổ biến của sự vận động và phát triển của...?",
+    "phuong_an": {
+      "A": "thế giới tâm linh và ý niệm siêu nhiên",
+      "B": "giới tự nhiên, xã hội loài người và tư duy",
+      "C": "các hạt cơ bản trong vật lý học",
+      "D": "các hiện tượng cơ học thuần túy"
+    },
+    "dap_an_dung": "B",
+    "giai_thich": "Theo Ăngghen, phép biện chứng duy vật là khoa học nghiên cứu những quy luật vận động và phát triển phổ biến nhất của cả ba lĩnh vực lớn: tự nhiên, xã hội và tư duy con người."
+  },
+  {
+    "cau_hoi": "Điền cụm từ đúng vào chỗ trống trong luận điểm của C. Mác: “Ý thức không bao giờ có thể là cái gì khác ngoài [...]”?",
+    "phuong_an": {
+      "A": "sự tự nhận thức của linh hồn",
+      "B": "sự tồn tại được ý thức",
+      "C": "cảm giác chủ quan của con người",
+      "D": "sự sáng tạo của đấng tối cao"
+    },
+    "dap_an_dung": "B",
+    "giai_thich": "Luận điểm đầy đủ là: “Ý thức không bao giờ có thể là cái gì khác ngoài sự tồn tại được ý thức, và sự tồn tại của con người là quá trình đời sống hiện thực của họ.”"
+  },
+  {
+    "cau_hoi": "Hiện tượng tự nhiên “Sinh - Lão - Bệnh - Tử” của con người phản ánh quy luật biện chứng khách quan nào?",
+    "phuong_an": {
+      "A": "Quy luật phủ định của phủ định (sự thay thế cái cũ bằng cái mới mang tính tất yếu thông qua các chu kỳ phát triển)",
+      "B": "Quy luật mâu thuẫn chỉ tồn tại trong xã hội có giai cấp",
+      "C": "Sự đứng im tuyệt đối của thế giới vật chất",
+      "D": "Quy luật lượng - chất chỉ áp dụng cho thế giới vô cơ"
+    },
+    "dap_an_dung": "A",
+    "giai_thich": "Tiến trình sinh ra, lớn lên, già yếu, bệnh tật và qua đời là biểu hiện của sự phủ định biện chứng liên tục, cái mới (thế hệ mới, trạng thái sinh học mới) thay thế cái cũ lỗi thời, đảm bảo sự phát triển và nối tiếp vô tận của sự sống."
+  },
+  {
+    "cau_hoi": "Hiện tượng các doanh nghiệp cùng liên kết, hợp tác với nhau dựa trên “chung mục đích kinh doanh và lợi nhuận” phản ánh bản chất của phạm trù nào trong duy vật lịch sử?",
+    "phuong_an": {
+      "A": "Ý thức tôn giáo xã hội",
+      "B": "Quan hệ sản xuất (cụ thể là mối quan hệ sở hữu và phân phối lợi ích kinh tế)",
+      "C": "Kiến trúc thượng tầng pháp lý",
+      "D": "Tâm lý xã hội lạc hậu"
+    },
+    "dap_an_dung": "B",
+    "giai_thich": "Mục đích kinh doanh, lợi ích kinh tế và sự hợp tác phân chia lợi nhuận giữa các doanh nghiệp là biểu hiện trực tiếp của quan hệ sản xuất - tức là quan hệ giữa người với người trong quá trình sản xuất và phân phối của cải vật chất."
+  },
+  {
+    "cau_hoi": "Trong định nghĩa vật chất nổi tiếng của mình, V.I. Lênin đã khẳng định thuộc tính khách quan quan trọng nhất của vật chất là gì?",
+    "phuong_an": {
+      "A": "Có khối lượng và thể tích cụ thể",
+      "B": "Tồn tại khách quan độc lập với ý thức con người và được đem lại cho con người trong cảm giác",
+      "C": "Luôn chuyển động với vận tốc ánh sáng",
+      "D": "Chỉ tồn tại khi con người quan sát thấy"
+    },
+    "dap_an_dung": "B",
+    "giai_thich": "Định nghĩa vật chất của Lênin chỉ ra thuộc tính chung nhất, quan trọng nhất của mọi dạng vật chất là “tồn tại khách quan” - tức là tồn tại bên ngoài và độc lập với ý thức của con người."
+  },
+  {
+    "cau_hoi": "Hãy hoàn thiện luận điểm nổi tiếng của C. Mác về tôn giáo: “Sự nghèo nàn của tôn giáo vừa là biểu hiện của sự nghèo nàn hiện thực, vừa là sự [...] chống lại sự nghèo nàn hiện thực”?",
+    "phuong_an": {
+      "A": "cam chịu thụ động",
+      "B": "phản kháng",
+      "C": "đồng tình",
+      "D": "trốn tránh hoàn toàn"
+    },
+    "dap_an_dung": "B",
+    "giai_thich": "Luận điểm đầy đủ của Mác là: “Sự nghèo nàn của tôn giáo vừa là biểu hiện của sự nghèo nàn hiện thực, vừa là sự phản kháng chống lại sự nghèo nàn hiện thực. Tôn giáo là tiếng thở dài của chúng sinh bị áp bức...”"
+  },
+  {
+    "cau_hoi": "Luận điểm cực kỳ nổi tiếng nào của C. Mác nói về bản chất xoa dịu nỗi đau tinh thần tạm thời của tôn giáo trong xã hội cũ?",
+    "phuong_an": {
+      "A": "“Tôn giáo là khoa học của tâm linh”",
+      "B": "“Tôn giáo là thuốc phiện của nhân dân”",
+      "C": "“Tôn giáo là bản chất của tự nhiên”",
+      "D": "“Tôn giáo là nguồn gốc của đạo đức”"
+    },
+    "dap_an_dung": "B",
+    "giai_thich": "Mác nhận định “Tôn giáo là thuốc phiện của nhân dân” để chỉ ra rằng tôn giáo đóng vai trò xoa dịu, an ủi tinh thần tạm thời cho quần chúng bị áp bức, nhưng đồng thời gây tê liệt ý chí tự đấu tranh giai cấp của họ."
+  },
+  {
+    "cau_hoi": "Theo Ph. Ăngghen, ba phát hiện vĩ đại của khoa học tự nhiên thế kỷ XIX đã đập tan tư duy siêu hình và chứng minh thế giới vật chất vận động biện chứng là gì?",
+    "phuong_an": {
+      "A": "Thuyết vạn vật hấp dẫn, thuyết tương đối, thuyết lượng tử",
+      "B": "Học thuyết tế bào, định luật bảo toàn và chuyển hóa năng lượng, học thuyết tiến hóa",
+      "C": "Thuyết kiến tạo mảng, thuyết địa tâm, thuyết nhật tâm",
+      "D": "Định luật vạn vật hấp dẫn, học thuyết nguyên tử, định luật bảo toàn khối lượng"
+    },
+    "dap_an_dung": "B",
+    "giai_thich": "Ba phát kiến vĩ đại (Học thuyết tế bào, Định luật bảo toàn và chuyển hóa năng lượng, Học thuyết tiến hóa) là tiền đề khoa học tự nhiên quyết định cho sự ra đời và tính thuyết phục của phép biện chứng duy vật Mác-Lênin."
+  },
+  {
+    "cau_hoi": "Điền cụm từ đúng vào luận điểm của C. Mác trong tác phẩm Hệ tư tưởng Đức: “Giai cấp nào là lực lượng vật chất thống trị xã hội, thì đồng thời cũng là lực lượng [...] thống trị xã hội”?",
+    "phuong_an": {
+      "A": "kinh tế",
+      "B": "chính trị trực tiếp",
+      "C": "tinh thần (ý thức)",
+      "D": "quân sự tối cao"
+    },
+    "dap_an_dung": "C",
+    "giai_thich": "Mác khẳng định: “Ý tưởng của giai cấp thống trị là những ý tưởng thống trị trong mỗi thời đại. Giai cấp nào là lực lượng vật chất thống trị xã hội, thì đồng thời cũng là lực lượng tinh thần thống trị xã hội.”"
+  },
+  {
+    "cau_hoi": "Triết gia cận đại René Descartes nổi tiếng với luận điểm duy lý hoài nghi nào nhằm tìm kiếm điểm tựa chắc chắn cho tri thức khoa học?",
+    "phuong_an": {
+      "A": "“Tôi tư duy, nên tôi tồn tại”",
+      "B": "“Vật chất là phức hợp của các cảm giác”",
+      "C": "“Tri thức là sức mạnh”",
+      "D": "“Thế giới này là do ý niệm tuyệt đối sinh ra”"
+    },
+    "dap_an_dung": "A",
+    "giai_thich": "Luận điểm “Tôi tư duy, nên tôi tồn tại” (Cogito, ergo sum) của Descartes lấy tư duy, ý thức làm điểm khởi đầu tin cậy nhất để thiết lập và kiểm chứng hệ thống tri thức."
+  },
+  {
+    "cau_hoi": "Ai là tác giả của châm ngôn nổi tiếng đề cao vai trò của tri thức khoa học thực nghiệm đối với sự tiến bộ của con người: “Tri thức là sức mạnh”?",
+    "phuong_an": {
+      "A": "René Descartes",
+      "B": "Francis Bacon",
+      "C": "Thomas Hobbes",
+      "D": "John Locke"
+    },
+    "dap_an_dung": "B",
+    "giai_thich": "Triết gia duy vật người Anh Francis Bacon là người đưa ra khẩu hiệu “Tri thức là sức mạnh” (Knowledge is power) nhằm nhấn mạnh tầm quan trọng của khoa học thực nghiệm trong việc cải tạo tự nhiên."
+  },
+  {
+    "cau_hoi": "Để nhấn mạnh nhiệm vụ hàng đầu của thế hệ trẻ đối với việc tiếp thu tri thức nhân loại, V.I. Lênin đã đưa ra lời khuyên nổi tiếng nào tại Đại hội lần thứ III Đoàn Thanh niên Cộng sản Nga?",
+    "phuong_an": {
+      "A": "“Lao động, lao động và lao động”",
+      "B": "“Học, học nữa, học mãi”",
+      "C": "“Không có gì quý hơn độc lập tự do”",
+      "D": "“Đoàn kết, đoàn kết, đại đoàn kết”"
+    },
+    "dap_an_dung": "B",
+    "giai_thich": "V.I. Lênin đưa ra lời kêu gọi lịch sử: “Học, học nữa, học mãi” để định hướng tinh thần không ngừng nâng cao trình độ văn hóa, lý luận và chuyên môn cho thế hệ trẻ xã hội chủ nghĩa."
+  },
+  {
+    "cau_hoi": "Triết gia cổ điển Đức Immanuel Kant nổi tiếng với câu nói về hai điều làm ông luôn cảm thấy ngưỡng mộ và kính sợ nhất trong đời là gì?",
+    "phuong_an": {
+      "A": "Bầu trời đầy sao trên đầu và quy luật đạo đức trong tim",
+      "B": "Sức mạnh của đồng tiền và quyền lực của hoàng đế",
+      "C": "Sự kỳ diệu của toán học và vẻ đẹp của nghệ thuật",
+      "D": "Giới tự nhiên hoang dã và sự tiến hóa của sinh giới"
+    },
+    "dap_an_dung": "A",
+    "giai_thich": "Kant viết trong tác phẩm của mình: “Có hai điều luôn lấp đầy tâm trí bằng sự ngưỡng mộ và kính sợ ngày càng tăng... đó là bầu trời đầy sao trên đầu tôi và quy luật đạo đức bên trong tôi.”"
+  },
+  {
+    "cau_hoi": "Điền từ thích hợp vào luận điểm biện chứng của Ph. Ăngghen: “Sống có nghĩa là chết; sự sống luôn mang sẵn trong bản thân nó mầm mống của [...]”?",
+    "phuong_an": {
+      "A": "sự hủy diệt siêu hình",
+      "B": "cái chết (sự phủ định)",
+      "C": "sự tiến hóa tuyệt đối",
+      "D": "sự luân hồi tôn giáo"
+    },
+    "dap_an_dung": "B",
+    "giai_thich": "Biện chứng của sự sống và cái chết theo Ăngghen là sự thống nhất biện chứng của hai mặt đối lập. Sự sống luôn chứa đựng mầm mống của cái chết, và cái chết là điều kiện chuyển hóa biện chứng để sinh ra dạng sống mới."
+  },
+  {
+    "cau_hoi": "Theo C. Mác, lịch sử của xã hội loài người thực chất không là gì khác ngoài quá trình con người tự sáng tạo ra chính mình thông qua hoạt động cốt lõi nào?",
+    "phuong_an": {
+      "A": "Suy tưởng tư tư biện triết học",
+      "B": "Hoạt động lao động thực tiễn",
+      "C": "Cầu nguyện và thực hành nghi lễ tôn giáo",
+      "D": "Các cuộc chiến tranh tranh giành lãnh thổ"
+    },
+    "dap_an_dung": "B",
+    "giai_thich": "Thông qua lao động thực tiễn cải tạo tự nhiên, con người không chỉ tạo ra của cải vật chất mà còn tự rèn luyện các cơ quan cảm giác, ngôn ngữ và tư duy xã hội, tức là tự sáng tạo ra bản thân mình."
+  },
+  {
+    "cau_hoi": "Ph. Ăngghen khẳng định vai trò của nhận thức đối với tự do thông qua luận điểm kinh điển nào?",
+    "phuong_an": {
+      "A": "“Tự do là sự phủ định hoàn toàn các quy luật tự nhiên”",
+      "B": "“Tự do là sự nhận thức được cái tất yếu”",
+      "C": "“Tự do là quyền lực tối cao của cá nhân cá biệt”",
+      "D": "“Tự do là sự giải phóng khỏi mọi hoạt động lao động sản xuất”"
+    },
+    "dap_an_dung": "B",
+    "giai_thich": "Ăngghen viết: “Tự do không phải là ở chỗ ước mơ độc lập đối với các quy luật tự nhiên, mà là ở chỗ nhận thức được những quy luật đó để bắt chúng hoạt động có kế hoạch theo mục đích của chúng ta.”"
+  },
+  {
+    "cau_hoi": "Luận điểm nổi tiếng của V.I. Lênin về tính thực tiễn khách quan của chân lý là gì?",
+    "phuong_an": {
+      "A": "“Chân lý là tuyệt đối và không bao giờ biến đổi”",
+      "B": "“Không có chân lý trừu tượng, chân lý luôn là cụ thể”",
+      "C": "“Chân lý do đa số mọi người công nhận quyết định”",
+      "D": "“Chân lý chỉ tồn tại trong thế giới ý niệm của triết gia”"
+    },
+    "dap_an_dung": "B",
+    "giai_thich": "Chân lý luôn gắn liền với những điều kiện, hoàn cảnh lịch sử - cụ thể xác định. Lênin nhấn mạnh: “Không có chân lý trừu tượng, chân lý luôn là cụ thể” nhằm phê phán thái độ giáo điều, áp đặt máy móc."
+  },
+  {
+    "cau_hoi": "Hãy hoàn thiện luận điểm của Lênin về mối quan hệ biện chứng giữa vật chất và vận động: “Không có vật chất không vận động, cũng như không thể có vận động không...”?",
+    "phuong_an": {
+      "A": "có mục đích tinh thần định sẵn",
+      "B": "có vật chất",
+      "C": "có sự quan sát trực quan của con người",
+      "D": "chịu ảnh hưởng của lực hấp dẫn bên ngoài"
+    },
+    "dap_an_dung": "B",
+    "giai_thich": "Vận động là phương thức tồn tại cố hữu của vật chất. Do đó, không thể có vật chất mà không vận động, và ngược lại, không thể có sự vận động nếu không có chủ thể vật chất tương ứng."
+  },
+  {
+    "cau_hoi": "Để làm nổi bật tính thực tiễn và mối liên hệ hữu cơ của Triết học Mác với phong trào công nhân, C. Mác đã ví von Triết học là gì?",
+    "phuong_an": {
+      "A": "Vũ khí tinh thần (đầu não) của giai cấp vô sản",
+      "B": "Bản đồ chỉ đường của người lữ hành",
+      "C": "Người thầy đứng ngoài cuộc đấu tranh",
+      "D": "Ngọn đuốc soi rọi trong bóng đêm xã hội"
+    },
+    "dap_an_dung": "A",
+    "giai_thich": "Mác viết: “Giống như triết học thấy giai cấp vô sản là vũ khí vật chất của mình, giai cấp vô sản cũng thấy triết học là vũ khí tinh thần của mình. Đầu não của sự giải phóng đó là triết học, trái tim của nó là giai cấp vô sản.”"
+  },
+  {
+    "cau_hoi": "Điền từ đúng vào luận điểm của Ph. Ăngghen: “Vật chất với tính cách là vật chất, đó là một sáng tạo thuần túy của [...] và là một sự trừu tượng hóa”?",
+    "phuong_an": {
+      "A": "Thượng đế khách quan",
+      "B": "tư duy (đầu óc con người)",
+      "C": "giới tự nhiên tự thân",
+      "D": "cảm giác trực quan"
+    },
+    "dap_an_dung": "B",
+    "giai_thich": "Ăngghen chỉ ra rằng khái niệm “vật chất” nói chung là một sự khái quát hóa, trừu tượng hóa của tư duy con người từ muôn vàn những vật thể cụ thể, khách quan có thực trong đời sống sinh hoạt và sản xuất."
+  },
+  {
+    "cau_hoi": "Lênin định nghĩa: “... là một phạm rù triết học dùng để chỉ thực tại khách quan được đem lại cho con người trong cảm giác”?",
+    "phuong_an": {
+      "A": "Ý thức",
+      "B": "Vật chất",
+      "C": "Không gian",
+      "D": "Quy luật"
+    },
+    "dap_an_dung": "B",
+    "giai_thich": "Đây là vế mở đầu định nghĩa vật chất kinh điển của Lênin nhằm giải quyết triệt để mặt thứ nhất vấn đề cơ bản của triết học trên lập trường duy vật biện chứng, chống lại các luận điệu duy tâm."
+  },
+  {
+    "cau_hoi": "Trong các cuộc thảo luận Q&A của sinh viên khóa trước được ghi lại trong tài liệu ôn tập, khi gặp một câu hỏi trắc nghiệm Triết học có các phương án quá giống nhau hoặc gây phân vân, khuyến nghị xử lý tối ưu nhất là gì?",
+    "phuong_an": {
+      "A": "Đoán mò đáp án ngẫu nhiên",
+      "B": "Đối chiếu trực tiếp với các định nghĩa, thuật ngữ chính xác trong sách giáo trình chính thống để tìm ra từ ngữ khớp nhất",
+      "C": "Chọn phương án dài nhất vì nó luôn đúng",
+      "D": "Bỏ qua không khoanh đáp án nào"
+    },
+    "dap_an_dung": "B",
+    "giai_thich": "Các thảo luận Q&A nhấn mạnh đề thi trắc nghiệm Triết học đòi hỏi độ chính xác rất cao về mặt câu chữ của giáo trình; do đó việc đối chiếu chính xác thuật ngữ trong sách đỏ là cách kiểm chứng an toàn và chính xác nhất."
+  },
+  {
+    "cau_hoi": "C. Mác phê phán chủ nghĩa duy vật cũ của L. Phoi-ơ-bắc ở điểm nào khi bàn về bản chất con người?",
+    "phuong_an": {
+      "A": "Đề cao quá mức vai trò của giai cấp vô sản",
+      "B": "Hiểu bản chất con người một cách trừu tượng, phi lịch sử, coi con người chỉ là thực thể sinh học tự nhiên biệt lập",
+      "C": "Thừa nhận con người do Thượng đế tạo ra",
+      "D": "Phủ nhận hoàn toàn sự tồn tại vật chất của con người"
+    },
+    "dap_an_dung": "B",
+    "giai_thich": "Mác phê phán Phoi-ơ-bắc vì đã quy bản chất con người về bản tính tự nhiên thuần túy, trừu tượng, tách rời các quan hệ xã hội thực tế và tiến trình lịch sử lao động cụ thể."
+  },
+  {
+    "cau_hoi": "Theo tác phẩm 'Biện chứng của tự nhiên' của Ph. Ăngghen, nhân tố nào giữ vai trò quyết định, bắt đầu trước nhất kích thích sự chuyển biến từ bộ óc loài vượn người thành bộ óc con người?",
+    "phuong_an": {
+      "A": "Sự biến đổi khí hậu đột ngột",
+      "B": "Lao động và sau lao động là ngôn ngữ (tiếng nói)",
+      "C": "Bản năng tự vệ sinh học",
+      "D": "Sự xuất hiện của các tôn giáo nguyên thủy"
+    },
+    "dap_an_dung": "B",
+    "giai_thich": "Ăngghen phân tích rằng chính lao động dồn sức kích thích sự phát triển thể chất, tiếp đó nhu cầu giao tiếp trong lao động nảy sinh ngôn ngữ, hai yếu tố này là động lực chính biến bộ óc vượn thành bộ óc người hoàn thiện."
+  },
+  {
+    "cau_hoi": "V.I. Lênin định nghĩa hạt nhân của phép biện chứng duy vật là quy luật nào?",
+    "phuong_an": {
+      "A": "Quy luật lượng đổi chất đổi",
+      "B": "Quy luật thống nhất và đấu tranh của các mặt đối lập (quy luật mâu thuẫn)",
+      "C": "Quy luật phủ định của phủ định",
+      "D": "Quy luật nhân quả tất yếu"
+    },
+    "dap_an_dung": "B",
+    "giai_thich": "Lênin khẳng định quy luật mâu thuẫn (quy luật thống nhất và đấu tranh của các mặt đối lập) là hạt nhân của phép biện chứng, vì nó chỉ ra nguồn gốc và động lực bên trong của mọi sự vận động, phát triển tự thân."
+  },
+  {
+    "cau_hoi": "Hãy điền từ đúng vào chỗ trống trong luận điểm nổi tiếng của C. Mác: “Không phải [...] của con người quyết định tồn tại của họ; trái lại, tồn tại xã hội của họ quyết định [...] của họ”?",
+    "phuong_an": {
+      "A": "ý thức / ý thức",
+      "B": "vật chất / vật chất",
+      "C": "hành vi / hành vi",
+      "D": "địa vị / địa vị"
+    },
+    "dap_an_dung": "A",
+    "giai_thich": "Đây là luận điểm cốt lõi trong phần Lời nói đầu cuốn 'Góp phần phê phán khoa học kinh tế chính trị' của C. Mác, khẳng định nguyên lý cơ bản của duy vật lịch sử: Tồn tại xã hội quyết định ý thức xã hội."
   }
 ]
