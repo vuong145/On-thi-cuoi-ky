@@ -253,28 +253,25 @@ else:
                 nut_xao_bai = st.button("🔄 Xáo bài mới")
 
             if nut_cau_truoc:
+                # Ảnh cổ vũ chỉ hiện ngay sau khi đạt 5 câu đúng liên tục;
+                # bấm sang câu khác là mất, phải đúng 5 câu liên tục tiếp theo mới hiện lại.
+                st.session_state.anh_co_vu_hien_tai = None
                 st.session_state.chi_so_cau = chi_so - 1
                 st.rerun()
             if nut_cau_tiep:
                 # Ở câu cuối, bấm tiếp sẽ sang màn hình hoàn thành (có nút quay lại rà soát)
+                st.session_state.anh_co_vu_hien_tai = None
                 st.session_state.chi_so_cau = chi_so + 1
                 st.rerun()
             if nut_xao_bai:
                 tao_de_moi()
                 st.rerun()
 
-        # ----- Cột phải: GÓC CỔ VŨ -----
+        # ----- Cột phải: ẢNH CỔ VŨ (chỉ hiện ảnh bất ngờ, không kèm chữ) -----
         with cot_anh_co_vu:
-            st.markdown("#### 🎁 Góc cổ vũ")
             if st.session_state.anh_co_vu_hien_tai:
                 st.image(
                     st.session_state.anh_co_vu_hien_tai,
-                    caption="🎉 Đúng 5 câu liên tục!",
                     width="stretch",
                 )
-            else:
-                st.caption("Trả lời đúng 5 câu liên tục để nhận ảnh cổ vũ tại đây!")
-            if not anh_co_vu:
-                st.caption(f"📁 Chưa có ảnh. Hãy bỏ ảnh vào thư mục:\n`{THU_MUC_ANH}`")
-            st.caption(f"🔥 Chuỗi đúng liên tục: {st.session_state.chuoi_dung_lien_tiep}/5")
 
