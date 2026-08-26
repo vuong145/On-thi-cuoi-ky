@@ -1,106 +1,246 @@
 import json
+import os
 import random
+
 import streamlit as st
 from streamlit_local_storage import LocalStorage
 
 st.set_page_config(page_title="Thi Thử Triết Học", page_icon="📚")
 st.title("📚 Ôn Thi Trắc Nghiệm Triết Học")
 
-# Khởi tạo bộ lưu trữ cục bộ trên trình duyệt của người dùng
+# Bộ lưu trữ cục bộ trên trình duyệt của người dùng
 local_storage = LocalStorage()
+
 
 @st.cache_data
 def tai_ngan_hang_de():
-    with open("Triet-Hoc/triet_data.json", "r", encoding="utf-8") as file:
-        return json.load(file)
+    # Thử nhiều đường dẫn để app chạy được dù mở từ thư mục nào
+    thu_muc_script = os.path.dirname(os.path.abspath(__file__))
+    cac_duong_dan = [
+        os.path.join(thu_muc_script, "Triet-Hoc", "triet_data.json"),
+        os.path.join(thu_muc_script, "triet_data.json"),
+        "Triet-Hoc/triet_data.json",
+        "triet_data.json",
+    ]
+    for duong_dan in cac_duong_dan:
+        try:
+            with open(duong_dan, "r", encoding="utf-8") as file:
+                return json.load(file)
+        except FileNotFoundError:
+            continue
+    raise FileNotFoundError("Không tìm thấy file triet_data.json")
+
 
 ngan_hang = tai_ngan_hang_de()
 
-# Lấy danh sách câu sai đã lưu từ trước trong trình duyệt
+# ======================================================================
+# ẢNH CỔ VŨ: mỗi khi trả lời đúng 5 câu liên tục, một ảnh ngẫu nhiên
+# trong thư mục "anh_co_vu" sẽ hiện ra ở cột bên phải để cổ vũ.
+# - Ưu tiên thư mục "anh_co_vu" ĐÃ CÓ ẢNH (có thể dùng chung).
+# - Nếu chưa có ảnh, app sẽ tự tạo thư mục "anh_co_vu" cạnh file chạy.
+# Hỗ trợ định dạng: .png .jpg .jpeg .gif .webp .bmp
+# ======================================================================
+THU_MUC_SCRIPT = os.path.dirname(os.path.abspath(__file__))
+DINH_DANG_ANH = (".png", ".jpg", ".jpeg", ".gif", ".webp", ".bmp")
+
+
+def tim_thu_muc_anh():
+    ung_vien = [
+        os.path.join(THU_MUC_SCRIPT, "anh_co_vu"),
+        os.path.normpath(os.path.join(THU_MUC_SCRIPT, "..", "anh_co_vu")),
+    ]
+    for duong_dan in ung_vien:
+        if os.path.isdir(duong_dan) and any(
+            ten.lower().endswith(DINH_DANG_ANH) for ten in os.listdir(duong_dan)
+        ):
+            return duong_dan
+    os.makedirs(ung_vien[0], exist_ok=True)
+    return ung_vien[0]
+
+
+THU_MUC_ANH = tim_thu_muc_anh()
+anh_co_vu = sorted(
+    ten for ten in os.listdir(THU_MUC_ANH) if ten.lower().endswith(DINH_DANG_ANH)
+)
+
+# Danh sách câu sai đã lưu trên trình duyệt của người dùng
 cac_cau_sai_da_luu = local_storage.getItem("cac_cau_sai")
 if cac_cau_sai_da_luu is None:
     cac_cau_sai_da_luu = []
 else:
     cac_cau_sai_da_luu = json.loads(cac_cau_sai_da_luu)
 
-# --- PHẦN MENU CHỌN CHẾ ĐỘ HỌC BÊN TRÁI ---
+# --- MENU CHỌN CHẾ ĐỘ HỌC ---
 st.sidebar.header("Chế độ học")
 che_do = st.sidebar.radio(
-    "Bạn muốn làm gì?", 
-    ["Thi thử bộ đề chung", f"Luyện lại câu sai ({len(cac_cau_sai_da_luu)} câu)"]
+    "Bạn muốn làm gì?",
+    ["Thi thử vô tận", "Thi thử 50 câu", f"Luyện lại câu sai ({len(cac_cau_sai_da_luu)} câu)"],
+    key="che_do_radio",
 )
 
-bo_de_hien_tai = ngan_hang if "chung" in che_do else cac_cau_sai_da_luu
 
-if not bo_de_hien_tai:
+def tao_de_moi():
+    """Xáo lại bộ đề của chế độ hiện tại và quay về câu đầu tiên."""
+    if "50 câu" in che_do:
+        st.session_state.danh_sach_cau = random.sample(ngan_hang, min(50, len(ngan_hang)))
+    elif "vô tận" in che_do:
+        st.session_state.danh_sach_cau = random.sample(ngan_hang, len(ngan_hang))
+    else:
+        st.session_state.danh_sach_cau = random.sample(cac_cau_sai_da_luu, len(cac_cau_sai_da_luu))
+    st.session_state.chi_so_cau = 0
+    # Lưu câu trả lời theo từng câu: chỉ số câu -> {"chon": "A", "dung": True/False}
+    st.session_state.cac_cau_da_tra_loi = {}
+    st.session_state.chuoi_dung_lien_tiep = 0
+    st.session_state.anh_co_vu_hien_tai = None
+
+
+def tinh_diem():
+    """Số câu đã trả lời ĐÚNG trong lượt hiện tại."""
+    return sum(1 for tt in st.session_state.cac_cau_da_tra_loi.values() if tt["dung"])
+
+
+# Reset toàn bộ khi lần đầu chạy hoặc khi đổi chế độ
+if "che_do_cu" not in st.session_state or st.session_state.che_do_cu != che_do:
+    st.session_state.che_do_cu = che_do
+    tao_de_moi()
+
+danh_sach_cau = st.session_state.danh_sach_cau
+if not danh_sach_cau:
     st.info("Hiện tại bạn chưa có câu nào bị sai! Hãy chọn chế độ Thi thử bộ đề chung bên menu trái.")
 else:
-    # Tự động xáo bài và reset khi người dùng đổi chế độ ở menu
-    if "che_do_cu" not in st.session_state or st.session_state.che_do_cu != che_do:
-        st.session_state.danh_sach_cau = random.sample(bo_de_hien_tai, len(bo_de_hien_tai))
-        st.session_state.chi_so_cau = 0
-        st.session_state.da_tra_loi = False
-        st.session_state.che_do_cu = che_do
-
-    # Kiểm tra nếu đã làm hết các câu trong lượt hiện tại
-    if st.session_state.chi_so_cau >= len(st.session_state.danh_sach_cau):
-        st.success("🎉 Bạn đã hoàn thành lượt câu hỏi này!")
-        if st.button("🔄 Xáo bài và làm lại từ đầu"):
-            st.session_state.danh_sach_cau = random.sample(bo_de_hien_tai, len(bo_de_hien_tai))
-            st.session_state.chi_so_cau = 0
-            st.session_state.da_tra_loi = False
-            st.rerun()
-    else:
-        cau_hien_tai = st.session_state.danh_sach_cau[st.session_state.chi_so_cau]
-        st.subheader(f"Câu {st.session_state.chi_so_cau + 1}: {cau_hien_tai['cau_hoi']}")
-        
-        cac_lua_chon = [f"{k}. {v}" for k, v in cau_hien_tai["phuong_an"].items()]
-        
-# ... existing code up to st.radio line ...
-
-# Vô hiệu hóa ô chọn đáp án sau khi đã nộp bài để tránh người dùng sửa đáp án
-if not st.session_state.da_tra_loi:
-    chon_lua = st.radio(
-        "Chọn đáp án của bạn:", 
-        cac_lua_chon, 
-        index=None
-    )
-    
-    if st.button("Nộp bài"):
-        if chon_lua is not None:
-            st.session_state.da_tra_loi = True
-            st.session_state.cau_tra_loi_hien_tai = chon_lua[0]  # Lưu đáp án
-            st.rerun()
+    if st.session_state.chi_so_cau >= len(danh_sach_cau):
+        # ---------------- MÀN HÌNH HOÀN THÀNH ----------------
+        diem = tinh_diem()
+        if "50 câu" in che_do:
+            st.balloons()
+            st.success("🎉 Bạn đã hoàn thành đề 50 câu!")
+            st.metric("Điểm số", f"{diem}/{len(danh_sach_cau)}")
+            st.metric("Tỷ lệ đúng", f"{diem / len(danh_sach_cau) * 100:.1f}%")
         else:
-            st.warning("Vui lòng chọn một đáp án trước khi nộp bài!")
+            st.success("🎉 Bạn đã hoàn thành lượt câu hỏi này!")
 
-if st.session_state.da_tra_loi:
-    dap_an_user = st.session_state.cau_tra_loi_hien_tai
-    
-    if dap_an_user == cau_hien_tai["dap_an_dung"]:
-        st.success("✓ Chính xác!")
-        if "Luyện lại câu sai" in che_do and cau_hien_tai in cac_cau_sai_da_luu:
-            cac_cau_sai_da_luu.remove(cau_hien_tai)
-            local_storage.setItem("cac_cau_sai", json.dumps(cac_cau_sai_da_luu))
+        cot_1, cot_2 = st.columns(2)
+        with cot_1:
+            if st.button("🔄 Làm lại từ đầu"):
+                tao_de_moi()
+                st.rerun()
+        with cot_2:
+            if st.button("⬅️ Quay lại rà soát các câu"):
+                st.session_state.chi_so_cau = len(danh_sach_cau) - 1
+                st.rerun()
     else:
-        st.error(f"✘ Sai rồi! Đáp án đúng là: {cau_hien_tai['dap_an_dung']}")
-        if "Thi thử bộ đề chung" in che_do and cau_hien_tai not in cac_cau_sai_da_luu:
-            cac_cau_sai_da_luu.append(cau_hien_tai)
-            local_storage.setItem("cac_cau_sai", json.dumps(cac_cau_sai_da_luu))
-    
-    st.info(f"**Giải thích:** {cau_hien_tai['giai_thich']}")
-    
-    # --- KHU VỰC CÁC NÚT ĐIỀU HƯỚNG BÊN NGOÀI ---
-    st.write("---")
-    col1, col2 = st.columns(2)
-    with col1:
-        if st.button("➡️ Câu tiếp theo"):
-            st.session_state.chi_so_cau += 1
-            st.session_state.da_tra_loi = False
-            st.rerun()
-    with col2:
-        if st.button("🔄 Đổi lượt / Xáo bài ngay"):
-            st.session_state.danh_sach_cau = random.sample(bo_de_hien_tai, len(bo_de_hien_tai))
-            st.session_state.chi_so_cau = 0
-            st.session_state.da_tra_loi = False
-            st.rerun()        
+        chi_so = st.session_state.chi_so_cau
+        cau_hien_tai = danh_sach_cau[chi_so]
+        thong_tin = st.session_state.cac_cau_da_tra_loi.get(chi_so)
+        da_tra_loi = thong_tin is not None  # câu này đã nộp bài chưa?
+
+        if "50 câu" in che_do:
+            st.progress((chi_so + 1) / len(danh_sach_cau))
+            st.caption(f"Câu {chi_so + 1}/{len(danh_sach_cau)}")
+
+        # ----- Cột trái: phần làm bài | Cột phải: ảnh cổ vũ -----
+        cot_cau_hoi, cot_anh_co_vu = st.columns([3, 1])
+
+        with cot_cau_hoi:
+            st.subheader(f"Câu {chi_so + 1}: {cau_hien_tai['cau_hoi']}")
+            cac_lua_chon = [f"{k}. {v}" for k, v in cau_hien_tai["phuong_an"].items()]
+
+            # Nếu câu này đã trả lời rồi thì hiển thị lại đáp án đã chọn
+            radio_index = None
+            if da_tra_loi:
+                ky_tu_da_chon = thong_tin["chon"]
+                radio_index = next(
+                    (i for i, lua_chon in enumerate(cac_lua_chon)
+                     if lua_chon.startswith(f"{ky_tu_da_chon}.")),
+                    None,
+                )
+
+            chon_lua = st.radio(
+                "Chọn đáp án của bạn:",
+                cac_lua_chon,
+                index=radio_index,
+                disabled=da_tra_loi,
+            )
+
+            # ---------- NỘP BÀI ----------
+            if not da_tra_loi:
+                if st.button("Nộp bài"):
+                    if chon_lua is not None:
+                        dap_an_user = chon_lua[0]
+                        dung = dap_an_user == cau_hien_tai["dap_an_dung"]
+                        st.session_state.cac_cau_da_tra_loi[chi_so] = {
+                            "chon": dap_an_user,
+                            "dung": dung,
+                        }
+
+                        if dung:
+                            st.session_state.chuoi_dung_lien_tiep += 1
+                            # Đúng 5 câu liên tục -> hiện 1 ảnh cổ vũ ngẫu nhiên
+                            if st.session_state.chuoi_dung_lien_tiep >= 5:
+                                if anh_co_vu:
+                                    ten_anh = random.choice(anh_co_vu)
+                                    st.session_state.anh_co_vu_hien_tai = os.path.join(THU_MUC_ANH, ten_anh)
+                                st.session_state.chuoi_dung_lien_tiep = 0
+                            # Luyện câu sai: làm đúng thì xóa câu đó khỏi danh sách sai
+                            if "Luyện lại câu sai" in che_do and cau_hien_tai in cac_cau_sai_da_luu:
+                                cac_cau_sai_da_luu.remove(cau_hien_tai)
+                                local_storage.setItem("cac_cau_sai", json.dumps(cac_cau_sai_da_luu))
+                        else:
+                            st.session_state.chuoi_dung_lien_tiep = 0
+                            # Thi thử: làm sai thì thêm câu đó vào danh sách câu sai
+                            if "Luyện lại câu sai" not in che_do and cau_hien_tai not in cac_cau_sai_da_luu:
+                                cac_cau_sai_da_luu.append(cau_hien_tai)
+                                local_storage.setItem("cac_cau_sai", json.dumps(cac_cau_sai_da_luu))
+
+                        st.rerun()
+                    else:
+                        st.warning("Vui lòng chọn một đáp án trước khi nộp bài!")
+
+            # ---------- KẾT QUẢ SAU KHI ĐÃ NỘP ----------
+            if da_tra_loi:
+                if thong_tin["dung"]:
+                    st.success("✓ Chính xác!")
+                else:
+                    st.error(f"✘ Sai rồi! Đáp án đúng là: {cau_hien_tai['dap_an_dung']}")
+                st.info(f"**Giải thích:** {cau_hien_tai['giai_thich']}")
+
+                if "50 câu" in che_do:
+                    diem = tinh_diem()
+                    st.metric("Điểm hiện tại", f"{diem}/{len(st.session_state.cac_cau_da_tra_loi)}")
+
+            # ---------- ĐIỀU HƯỚNG: quay lại / tới mọi câu (đã làm hay chưa) ----------
+            st.write("---")
+            cot_nav_1, cot_nav_2, cot_nav_3 = st.columns(3)
+            with cot_nav_1:
+                nut_cau_truoc = st.button("⬅️ Câu trước", disabled=(chi_so == 0))
+            with cot_nav_2:
+                nut_cau_tiep = st.button("➡️ Câu tiếp theo")
+            with cot_nav_3:
+                nut_xao_bai = st.button("🔄 Xáo bài mới")
+
+            if nut_cau_truoc:
+                st.session_state.chi_so_cau = chi_so - 1
+                st.rerun()
+            if nut_cau_tiep:
+                # Ở câu cuối, bấm tiếp sẽ sang màn hình hoàn thành (có nút quay lại rà soát)
+                st.session_state.chi_so_cau = chi_so + 1
+                st.rerun()
+            if nut_xao_bai:
+                tao_de_moi()
+                st.rerun()
+
+        # ----- Cột phải: GÓC CỔ VŨ -----
+        with cot_anh_co_vu:
+            st.markdown("#### 🎁 Góc cổ vũ")
+            if st.session_state.anh_co_vu_hien_tai:
+                st.image(
+                    st.session_state.anh_co_vu_hien_tai,
+                    caption="🎉 Đúng 5 câu liên tục!",
+                    width="stretch",
+                )
+            else:
+                st.caption("Trả lời đúng 5 câu liên tục để nhận ảnh cổ vũ tại đây!")
+            if not anh_co_vu:
+                st.caption(f"📁 Chưa có ảnh. Hãy bỏ ảnh vào thư mục:\n`{THU_MUC_ANH}`")
+            st.caption(f"🔥 Chuỗi đúng liên tục: {st.session_state.chuoi_dung_lien_tiep}/5")
+
