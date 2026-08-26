@@ -10,7 +10,9 @@ web_on_tap.py            <- file chính của app
 requirements.txt         <- các thư viện cần cài
 Triet-Hoc/
   └── triet_data.json    <- ngân hàng câu hỏi môn Triết học (bản đầy đủ nhất, 453 câu)
-anh_co_vu/               <- ảnh cổ vũ (trả lời đúng 5 câu liên tục -> hiện 1 ảnh ngẫu nhiên)
+anh_co_vu/
+  ├── anh_co_vu/         <- ảnh cổ vũ (đúng 5 câu liên tục -> hiện 1 ảnh ngẫu nhiên)
+  └── anh_che_gieu/      <- ảnh chế giễu (sai 3 câu liên tục -> hiện 1 ảnh ngẫu nhiên)
 ```
 
 ## ➕ Thêm môn học mới 

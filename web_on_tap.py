@@ -35,24 +35,24 @@ MON_HOC = {
 THU_MUC_SCRIPT = os.path.dirname(os.path.abspath(__file__))
 DINH_DANG_ANH = (".png", ".jpg", ".jpeg", ".gif", ".webp", ".bmp")
 
+# ======================================================================
+# ẢNH CỔ VŨ & ẢNH CHẾ GIỄU
+# Trong thư mục anh_co_vu/ có 2 thư mục con:
+#   - anh_co_vu/anh_co_vu/     -> ảnh cổ vũ    (đúng 5 câu liên tục -> hiện 1 ảnh)
+#   - anh_co_vu/anh_che_gieu/  -> ảnh chế giễu (sai 3 câu liên tục -> hiện 1 ảnh)
+# Chỉ cần bỏ ảnh (.png/.jpg/.jpeg/.gif/.webp/.bmp) vào 2 thư mục đó.
+# ======================================================================
+THU_MUC_ANH = os.path.join(THU_MUC_SCRIPT, "anh_co_vu")
+THU_MUC_ANH_CO_VU = os.path.join(THU_MUC_ANH, "anh_co_vu")
+THU_MUC_ANH_CHE_GIEU = os.path.join(THU_MUC_ANH, "anh_che_gieu")
+os.makedirs(THU_MUC_ANH_CO_VU, exist_ok=True)
+os.makedirs(THU_MUC_ANH_CHE_GIEU, exist_ok=True)
 
-def tim_thu_muc_anh():
-    ung_vien = [
-        os.path.join(THU_MUC_SCRIPT, "anh_co_vu"),
-        os.path.normpath(os.path.join(THU_MUC_SCRIPT, "..", "anh_co_vu")),
-    ]
-    for duong_dan in ung_vien:
-        if os.path.isdir(duong_dan) and any(
-            ten.lower().endswith(DINH_DANG_ANH) for ten in os.listdir(duong_dan)
-        ):
-            return duong_dan
-    os.makedirs(ung_vien[0], exist_ok=True)
-    return ung_vien[0]
-
-
-THU_MUC_ANH = tim_thu_muc_anh()
 anh_co_vu = sorted(
-    ten for ten in os.listdir(THU_MUC_ANH) if ten.lower().endswith(DINH_DANG_ANH)
+    ten for ten in os.listdir(THU_MUC_ANH_CO_VU) if ten.lower().endswith(DINH_DANG_ANH)
+)
+anh_che_gieu = sorted(
+    ten for ten in os.listdir(THU_MUC_ANH_CHE_GIEU) if ten.lower().endswith(DINH_DANG_ANH)
 )
 
 
@@ -122,7 +122,9 @@ def tao_de_moi():
     # Lưu câu trả lời theo từng câu: chỉ số câu -> {"chon": "A", "dung": True/False}
     st.session_state.cac_cau_da_tra_loi = {}
     st.session_state.chuoi_dung_lien_tiep = 0
+    st.session_state.chuoi_sai_lien_tiep = 0
     st.session_state.anh_co_vu_hien_tai = None
+    st.session_state.anh_che_gieu_hien_tai = None
 
 
 def tinh_diem():
@@ -209,11 +211,13 @@ else:
 
                         if dung:
                             st.session_state.chuoi_dung_lien_tiep += 1
+                            st.session_state.chuoi_sai_lien_tiep = 0
+                            st.session_state.anh_che_gieu_hien_tai = None  # trả lời đúng thì bỏ ảnh chế giễu
                             # Đúng 5 câu liên tục -> hiện 1 ảnh cổ vũ ngẫu nhiên
                             if st.session_state.chuoi_dung_lien_tiep >= 5:
                                 if anh_co_vu:
                                     ten_anh = random.choice(anh_co_vu)
-                                    st.session_state.anh_co_vu_hien_tai = os.path.join(THU_MUC_ANH, ten_anh)
+                                    st.session_state.anh_co_vu_hien_tai = os.path.join(THU_MUC_ANH_CO_VU, ten_anh)
                                 st.session_state.chuoi_dung_lien_tiep = 0
                             # Luyện câu sai: làm đúng thì xóa câu đó khỏi danh sách sai
                             if "Luyện lại câu sai" in che_do and cau_hien_tai in cac_cau_sai_da_luu:
@@ -221,6 +225,14 @@ else:
                                 local_storage.setItem(KHOI_CAU_SAI, json.dumps(cac_cau_sai_da_luu))
                         else:
                             st.session_state.chuoi_dung_lien_tiep = 0
+                            st.session_state.chuoi_sai_lien_tiep += 1
+                            st.session_state.anh_co_vu_hien_tai = None  # trả lời sai thì bỏ ảnh cổ vũ
+                            # Sai 3 câu liên tục -> hiện 1 ảnh chế giễu ngẫu nhiên
+                            if st.session_state.chuoi_sai_lien_tiep >= 3:
+                                if anh_che_gieu:
+                                    ten_anh = random.choice(anh_che_gieu)
+                                    st.session_state.anh_che_gieu_hien_tai = os.path.join(THU_MUC_ANH_CHE_GIEU, ten_anh)
+                                st.session_state.chuoi_sai_lien_tiep = 0
                             # Thi thử: làm sai thì thêm câu đó vào danh sách câu sai
                             if "Luyện lại câu sai" not in che_do and cau_hien_tai not in cac_cau_sai_da_luu:
                                 cac_cau_sai_da_luu.append(cau_hien_tai)
@@ -253,25 +265,31 @@ else:
                 nut_xao_bai = st.button("🔄 Xáo bài mới")
 
             if nut_cau_truoc:
-                # Ảnh cổ vũ chỉ hiện ngay sau khi đạt 5 câu đúng liên tục;
-                # bấm sang câu khác là mất, phải đúng 5 câu liên tục tiếp theo mới hiện lại.
+                # Ảnh bất ngờ (cổ vũ/chế giễu) chỉ hiện ngay sau khi đạt chuỗi
+                # (5 đúng / 3 sai); bấm sang câu khác là mất, phải đạt chuỗi tiếp theo mới hiện lại.
                 st.session_state.anh_co_vu_hien_tai = None
+                st.session_state.anh_che_gieu_hien_tai = None
                 st.session_state.chi_so_cau = chi_so - 1
                 st.rerun()
             if nut_cau_tiep:
                 # Ở câu cuối, bấm tiếp sẽ sang màn hình hoàn thành (có nút quay lại rà soát)
                 st.session_state.anh_co_vu_hien_tai = None
+                st.session_state.anh_che_gieu_hien_tai = None
                 st.session_state.chi_so_cau = chi_so + 1
                 st.rerun()
             if nut_xao_bai:
                 tao_de_moi()
                 st.rerun()
 
-        # ----- Cột phải: ẢNH CỔ VŨ (chỉ hiện ảnh bất ngờ, không kèm chữ) -----
+        # ----- Cột phải: ảnh bất ngờ (cổ vũ hoặc chế giễu), không kèm chữ -----
         with cot_anh_co_vu:
-            if st.session_state.anh_co_vu_hien_tai:
+            anh_bat_ngo = (
+                st.session_state.anh_co_vu_hien_tai
+                or st.session_state.anh_che_gieu_hien_tai
+            )
+            if anh_bat_ngo:
                 st.image(
-                    st.session_state.anh_co_vu_hien_tai,
+                    anh_bat_ngo,
                     width="stretch",
                 )
 
