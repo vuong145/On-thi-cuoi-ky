@@ -1,0 +1,44 @@
+[
+  {
+    "id": "lkd-001",
+    "chuong": "Chương 1",
+    "cau_hoi": "Phân tích khái niệm thương nhân theo Luật Thương mại và nêu các đặc điểm pháp lý cơ bản.",
+    "diem": 3,
+    "dap_an_goi_y": "Thương nhân là tổ chức kinh tế được thành lập hợp pháp hoặc cá nhân hoạt động thương mại một cách độc lập, thường xuyên và có đăng ký kinh doanh.",
+    "cac_y_chinh": [
+      "Nêu đúng căn cứ pháp lý về thương nhân",
+      "Phân tích yếu tố hoạt động thương mại độc lập, thường xuyên",
+      "Làm rõ điều kiện đăng ký kinh doanh"
+    ],
+    "tu_khoa": ["thương nhân", "hoạt động thương mại", "đăng ký kinh doanh"],
+    "tai_lieu_tham_khao": "Luật Thương mại 2005"
+  },
+  {
+    "id": "lkd-002",
+    "chuong": "Chương 2",
+    "cau_hoi": "Trình bày điều kiện có hiệu lực của hợp đồng thương mại và hệ quả khi hợp đồng vô hiệu.",
+    "diem": 3,
+    "dap_an_goi_y": "Hợp đồng thương mại có hiệu lực khi chủ thể có năng lực, tự nguyện, mục đích nội dung không vi phạm điều cấm và đúng hình thức theo luật. Hợp đồng vô hiệu làm phát sinh nghĩa vụ hoàn trả, bồi thường nếu có lỗi.",
+    "cac_y_chinh": [
+      "Nêu đủ các điều kiện có hiệu lực",
+      "Phân biệt vô hiệu toàn bộ và từng phần",
+      "Nêu hậu quả pháp lý cơ bản khi vô hiệu"
+    ],
+    "tu_khoa": ["hiệu lực hợp đồng", "vô hiệu", "hoàn trả", "bồi thường"],
+    "tai_lieu_tham_khao": "Bộ luật Dân sự 2015, Luật Thương mại 2005"
+  },
+  {
+    "id": "lkd-003",
+    "chuong": "Chương 3",
+    "cau_hoi": "Phân tích các phương thức giải quyết tranh chấp kinh doanh thương mại thường dùng tại Việt Nam.",
+    "diem": 4,
+    "dap_an_goi_y": "Các phương thức phổ biến gồm thương lượng, hòa giải, trọng tài thương mại và tòa án. Mỗi phương thức có ưu nhược điểm về chi phí, thời gian, tính cưỡng chế và tính bảo mật.",
+    "cac_y_chinh": [
+      "Liệt kê đầy đủ các phương thức",
+      "So sánh ưu và nhược điểm",
+      "Nêu tiêu chí lựa chọn phương thức phù hợp"
+    ],
+    "tu_khoa": ["thương lượng", "hòa giải", "trọng tài", "tòa án"],
+    "tai_lieu_tham_khao": "Luật Trọng tài thương mại 2010, Bộ luật Tố tụng dân sự"
+  }
+]

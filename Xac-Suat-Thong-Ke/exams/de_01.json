@@ -1,0 +1,12 @@
+{
+  "id": "xstk-de-01",
+  "ten_de": "Đề mẫu Xác suất thống kê 01",
+  "thoi_gian_phut": 90,
+  "tong_diem": 10,
+  "mo_ta": "Đề tự luận tổng hợp xác suất và thống kê cơ bản.",
+  "cau_hoi": [
+    {"question_id": "xstk-001", "diem": 3, "thu_tu": 1},
+    {"question_id": "xstk-002", "diem": 3, "thu_tu": 2},
+    {"question_id": "xstk-003", "diem": 4, "thu_tu": 3}
+  ]
+}

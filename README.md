@@ -1,48 +1,73 @@
 # On-thi-cuoi-ky
 
-📚 Web ôn thi trắc nghiệm **nhiều môn** .
+📚 Web ôn thi hỗn hợp **trắc nghiệm + tự luận**.  
 Chạy bằng: `streamlit run web_on_tap.py`
 
 ## 📁 Cấu trúc thư mục
 
-```
-web_on_tap.py            <- file chính của app
-requirements.txt         <- các thư viện cần cài
+```text
+web_on_tap.py
+requirements.txt
+
 Triet-Hoc/
-  └── triet_data.json    <- ngân hàng câu hỏi môn Triết học (bản đầy đủ nhất, 453 câu)
+  triet_data.json                  # dữ liệu trắc nghiệm Triết học (legacy)
+
+Luat-Kinh-Doanh/
+  questions.json                   # ngân hàng câu hỏi tự luận
+  exams/
+    de_01.json                     # đề tham chiếu bằng question_id
+
+Toan-cho-DS/
+  questions.json
+  exams/
+    de_01.json
+
+Xac-Suat-Thong-Ke/
+  questions.json
+  exams/
+    de_01.json
+
 anh_co_vu/
-  ├── anh_co_vu/         <- ảnh cổ vũ (đúng 5 câu liên tục -> hiện 1 file ngẫu nhiên)
-  └── anh_che_gieu/      <- ảnh chế giễu (sai 3 câu liên tục -> hiện 1 file ngẫu nhiên)
-  (chấp nhận ảnh/GIF/video ngắn: .png .jpg .jpeg .gif .webp .bmp .mp4 .webm .ogg .mov)
+  anh_co_vu/
+  anh_che_gieu/
 ```
 
-## ➕ Thêm môn học mới 
+## ✨ Chế độ hiện có
 
-1. Tạo thư mục môn học, ví dụ: `Toan-hoc/`
-2. Bỏ file ngân hàng câu hỏi (JSON, cấu trúc giống `Triet-Hoc/triet_data.json`)
-   vào thư mục đó, ví dụ: `Toan-hoc/toan_data.json`
-3. Mở `web_on_tap.py`, thêm 1 dòng vào mục `MON_HOC`:
+- **Triết học (trắc nghiệm)**:
+  - Thi thử vô tận
+  - Thi thử 50 câu
+  - Luyện lại câu sai
+- **3 môn mới (tự luận)**:
+  - Làm một đề đầy đủ
+  - Luyện từng câu
+
+## ➕ Thêm môn tự luận mới
+
+1. Tạo thư mục môn mới, ví dụ: `Mon-Moi/`
+2. Thêm `questions.json` (mỗi câu có `id` duy nhất)
+3. Tạo `exams/` và các file đề JSON
+4. Trong mỗi đề, chỉ tham chiếu câu bằng `question_id` (không lặp lại toàn bộ nội dung câu)
+5. Thêm cấu hình môn vào `MON_HOC` trong `web_on_tap.py`:
 
 ```python
-MON_HOC = {
-    "Triết học": {"thu_muc": "Triet-Hoc", "file_json": "triet_data.json"},
-    "Toán học": {"thu_muc": "Toan-hoc", "file_json": "toan_data.json"},  # <- thêm dòng này
+"Môn mới": {
+    "thu_muc": "Mon-Moi",
+    "file_cau_hoi": "questions.json",
+    "thu_muc_de_thi": "exams",
+    "loai": "tu_luan",
 }
 ```
 
-4. Commit & push lên GitHub là xong — dropdown bên trái tự động hiện môn mới.
-   (Danh sách "câu sai" được lưu riêng cho từng môn, không lẫn nhau.)
-
 ## ▶️ Chạy local
 
-```
+```bash
 pip install -r requirements.txt
 streamlit run web_on_tap.py
 ```
 
-## ☁️ Deploy lên Streamlit Cloud
+## ☁️ Deploy Streamlit Cloud
 
 1. Push repo lên GitHub.
 2. Vào https://share.streamlit.io → Create app → chọn repo + nhánh `main`.
 3. **Main file path**: `web_on_tap.py` → Deploy.
-
