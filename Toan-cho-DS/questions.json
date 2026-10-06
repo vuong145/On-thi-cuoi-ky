@@ -1,0 +1,44 @@
+[
+  {
+    "id": "tds-001",
+    "chuong": "Không gian vector",
+    "cau_hoi": "Trình bày khái niệm không gian vector và nêu ví dụ liên quan đến dữ liệu nhiều chiều.",
+    "diem": 3,
+    "dap_an_goi_y": "Không gian vector là tập hợp các phần tử gọi là vector cùng với hai phép toán cộng và nhân vô hướng thỏa mãn các tiên đề. Ví dụ: tập các vector đặc trưng trong mô hình học máy.",
+    "cac_y_chinh": [
+      "Nêu được định nghĩa không gian vector",
+      "Nêu các tiên đề chính",
+      "Liên hệ ví dụ dữ liệu nhiều chiều"
+    ],
+    "tu_khoa": ["vector", "nhân vô hướng", "tiên đề", "feature vector"],
+    "tai_lieu_tham_khao": "Linear Algebra and Its Applications"
+  },
+  {
+    "id": "tds-002",
+    "chuong": "Ma trận",
+    "cau_hoi": "Giải thích ý nghĩa của hạng ma trận trong bài toán dữ liệu và vì sao ma trận suy biến gây vấn đề.",
+    "diem": 3,
+    "dap_an_goi_y": "Hạng ma trận biểu thị số chiều thông tin độc lập. Ma trận suy biến có định thức bằng 0 nên không khả nghịch, gây khó khăn cho ước lượng tham số và nghịch đảo ma trận trong thuật toán.",
+    "cac_y_chinh": [
+      "Định nghĩa hạng ma trận",
+      "Liên hệ hạng với thông tin độc lập",
+      "Nêu hệ quả của ma trận suy biến"
+    ],
+    "tu_khoa": ["hạng ma trận", "suy biến", "khả nghịch", "đa cộng tuyến"],
+    "tai_lieu_tham_khao": "Introduction to Linear Algebra"
+  },
+  {
+    "id": "tds-003",
+    "chuong": "Giá trị riêng",
+    "cau_hoi": "Trình bày vai trò của giá trị riêng và vector riêng trong PCA.",
+    "diem": 4,
+    "dap_an_goi_y": "Trong PCA, vector riêng của ma trận hiệp phương sai xác định các trục chính, còn giá trị riêng đo lượng phương sai theo từng trục. Chọn các trục có giá trị riêng lớn để giảm chiều dữ liệu.",
+    "cac_y_chinh": [
+      "Nêu liên hệ giữa ma trận hiệp phương sai và PCA",
+      "Giải thích ý nghĩa của vector riêng",
+      "Giải thích ý nghĩa của giá trị riêng"
+    ],
+    "tu_khoa": ["eigenvalue", "eigenvector", "PCA", "giảm chiều"],
+    "tai_lieu_tham_khao": "Pattern Recognition and Machine Learning"
+  }
+]

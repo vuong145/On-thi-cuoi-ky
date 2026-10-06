@@ -1,0 +1,44 @@
+[
+  {
+    "id": "xstk-001",
+    "chuong": "Xác suất cơ bản",
+    "cau_hoi": "Phát biểu định lý Bayes và nêu một ứng dụng trong phân loại dữ liệu.",
+    "diem": 3,
+    "dap_an_goi_y": "Định lý Bayes: P(A|B)=P(B|A)P(A)/P(B). Ứng dụng: bộ phân loại Naive Bayes cập nhật xác suất hậu nghiệm để dự đoán lớp.",
+    "cac_y_chinh": [
+      "Phát biểu đúng công thức Bayes",
+      "Giải thích ý nghĩa xác suất tiên nghiệm và hậu nghiệm",
+      "Nêu ứng dụng thực tế"
+    ],
+    "tu_khoa": ["Bayes", "tiên nghiệm", "hậu nghiệm", "Naive Bayes"],
+    "tai_lieu_tham_khao": "Introduction to Probability"
+  },
+  {
+    "id": "xstk-002",
+    "chuong": "Ước lượng",
+    "cau_hoi": "Trình bày sự khác nhau giữa ước lượng điểm và ước lượng khoảng.",
+    "diem": 3,
+    "dap_an_goi_y": "Ước lượng điểm cho một giá trị duy nhất của tham số, còn ước lượng khoảng cho một khoảng giá trị kèm mức tin cậy phản ánh độ không chắc chắn.",
+    "cac_y_chinh": [
+      "Định nghĩa ước lượng điểm",
+      "Định nghĩa ước lượng khoảng",
+      "Nêu vai trò của mức tin cậy"
+    ],
+    "tu_khoa": ["ước lượng điểm", "ước lượng khoảng", "mức tin cậy"],
+    "tai_lieu_tham_khao": "Probability and Statistics for Engineers and Scientists"
+  },
+  {
+    "id": "xstk-003",
+    "chuong": "Kiểm định giả thuyết",
+    "cau_hoi": "Giải thích sai lầm loại I và loại II trong kiểm định giả thuyết.",
+    "diem": 4,
+    "dap_an_goi_y": "Sai lầm loại I là bác bỏ H0 khi H0 đúng (xác suất α). Sai lầm loại II là không bác bỏ H0 khi H0 sai (xác suất β). Hai loại sai lầm cần cân bằng khi thiết kế kiểm định.",
+    "cac_y_chinh": [
+      "Nêu đúng định nghĩa sai lầm loại I",
+      "Nêu đúng định nghĩa sai lầm loại II",
+      "Nêu mối liên hệ α, β và lực kiểm định"
+    ],
+    "tu_khoa": ["loại I", "loại II", "alpha", "beta", "power"],
+    "tai_lieu_tham_khao": "All of Statistics"
+  }
+]

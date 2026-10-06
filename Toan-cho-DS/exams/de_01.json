@@ -1,0 +1,12 @@
+{
+  "id": "tds-de-01",
+  "ten_de": "Đề mẫu Toán cho DS 01",
+  "thoi_gian_phut": 90,
+  "tong_diem": 10,
+  "mo_ta": "Đề tự luận đại số tuyến tính cho khoa học dữ liệu.",
+  "cau_hoi": [
+    {"question_id": "tds-001", "diem": 3, "thu_tu": 1},
+    {"question_id": "tds-002", "diem": 3, "thu_tu": 2},
+    {"question_id": "tds-003", "diem": 4, "thu_tu": 3}
+  ]
+}

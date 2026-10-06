@@ -1,0 +1,12 @@
+{
+  "id": "lkd-de-01",
+  "ten_de": "Đề mẫu Luật kinh doanh 01",
+  "thoi_gian_phut": 90,
+  "tong_diem": 10,
+  "mo_ta": "Đề tự luận cơ bản bao quát các chủ đề nền tảng.",
+  "cau_hoi": [
+    {"question_id": "lkd-001", "diem": 3, "thu_tu": 1},
+    {"question_id": "lkd-002", "diem": 3, "thu_tu": 2},
+    {"question_id": "lkd-003", "diem": 4, "thu_tu": 3}
+  ]
+}
