@@ -1,1 +1,1217 @@
+[
+  {
+    "chu_de": "Chương 1",
+    "cau_hoi": "Thuật ngữ 'Kinh tế chính trị' (Political Economy) xuất hiện lần đầu tiên vào năm 1615 trong tác phẩm của tác giả nào?",
+    "phuong_an": {
+      "A": "Antoine de Montchrestien",
+      "B": "Adam Smith",
+      "C": "François Quesnay",
+      "D": "David Ricardo"
+    },
+    "dap_an_dung": "A",
+    "giai_thich": "Thuật ngữ 'Kinh tế chính trị' xuất hiện lần đầu tiên vào năm 1615 trong tác phẩm 'Chuyên luận về kinh tế chính trị' của nhà kinh tế học người Pháp A. Montchrestien."
+  },
+  {
+    "chu_de": "Chương 1",
+    "cau_hoi": "Hệ thống lý luận kinh tế chính trị nào coi trọng vai trò của thương nghiệp, đặc biệt là ngoại thương?",
+    "phuong_an": {
+      "A": "Chủ nghĩa trọng nông",
+      "B": "Chủ nghĩa trọng thương",
+      "C": "Kinh tế chính trị cổ điển Anh",
+      "D": "Kinh tế chính trị tiểu tư sản"
+    },
+    "dap_an_dung": "B",
+    "giai_thich": "Chủ nghĩa trọng thương (thế kỷ XV - XVII) coi trọng vai trò của hoạt động thương mại và lưu thông, đặc biệt là ngoại thương."
+  },
+  {
+    "chu_de": "Chương 1",
+    "cau_hoi": "Trường phái kinh tế nào nhấn mạnh vai trò của sản xuất nông nghiệp, coi sở hữu tư nhân và tự do kinh tế là nền tảng?",
+    "phuong_an": {
+      "A": "Chủ nghĩa trọng thương",
+      "B": "Chủ nghĩa trọng nông",
+      "C": "Kinh tế chính trị cổ điển Anh",
+      "D": "Chủ nghĩa xã hội không tưởng"
+    },
+    "dap_an_dung": "B",
+    "giai_thich": "Chủ nghĩa trọng nông nhấn mạnh vai trò của sản xuất nông nghiệp và xem nông nghiệp là ngành duy nhất tạo ra của cải thặng dư."
+  },
+  {
+    "chu_de": "Chương 1",
+    "cau_hoi": "C. Mác đã kế thừa trực tiếp những giá trị khoa học của dòng lý thuyết kinh tế nào để xây dựng lý luận Kinh tế chính trị Mác?",
+    "phuong_an": {
+      "A": "Chủ nghĩa trọng thương",
+      "B": "Chủ nghĩa trọng nông",
+      "C": "Kinh tế chính trị cổ điển Anh",
+      "D": "Kinh tế chính trị tầm thường"
+    },
+    "dap_an_dung": "C",
+    "giai_thich": "C. Mác đã kế thừa trực tiếp các giá trị khoa học của Kinh tế chính trị cổ điển Anh (đặc biệt là A. Smith và D. Ricardo) để phát triển lý luận giá trị lao động."
+  },
+  {
+    "chu_de": "Chương 1",
+    "cau_hoi": "Học thuyết nào của C. Mác được coi là 'hòn đá tảng' trong hệ thống lý luận Kinh tế chính trị Mác - Lênin?",
+    "phuong_an": {
+      "A": "Học thuyết giá trị",
+      "B": "Học thuyết giá trị thặng dư",
+      "C": "Học thuyết tích lũy tư bản",
+      "D": "Học thuyết lợi nhuận bình quân"
+    },
+    "dap_an_dung": "B",
+    "giai_thich": "Học thuyết giá trị thặng dư là hòn đá tảng trong toàn bộ hệ thống kinh tế chính trị Mác - Lênin, vạch rõ bản chất bóc lột của chủ nghĩa tư bản."
+  },
+  {
+    "chu_de": "Chương 1",
+    "cau_hoi": "Đóng góp nổi bật của V.I. Lênin đối với Kinh tế chính trị Mác là gì?",
+    "phuong_an": {
+      "A": "Sáng lập ra lý luận giá trị lao động",
+      "B": "Chỉ ra các đặc điểm kinh tế của chủ nghĩa tư bản độc quyền giai đoạn cuối thế kỷ XIX - đầu thế kỷ XX",
+      "C": "Xây dựng công thức chung của tư bản",
+      "D": "Phát minh ra tính hai mặt của lao động sản xuất hàng hóa"
+    },
+    "dap_an_dung": "B",
+    "giai_thich": "V.I. Lênin có đóng góp nổi bật khi phân tích và chỉ ra 5 đặc điểm kinh tế của chủ nghĩa tư bản độc quyền và độc quyền nhà nước."
+  },
+  {
+    "chu_de": "Chương 1",
+    "cau_hoi": "Đối tượng nghiên cứu của Kinh tế chính trị Mác - Lênin là gì?",
+    "phuong_an": {
+      "A": "Sự sản xuất của cải vật chất thuần túy",
+      "B": "Các quan hệ xã hội của sản xuất và trao đổi trong mối quan hệ tác động qua lại với LLSX và KTTT",
+      "C": "Kỹ thuật và công nghệ sản xuất hàng hóa",
+      "D": "Hành vi tiêu dùng cá nhân trong nền kinh tế"
+    },
+    "dap_an_dung": "B",
+    "giai_thich": "Đối tượng nghiên cứu của Kinh tế chính trị Mác - Lênin là hệ thống các quan hệ xã hội giữa người với người trong sản xuất và trao đổi."
+  },
+  {
+    "chu_de": "Chương 1",
+    "cau_hoi": "Mục đích nghiên cứu cao nhất của Kinh tế chính trị Mác - Lênin là gì?",
+    "phuong_an": {
+      "A": "Giúp doanh nghiệp tối đa hóa lợi nhuận",
+      "B": "Phát hiện ra các quy luật kinh tế chi phối sự vận động của các quan hệ sản xuất và trao đổi",
+      "C": "Dự báo giá cả thị trường hàng ngày",
+      "D": "Xây dựng mô hình quản trị xí nghiệp"
+    },
+    "dap_an_dung": "B",
+    "giai_thich": "Mục đích nghiên cứu của Kinh tế chính trị Mác - Lênin là nhằm phát hiện các quy luật kinh tế khách quan chi phối quá trình sản xuất và phân phối."
+  },
+  {
+    "chu_de": "Chương 1",
+    "cau_hoi": "Điểm khác biệt cốt lõi giữa 'Quy luật kinh tế' và 'Chính sách kinh tế' là gì?",
+    "phuong_an": {
+      "A": "Quy luật kinh tế mang tính chủ quan, chính sách kinh tế mang tính khách quan",
+      "B": "Quy luật kinh tế tồn tại khách quan, chính sách kinh tế là sản phẩm chủ quan của con người",
+      "C": "Cả hai đều mang tính khách quan tuyệt đối",
+      "D": "Quy luật kinh tế có thể bị loại bỏ bởi chính sách kinh tế"
+    },
+    "dap_an_dung": "B",
+    "giai_thich": "Quy luật kinh tế tồn tại khách quan, không phụ thuộc vào ý muốn con người. Còn chính sách kinh tế là sản phẩm chủ quan được ban hành dựa trên việc vận dụng quy luật."
+  },
+  {
+    "chu_de": "Chương 1",
+    "cau_hoi": "Phương pháp nghiên cứu đặc thù và quan trọng nhất của Kinh tế chính trị Mác - Lênin là phương pháp nào?",
+    "phuong_an": {
+      "A": "Phương pháp quan sát thực nghiệm",
+      "B": "Phương pháp trừu tượng hóa khoa học",
+      "C": "Phương pháp mô hình hóa toán học",
+      "D": "Phương pháp điều tra xã hội học"
+    },
+    "dap_an_dung": "B",
+    "giai_thich": "Phương pháp trừu tượng hóa khoa học là phương pháp nghiên cứu quan trọng chủ yếu của kinh tế chính trị, giúp gạt bỏ yếu tố ngẫu nhiên để nắm bản chất."
+  },
+  {
+    "chu_de": "Chương 1",
+    "cau_hoi": "Yêu cầu chính của phương pháp 'Trừu tượng hóa khoa học' là gì?",
+    "phuong_an": {
+      "A": "Tạo ra các giả định hoàn toàn thoát thoát thực tế",
+      "B": "Gạt bỏ những yếu tố ngẫu nhiên, tạm thời để tách ra những yếu tố bền vững, điển hình của đối tượng",
+      "C": "Tính toán số liệu thống kê quy mô lớn",
+      "D": "Kết hợp phân tích lịch sử các cuộc cách mạng"
+    },
+    "dap_an_dung": "B",
+    "giai_thich": "Trừu tượng hóa khoa học là việc gạt bỏ những yếu tố ngẫu nhiên, bề ngoài để rút ra những phạm trù kinh tế mang tính bản chất."
+  },
+  {
+    "chu_de": "Chương 1",
+    "cau_hoi": "Chức năng nào của Kinh tế chính trị Mác - Lênin đóng vai trò là cơ sở lý luận nền tảng cho việc tiếp cận các môn kinh tế chuyên ngành?",
+    "phuong_an": {
+      "A": "Chức năng nhận thức",
+      "B": "Chức năng thực tiễn",
+      "C": "Chức năng phương pháp luận",
+      "D": "Chức năng tư tưởng"
+    },
+    "dap_an_dung": "C",
+    "giai_thich": "Chức năng phương pháp luận cung cấp nền tảng lý luận khoa học cho sinh viên và các nhà nghiên cứu tiếp cận các môn kinh tế ngành."
+  },
+  {
+    "chu_de": "Chương 1",
+    "cau_hoi": "Chức năng nhận thức của Kinh tế chính trị Mác - Lênin giúp người học điều gì?",
+    "phuong_an": {
+      "A": "Cung cấp tri thức bản chất về các bản chất hiện tượng và quy luật kinh tế",
+      "B": "Thay thế các bộ luật kinh tế của nhà nước",
+      "C": "Trực tiếp điều hành các hoạt động kinh doanh tư nhân",
+      "D": "Bỏ qua các nguyên lý kinh tế thị trường"
+    },
+    "dap_an_dung": "A",
+    "giai_thich": "Chức năng nhận thức giúp cung cấp tri thức lý luận khoa học về bản chất các quá trình và quy luật kinh tế vận động trong xã hội."
+  },
+  {
+    "chu_de": "Chương 1",
+    "cau_hoi": "Tác phẩm kinh tế nào của C. Mác thể hiện tập trung và cô đọng nhất hệ thống lý luận Kinh tế chính trị Mác?",
+    "phuong_an": {
+      "A": "Tuyên ngôn của Đảng Cộng sản",
+      "B": "Bộ Tư bản",
+      "C": "Hệ tư tưởng Đức",
+      "D": "Sự khốn cùng của triết học"
+    },
+    "dap_an_dung": "B",
+    "giai_thich": "Bộ 'Tư bản' (Das Kapital) là tác phẩm kinh điển vĩ đại nhất của C. Mác trình bày toàn bộ hệ thống kinh tế chính trị."
+  },
+  {
+    "chu_de": "Chương 1",
+    "cau_hoi": "Phương thức sản xuất là sự thống nhất biện chứng giữa hai yếu tố nào?",
+    "phuong_an": {
+      "A": "Cơ sở hạ tầng và Kiến trúc thượng tầng",
+      "B": "Lực lượng sản xuất và Quan hệ sản xuất",
+      "C": "Tồn tại xã hội và Ý thức xã hội",
+      "D": "Sản xuất và Tiêu dùng"
+    },
+    "dap_an_dung": "B",
+    "giai_thich": "Phương thức sản xuất là sự thống nhất hữu cơ giữa Lực lượng sản xuất (mặt kỹ thuật/người-tự nhiên) và Quan hệ sản xuất (mặt kinh tế-xã hội)."
+  },
+  {
+    "chu_de": "Chương 2",
+    "cau_hoi": "Sản xuất hàng hóa là kiểu tổ chức kinh tế mà ở đó sản phẩm được làm ra nhằm mục đích gì?",
+    "phuong_an": {
+      "A": "Trực tiếp phục vụ nhu cầu tiêu dùng của người sản xuất",
+      "B": "Để trao đổi, mua bán trên thị trường",
+      "C": "Để dự trữ cho các đợt thiên tai",
+      "D": "Để biếu tặng cho xã hội"
+    },
+    "dap_an_dung": "B",
+    "giai_thich": "Khái niệm sản xuất hàng hóa: Là kiểu tổ chức kinh tế mà sản phẩm được sản xuất ra không phải để tiêu dùng cho chính người tạo ra nó mà để trao đổi, mua bán."
+  },
+  {
+    "chu_de": "Chương 2",
+    "cau_hoi": "Hai điều kiện quyết định sự ra đời và tồn tại của sản xuất hàng hóa là gì?",
+    "phuong_an": {
+      "A": "Phân công lao động xã hội và Sự tách biệt về mặt kinh tế của các chủ thể sản xuất",
+      "B": "Sự xuất hiện của tiền tệ và thị trường",
+      "C": "Có máy móc hiện đại và nguồn vốn lớn",
+      "D": "Sự xuất hiện của nhà nước và pháp luật"
+    },
+    "dap_an_dung": "A",
+    "giai_thich": "Sản xuất hàng hóa chỉ ra đời khi có đủ 2 điều kiện: Phân công lao động xã hội (mỗi người làm 1 nghề) và Sự tách biệt về mặt kinh tế giữa những người sản xuất dựa trên sở hữu."
+  },
+  {
+    "chu_de": "Chương 2",
+    "cau_hoi": "Hai thuộc tính cơ bản của hàng hóa là gì?",
+    "phuong_an": {
+      "A": "Giá trị sử dụng và Giá trị trao đổi",
+      "B": "Giá trị sử dụng và Giá trị",
+      "C": "Giá cả và Giá trị",
+      "D": "Lao động cụ thể và Lao động trừu tượng"
+    },
+    "dap_an_dung": "B",
+    "giai_thich": "Bất kỳ hàng hóa nào cũng có 2 thuộc tính cấu thành: Giá trị sử dụng (công dụng) và Giá trị (hao phí lao động xã hội kết tinh)."
+  },
+  {
+    "chu_de": "Chương 2",
+    "cau_hoi": "Giá trị sử dụng của hàng hóa được hiểu là gì?",
+    "phuong_an": {
+      "A": "Lao động xã hội của người sản xuất kết tinh trong hàng hóa",
+      "B": "Công dụng của vật phẩm có thể thỏa mãn nhu cầu nào đó của con người",
+      "C": "Số tiền bán được của sản phẩm",
+      "D": "Chi phí mua nguyên vật liệu"
+    },
+    "dap_an_dung": "B",
+    "giai_thich": "Giá trị sử dụng là thuộc tính tự nhiên của hàng hóa, phản ánh công dụng của vật phẩm nhằm thỏa mãn nhu cầu vật chất hoặc tinh thần."
+  },
+  {
+    "chu_de": "Chương 2",
+    "cau_hoi": "Giá trị của hàng hóa là gì?",
+    "phuong_an": {
+      "A": "Công dụng thỏa mãn nhu cầu người tiêu dùng",
+      "B": "Lao động xã hội của người sản xuất kết tinh trong hàng hóa",
+      "C": "Mức giá niêm yết trên thị trường",
+      "D": "Sự đánh giá cảm tính của người mua"
+    },
+    "dap_an_dung": "B",
+    "giai_thich": "Bản chất giá trị hàng hóa là lao động trừu tượng (hao phí sức lao động xã hội) của người sản xuất kết tinh trong hàng hóa đó."
+  },
+  {
+    "chu_de": "Chương 2",
+    "cau_hoi": "Tính hai mặt của lao động sản xuất hàng hóa do C. Mác phát hiện bao gồm những gì?",
+    "phuong_an": {
+      "A": "Lao động quá khứ và Lao động sống",
+      "B": "Lao động cụ thể và Lao động trừu tượng",
+      "C": "Lao động giản đơn và Lao động phức tạp",
+      "D": "Lao động tư nhân và Lao động xã hội"
+    },
+    "dap_an_dung": "B",
+    "giai_thich": "C. Mác là người đầu tiên phát hiện ra tính hai mặt của lao động sản xuất hàng hóa: Lao động cụ thể tạo ra giá trị sử dụng và Lao động trừu tượng tạo nên giá trị."
+  },
+  {
+    "chu_de": "Chương 2",
+    "cau_hoi": "Lao động cụ thể có vai trò gì trong cấu thành giá trị sản phẩm mới?",
+    "phuong_an": {
+      "A": "Tạo ra giá trị mới (v + m)",
+      "B": "Bảo toàn và chuyển giá trị cũ của tư liệu sản xuất (c) vào sản phẩm mới",
+      "C": "Trực tiếp sinh ra giá trị thặng dư",
+      "D": "Làm tăng lượng giá trị của một sản phẩm"
+    },
+    "dap_an_dung": "B",
+    "giai_thich": "Lao động cụ thể tạo ra giá trị sử dụng và đồng thời có vai trò bảo toàn, chuyển dịch giá trị của tư liệu sản xuất cũ (c) vào hàng hóa mới."
+  },
+  {
+    "chu_de": "Chương 2",
+    "cau_hoi": "Lao động trừu tượng có vai trò gì trong quá trình sản xuất hàng hóa?",
+    "phuong_an": {
+      "A": "Tạo ra công dụng của hàng hóa",
+      "B": "Chuyển giá trị máy móc vào sản phẩm",
+      "C": "Tạo ra giá trị mới (v + m) của hàng hóa",
+      "D": "Định hình kiểu dáng sản phẩm"
+    },
+    "dap_an_dung": "C",
+    "giai_thich": "Lao động trừu tượng (hao phí thần kinh, cơ bắp) chính là thực thể tạo nên giá trị mới (v + m) kết tinh trong sản phẩm."
+  },
+  {
+    "chu_de": "Chương 2",
+    "cau_hoi": "Lượng giá trị của một đơn vị hàng hóa được đo lường bằng thước đo nào?",
+    "phuong_an": {
+      "A": "Thời gian lao động cá biệt của từng người sản xuất",
+      "B": "Thời gian lao động xã hội cần thiết",
+      "C": "Thời gian máy móc vận hành",
+      "D": "Thời gian lưu thông trên thị trường"
+    },
+    "dap_an_dung": "B",
+    "giai_thich": "Lượng giá trị hàng hóa không đo bằng thời gian cá biệt mà được đo bằng Thời gian lao động xã hội cần thiết."
+  },
+  {
+    "chu_de": "Chương 2",
+    "cau_hoi": "Khi Năng suất lao động tăng lên thì Lượng giá trị của 1 đơn vị hàng hóa và Tổng giá trị hàng hóa thay đổi như thế nào?",
+    "phuong_an": {
+      "A": "Giá trị 1 sản phẩm giảm, tổng giá trị tăng",
+      "B": "Giá trị 1 sản phẩm giảm, tổng giá trị không đổi",
+      "C": "Giá trị 1 sản phẩm tăng, tổng giá trị giảm",
+      "D": "Giá trị 1 sản phẩm không đổi, tổng giá trị tăng"
+    },
+    "dap_an_dung": "B",
+    "giai_thich": "Năng suất lao động tỉ lệ nghịch với giá trị 1 đơn vị sản phẩm. Khi NSLĐ tăng, giá trị 1 sản phẩm giảm xuống nhưng tổng giá trị tạo ra trong 1 đơn vị thời gian không đổi."
+  },
+  {
+    "chu_de": "Chương 2",
+    "cau_hoi": "Khi Cường độ lao động tăng lên thì Tổng sản lượng và Lượng giá trị của 1 đơn vị hàng hóa thay đổi như thế nào?",
+    "phuong_an": {
+      "A": "Tổng sản lượng tăng, giá trị 1 sản phẩm giảm",
+      "B": "Tổng sản lượng tăng, tổng giá trị tăng, giá trị 1 sản phẩm không đổi",
+      "C": "Tổng sản lượng tăng, tổng giá trị không đổi",
+      "D": "Giá trị 1 sản phẩm tăng gấp đôi"
+    },
+    "dap_an_dung": "B",
+    "giai_thich": "Tăng cường độ lao động làm hao phí sức lao động trong 1 đơn vị thời gian tăng lên, do đó tổng sản lượng tăng, tổng giá trị tăng, nhưng giá trị 1 sản phẩm không đổi."
+  },
+  {
+    "chu_de": "Chương 2",
+    "cau_hoi": "Quy luật giá trị có yêu cầu cốt lõi gì trong sản xuất và trao đổi hàng hóa?",
+    "phuong_an": {
+      "A": "Sản xuất và trao đổi phải dựa trên hao phí lao động xã hội cần thiết; trao đổi theo nguyên tắc ngang giá",
+      "B": "Giá cả hàng hóa phải luôn luôn bằng giá trị cá biệt",
+      "C": "Nhà nước ấn định giá cả cho toàn bộ hàng hóa",
+      "D": "Giá trị trao đổi do người mua quyết định"
+    },
+    "dap_an_dung": "A",
+    "giai_thich": "Quy luật giá trị yêu cầu việc sản xuất và lưu thông hàng hóa phải dựa trên cơ sở hao phí lao động xã hội cần thiết và lưu thông phải tuân theo nguyên tắc ngang giá."
+  },
+  {
+    "chu_de": "Chương 2",
+    "cau_hoi": "Tiền tệ có mấy chức năng căn bản theo lý luận của C. Mác?",
+    "phuong_an": {
+      "A": "3 chức năng",
+      "B": "4 chức năng",
+      "C": "5 chức năng",
+      "D": "6 chức năng"
+    },
+    "dap_an_dung": "C",
+    "giai_thich": "Tiền tệ thực hiện 5 chức năng: Thước đo giá trị, Phương tiện lưu thông, Phương tiện cất trữ, Phương tiện thanh toán, và Tiền tệ thế giới."
+  },
+  {
+    "chu_de": "Chương 2",
+    "cau_hoi": "Thói quen tích trữ tiền vàng của người dân phản ánh chức năng nào của tiền tệ?",
+    "phuong_an": {
+      "A": "Phương tiện lưu thông",
+      "B": "Phương tiện cất trữ",
+      "C": "Phương tiện thanh toán",
+      "D": "Thước đo giá trị"
+    },
+    "dap_an_dung": "B",
+    "giai_thich": "Khi tiền rút khỏi lưu thông và đi vào cất trữ dưới dạng vàng/tiền có giá trị thực, tiền đang thực hiện chức năng phương tiện cất trữ."
+  },
+  {
+    "chu_de": "Chương 2",
+    "cau_hoi": "Lao động phức tạp so với lao động giản đơn trong cùng một đơn vị thời gian tạo ra lượng giá trị như thế nào?",
+    "phuong_an": {
+      "A": "Tạo ra lượng giá trị bằng nhau",
+      "B": "Tạo ra lượng giá trị nhỏ hơn",
+      "C": "Tạo ra lượng giá trị lớn hơn (bằng lao động giản đơn nhân lên)",
+      "D": "Không tạo ra giá trị"
+    },
+    "dap_an_dung": "C",
+    "giai_thich": "Lao động phức tạp là lao động đòi hỏi đào tạo. Trong cùng thời gian, lao động phức tạp tạo ra lượng giá trị lớn hơn nhiều so với lao động giản đơn."
+  },
+  {
+    "chu_de": "Chương 2",
+    "cau_hoi": "[Bài tập Dạng 1 - Lần 1] Trong 8 giờ công nhân sản xuất được 16 sản phẩm có tổng giá trị là 80 USD. Nếu Năng suất lao động tăng lên 2 lần thì Tổng sản lượng, Tổng giá trị hàng hóa và Giá trị 1 sản phẩm thay đổi thế nào?",
+    "phuong_an": {
+      "A": "Sản lượng = 32 sp; Tổng giá trị = 80 USD; Giá trị 1 sp = 2,5 USD",
+      "B": "Sản lượng = 32 sp; Tổng giá trị = 160 USD; Giá trị 1 sp = 5 USD",
+      "C": "Sản lượng = 16 sp; Tổng giá trị = 80 USD; Giá trị 1 sp = 2,5 USD",
+      "D": "Sản lượng = 32 sp; Tổng giá trị = 40 USD; Giá trị 1 sp = 1,25 USD"
+    },
+    "dap_an_dung": "A",
+    "giai_thich": "NSLĐ tăng 2 lần => Sản lượng tăng 2 lần (16x2 = 32 sp). Tổng giá trị không đổi = 80 USD. Giá trị 1 sp giảm 2 lần = 80/32 = 2,5 USD (hoặc 5/2 = 2,5 USD)."
+  },
+  {
+    "chu_de": "Chương 2",
+    "cau_hoi": "[Bài tập Dạng 1 - Lần 2] Trong 8 giờ công nhân sản xuất được 20 sản phẩm có tổng giá trị là 100 USD. Nếu Năng suất lao động tăng lên 2 lần thì Tổng sản lượng, Tổng giá trị và Giá trị 1 sản phẩm là bao nhiêu?",
+    "phuong_an": {
+      "A": "Sản lượng = 40 sp; Tổng giá trị = 100 USD; Giá trị 1 sp = 2,5 USD",
+      "B": "Sản lượng = 40 sp; Tổng giá trị = 200 USD; Giá trị 1 sp = 5 USD",
+      "C": "Sản lượng = 20 sp; Tổng giá trị = 100 USD; Giá trị 1 sp = 2,5 USD",
+      "D": "Sản lượng = 40 sp; Tổng giá trị = 50 USD; Giá trị 1 sp = 1,25 USD"
+    },
+    "dap_an_dung": "A",
+    "giai_thich": "NSLĐ tăng 2 lần => Sản lượng = 20 x 2 = 40 sp. Tổng giá trị giữ nguyên = 100 USD. Giá trị 1 sp = 100/40 = 2,5 USD."
+  },
+  {
+    "chu_de": "Chương 2",
+    "cau_hoi": "[Bài tập Dạng 1 - Lần 3] Trong 8 giờ công nhân sản xuất được 16 sản phẩm có tổng giá trị là 80 USD. Nếu Cường độ lao động tăng lên 1,5 lần thì Tổng sản lượng, Tổng giá trị hàng hóa và Giá trị 1 sản phẩm thay đổi thế nào?",
+    "phuong_an": {
+      "A": "Sản lượng = 24 sp; Tổng giá trị = 120 USD; Giá trị 1 sp = 5 USD",
+      "B": "Sản lượng = 24 sp; Tổng giá trị = 80 USD; Giá trị 1 sp = 3,33 USD",
+      "C": "Sản lượng = 16 sp; Tổng giá trị = 120 USD; Giá trị 1 sp = 5 USD",
+      "D": "Sản lượng = 24 sp; Tổng giá trị = 160 USD; Giá trị 1 sp = 6,66 USD"
+    },
+    "dap_an_dung": "A",
+    "giai_thich": "CĐLĐ tăng 1,5 lần => Sản lượng tăng 1,5 lần (16x1,5 = 24 sp). Tổng giá trị tăng 1,5 lần (80x1,5 = 120 USD). Giá trị 1 sp không đổi = 120/24 = 5 USD."
+  },
+  {
+    "chu_de": "Chương 2",
+    "cau_hoi": "[Bài tập Dạng 2 - Lần 1] Một ngày làm việc 8h sản xuất được 30 sản phẩm với tổng giá trị là 180 USD. Hỏi Giá trị 1 sản phẩm và Tổng giá trị sản phẩm thay đổi thế nào nếu Năng suất lao động và Cường độ lao động CÙNG TĂNG 1,5 lần?",
+    "phuong_an": {
+      "A": "Giá trị 1 sp = 4 USD và Tổng giá trị = 270 USD",
+      "B": "Giá trị 1 sp = 6 USD và Tổng giá trị = 180 USD",
+      "C": "Giá trị 1 sp = 3 USD và Tổng giá trị = 270 USD",
+      "D": "Giá trị 1 sp = 4 USD và Tổng giá trị = 180 USD"
+    },
+    "dap_an_dung": "A",
+    "giai_thich": "Ban đầu 1 sp = 180/30 = 6 USD. NSLĐ tăng 1,5 lần => Giá trị 1 sp giảm 1,5 lần: 6 / 1,5 = 4 USD. CĐLĐ tăng 1,5 lần => Tổng giá trị tăng 1,5 lần: 180 x 1,5 = 270 USD."
+  },
+  {
+    "chu_de": "Chương 2",
+    "cau_hoi": "[Bài tập Dạng 2 - Lần 2] Một ngày làm việc 8h sản xuất được 40 sản phẩm với tổng giá trị là 240 USD. Giá trị 1 sản phẩm và Tổng giá trị sản phẩm là bao nhiêu nếu Năng suất lao động và Cường độ lao động CÙNG TĂNG 1,5 lần?",
+    "phuong_an": {
+      "A": "Giá trị 1 sp = 4 USD và Tổng giá trị = 360 USD",
+      "B": "Giá trị 1 sp = 6 USD và Tổng giá trị = 240 USD",
+      "C": "Giá trị 1 sp = 3 USD và Tổng giá trị = 360 USD",
+      "D": "Giá trị 1 sp = 4 USD và Tổng giá trị = 240 USD"
+    },
+    "dap_an_dung": "A",
+    "giai_thich": "Ban đầu 1 sp = 240/40 = 6 USD. NSLĐ tăng 1,5 lần => 1 sp = 6 / 1,5 = 4 USD. CĐLĐ tăng 1,5 lần => Tổng giá trị = 240 x 1,5 = 360 USD."
+  },
+  {
+    "chu_de": "Chương 2",
+    "cau_hoi": "[Bài tập Dạng 2 - Lần 3] Một xí nghiệp sản xuất được 50 sản phẩm trong ngày với tổng giá trị là 500 USD. Nếu Năng suất lao động tăng 2 lần và Cường độ lao động tăng 1,5 lần thì Giá trị 1 sản phẩm và Tổng giá trị sản phẩm mới là bao nhiêu?",
+    "phuong_an": {
+      "A": "Giá trị 1 sp = 5 USD và Tổng giá trị = 750 USD",
+      "B": "Giá trị 1 sp = 10 USD và Tổng giá trị = 500 USD",
+      "C": "Giá trị 1 sp = 5 USD và Tổng giá trị = 500 USD",
+      "D": "Giá trị 1 sp = 2,5 USD và Tổng giá trị = 750 USD"
+    },
+    "dap_an_dung": "A",
+    "giai_thich": "Ban đầu 1 sp = 500/50 = 10 USD. NSLĐ tăng 2 lần => Giá trị 1 sp = 10/2 = 5 USD. CĐLĐ tăng 1,5 lần => Tổng giá trị = 500 x 1,5 = 750 USD."
+  },
+  {
+    "chu_de": "Chương 2",
+    "cau_hoi": "[Bài tập Dạng 3 - Lần 1] Để tái sản xuất sức lao động, công nhân cần các chi phí: Lương thực 8 đvtt/ngày; Đồ dùng gia đình 600 đvtt/năm; Quần áo cá nhân 200 đvtt/năm; Nhà ở 122 đvtt/tháng; Giải trí 25 đvtt/tháng. Biết 1 năm = 365 ngày, 1 tháng = 30 ngày. Tính giá trị sức lao động 1 ngày?",
+    "phuong_an": {
+      "A": "15,09 đvtt/ngày",
+      "B": "17,02 đvtt/ngày",
+      "C": "13,02 đvtt/ngày",
+      "D": "14,78 đvtt/ngày"
+    },
+    "dap_an_dung": "A",
+    "giai_thich": "Giá trị 1 ngày = 8 + (600+200)/365 + (122+25)/30 = 8 + 2,19 + 4,90 = 15,09 đvtt/ngày."
+  },
+  {
+    "chu_de": "Chương 2",
+    "cau_hoi": "[Bài tập Dạng 3 - Lần 2] Để tái sản xuất sức lao động, người lao động cần: Ăn uống 8 đvtt/ngày; Đồ dùng gia đình & cá nhân 800 đvtt/năm; Nhà ở & Giải trí 147 đvtt/tháng. (Quy đổi: 365 ngày/năm, 30 ngày/tháng). Giá trị sức lao động trong 1 ngày xấp xỉ bằng bao nhiêu?",
+    "phuong_an": {
+      "A": "15,09 đvtt/ngày",
+      "B": "18,50 đvtt/ngày",
+      "C": "12,10 đvtt/ngày",
+      "D": "16,20 đvtt/ngày"
+    },
+    "dap_an_dung": "A",
+    "giai_thich": "Chi phí ngày = 8 + 800/365 + 147/30 = 8 + 2,19 + 4,90 = 15,09 đvtt/ngày."
+  },
+  {
+    "chu_de": "Chương 2",
+    "cau_hoi": "[Bài tập Dạng 3 - Lần 3] Theo tính toán nhu cầu sinh hoạt của người lao động trong năm: ăn uống 8 đvtt/ngày, đồ dùng gia đình 600 đvtt/năm, trang phục 200 đvtt/năm, nhà ở 122 đvtt/tháng, văn hóa giải trí 25 đvtt/tháng. Đáp án nào đúng nhất về giá trị sức lao động 1 ngày?",
+    "phuong_an": {
+      "A": "15,09 đvtt/ngày",
+      "B": "13,02 đvtt/ngày",
+      "C": "17,02 đvtt/ngày",
+      "D": "19,00 đvtt/ngày"
+    },
+    "dap_an_dung": "A",
+    "giai_thich": "Cộng chi phí 1 ngày = 8 + (800/365) + (147/30) = 15,09 đvtt."
+  },
+  {
+    "chu_de": "Chương 2",
+    "cau_hoi": "Mâu thuẫn cơ bản của nền sản xuất hàng hóa giản đơn là mâu thuẫn giữa hai yếu tố nào?",
+    "phuong_an": {
+      "A": "Lao động tư nhân và Lao động xã hội",
+      "B": "Giá trị sử dụng và Giá trị trao đổi",
+      "C": "Người mua và Người bán",
+      "D": "Chủ sở hữu và Người làm thuê"
+    },
+    "dap_an_dung": "A",
+    "giai_thich": "Mâu thuẫn giữa lao động tư nhân (của cá nhân người sản xuất) và lao động xã hội (nhu cầu xã hội) là mâu thuẫn cơ bản của sản xuất hàng hóa."
+  },
+  {
+    "chu_de": "Chương 2",
+    "cau_hoi": "Tác động nào dưới đây KHÔNG PHẢI là tác động của quy luật giá trị?",
+    "phuong_an": {
+      "A": "Điều tiết sản xuất và lưu thông hàng hóa",
+      "B": "Kích thích cải tiến kỹ thuật, tăng năng suất lao động",
+      "C": "Triệt tiêu hoàn toàn sự phân hóa giàu nghèo trong xã hội",
+      "D": "Phân hóa những người sản xuất hàng hóa thành giàu - nghèo"
+    },
+    "dap_an_dung": "C",
+    "giai_thich": "Quy luật giá trị phân hóa người sản xuất thành người giàu (hiệu quả cao) và người nghèo (hiệu quả thấp), chứ không triệt tiêu sự phân hóa."
+  },
+  {
+    "chu_de": "Chương 2",
+    "cau_hoi": "Trường hợp nào dưới đây làm cho Giá cả thị trường của hàng hóa cao hơn Giá trị của nó?",
+    "phuong_an": {
+      "A": "Cung bằng Cầu",
+      "B": "Cung lớn hơn Cầu",
+      "C": "Cung nhỏ hơn Cầu (Khan hiếm hàng hóa)",
+      "D": "Chi phí sản xuất tăng gấp đôi"
+    },
+    "dap_an_dung": "C",
+    "giai_thich": "Khi Cung < Cầu (hàng hóa khan hiếm), người mua cạnh tranh nhau mua làm cho giá cả thị trường tăng cao hơn giá trị."
+  },
+  {
+    "chu_de": "Chương 2",
+    "cau_hoi": "Chủ thể nào đóng vai trò là cầu nối trung gian kết nối giữa người sản xuất và người tiêu dùng trên thị trường?",
+    "phuong_an": {
+      "A": "Chủ thể nhà nước",
+      "B": "Các chủ thể trung gian (thương nhân, môi giới, ngân hàng)",
+      "C": "Người tiêu dùng trực tiếp",
+      "D": "Người công nhân làm thuê"
+    },
+    "dap_an_dung": "B",
+    "giai_thich": "Các chủ thể trung gian đóng vai trò kết nối, gia tăng tính thông suốt cho các giao dịch giữa người sản xuất và người tiêu dùng."
+  },
+  {
+    "chu_de": "Chương 2",
+    "cau_hoi": "Dịch vụ khác với các hàng hóa thông thường ở đặc điểm cốt lõi nào?",
+    "phuong_an": {
+      "A": "Dịch vụ không có giá trị sử dụng",
+      "B": "Quá trình sản xuất và tiêu dùng dịch vụ diễn ra đồng thời",
+      "C": "Dịch vụ không tốn lao động sản xuất",
+      "D": "Dịch vụ không tuân theo quy luật giá trị"
+    },
+    "dap_an_dung": "B",
+    "giai_thich": "Dịch vụ là hàng hóa vô hình, có đặc điểm đặc thù là quá trình sản xuất và quá trình tiêu dùng diễn ra đồng thời."
+  },
+  {
+    "chu_de": "Chương 2",
+    "cau_hoi": "Khái niệm 'Thị trường' theo nghĩa hẹp được hiểu là gì?",
+    "phuong_an": {
+      "A": "Tổng hòa các quan hệ kinh tế trao đổi mua bán",
+      "B": "Nơi diễn ra hành vi trao đổi, mua bán trực tiếp (chợ, cửa hàng, siêu thị)",
+      "C": "Cơ chế tự điều chỉnh của nền kinh tế",
+      "D": "Hệ thống các quy định pháp luật thương mại"
+    },
+    "dap_an_dung": "B",
+    "giai_thich": "Theo nghĩa hẹp, thị trường là địa điểm không gian cụ thể (chợ, cửa hàng...) nơi diễn ra việc mua bán hàng hóa."
+  },
+  {
+    "chu_de": "Chương 2",
+    "cau_hoi": "Đặc trưng cơ bản nhất của Cơ chế thị trường là gì?",
+    "phuong_an": {
+      "A": "Giá cả do thị trường quyết định thông qua tương tác cung - cầu",
+      "B": "Nhà nước quy định giá mua bán",
+      "C": "Bán hàng hóa không tính đến chi phí",
+      "D": "Sản xuất không cần quan tâm đến người tiêu dùng"
+    },
+    "dap_an_dung": "A",
+    "giai_thich": "Cơ chế thị trường vận hành khách quan, trong đó giá cả hình thành tự do trên thị trường do sự tương tác giữa cung và cầu."
+  },
+  {
+    "chu_de": "Chương 2",
+    "cau_hoi": "[Bài tập Dạng 4 - Lần 1] Tổng giá cả hàng hóa đem ra lưu thông trên thị trường là 120 tỷ USD. Số vòng luân chuyển trung bình của tiền tệ là 6 vòng/năm. Số lượng tiền cần thiết cho lưu thông (M) là bao nhiêu?",
+    "phuong_an": {
+      "A": "20 tỷ USD",
+      "B": "720 tỷ USD",
+      "C": "120 tỷ USD",
+      "D": "24 tỷ USD"
+    },
+    "dap_an_dung": "A",
+    "giai_thich": "Công thức M = (P x Q) / V = 120 / 6 = 20 tỷ USD."
+  },
+  {
+    "chu_de": "Chương 2",
+    "cau_hoi": "[Bài tập Dạng 4 - Lần 2] Tổng giá cả hàng hóa dịch vụ cần lưu thông trong năm là 180 tỷ USD, số vòng quay trung bình của tiền tệ V = 5 vòng. Lượng tiền giấy cần phát hành cho lưu thông là bao nhiêu?",
+    "phuong_an": {
+      "A": "36 tỷ USD",
+      "B": "900 tỷ USD",
+      "C": "30 tỷ USD",
+      "D": "45 tỷ USD"
+    },
+    "dap_an_dung": "A",
+    "giai_thich": "M = (P x Q) / V = 180 / 5 = 36 tỷ USD."
+  },
+  {
+    "chu_de": "Chương 2",
+    "cau_hoi": "[Bài tập Dạng 4 - Lần 3] Mức tổng giá cả hàng hóa bán ra trong năm là 200 tỷ USD, số vòng luân chuyển của 1 đơn vị tiền tệ V = 8 vòng. Lượng tiền cần thiết trong lưu thông M là bao nhiêu?",
+    "phuong_an": {
+      "A": "25 tỷ USD",
+      "B": "1.600 tỷ USD",
+      "C": "50 tỷ USD",
+      "D": "20 tỷ USD"
+    },
+    "dap_an_dung": "A",
+    "giai_thich": "M = 200 / 8 = 25 tỷ USD."
+  },
+  {
+    "chu_de": "Chương 2",
+    "cau_hoi": "Hàng hóa sức lao động khác với hàng hóa thông thường ở điểm đặc biệt nào dưới đây?",
+    "phuong_an": {
+      "A": "Có thể mua bán nhiều lần",
+      "B": "Khi sử dụng, nó tạo ra một lượng giá trị mới lớn hơn giá trị của bản thân nó",
+      "C": "Giá trị của nó không bao giờ thay đổi",
+      "D": "Không tốn chi phí nuôi dưỡng"
+    },
+    "dap_an_dung": "B",
+    "giai_thich": "Đặc tính độc nhất của hàng hóa sức lao động là khi sử dụng (lao động), nó tạo ra giá trị mới lớn hơn giá trị của chính sức lao động đó."
+  },
+  {
+    "chu_de": "Chương 2",
+    "cau_hoi": "Tăng năng suất lao động và Tăng cường độ lao động giống nhau ở điểm nào?",
+    "phuong_an": {
+      "A": "Đều làm giảm giá trị của 1 đơn vị sản phẩm",
+      "B": "Đều làm tăng số lượng sản phẩm làm ra trong một đơn vị thời gian",
+      "C": "Đều làm tăng tổng giá trị sản phẩm tạo ra",
+      "D": "Đều làm nhẹ nhõm công việc của người công nhân"
+    },
+    "dap_an_dung": "B",
+    "giai_thich": "Cả tăng NSLĐ và tăng CĐLĐ đều có điểm chung là làm cho tổng số lượng sản phẩm (sản lượng) sản xuất ra trong 1 đơn vị thời gian tăng lên."
+  },
+  {
+    "chu_de": "Chương 3",
+    "cau_hoi": "Công thức chung của tư bản là gì?",
+    "phuong_an": {
+      "A": "H - T - H",
+      "B": "T - H - T'",
+      "C": "H - T - H'",
+      "D": "T - H - T"
+    },
+    "dap_an_dung": "B",
+    "giai_thich": "Công thức chung của tư bản là T - H - T' (với T' = T + m, lớn hơn số tiền ban đầu)."
+  },
+  {
+    "chu_de": "Chương 3",
+    "cau_hoi": "Điều kiện để sức lao động trở thành hàng hóa là gì?",
+    "phuong_an": {
+      "A": "Người lao động được tự do về thân thể và không có tư liệu sản xuất",
+      "B": "Người lao động có đầy đủ tư liệu sản xuất và tự do thân thể",
+      "C": "Người lao động bị phụ thuộc vào chủ xưởng và có vốn",
+      "D": "Người lao động có nhà xưởng nhưng thiếu nguyên liệu"
+    },
+    "dap_an_dung": "A",
+    "giai_thich": "Sức lao động trở thành hàng hóa khi người lao động tự do về thân thể và bị tước đoạt hết tư liệu sản xuất."
+  },
+  {
+    "chu_de": "Chương 3",
+    "cau_hoi": "Thuộc tính đặc biệt nhất của hàng hóa sức lao động là gì?",
+    "phuong_an": {
+      "A": "Khi sử dụng không bị hao mòn",
+      "B": "Khi sử dụng tạo ra giá trị mới lớn hơn giá trị của bản thân nó",
+      "C": "Có giá trị sử dụng vĩnh viễn",
+      "D": "Không thể mua bán trên thị trường"
+    },
+    "dap_an_dung": "B",
+    "giai_thich": "Giá trị sử dụng của sức lao động có đặc tính là nguồn gốc sinh ra giá trị, tạo ra giá trị mới lớn hơn giá trị bản thân nó (phần dôi ra là m)."
+  },
+  {
+    "chu_de": "Chương 3",
+    "cau_hoi": "Tư bản bất biến (c) là bộ phận tư bản dùng để mua yếu tố nào?",
+    "phuong_an": {
+      "A": "Sức lao động",
+      "B": "Tư liệu sản xuất",
+      "C": "Hàng hóa tiêu dùng",
+      "D": "Cổ phiếu và trái phiếu"
+    },
+    "dap_an_dung": "B",
+    "giai_thich": "Tư bản bất biến (c) là bộ phận tư bản biến thành tư liệu sản xuất (máy móc, nhà xưởng, nguyên nhiên vật liệu), giá trị không đổi."
+  },
+  {
+    "chu_de": "Chương 3",
+    "cau_hoi": "Tư bản khả biến (v) là bộ phận tư bản có đặc điểm gì?",
+    "phuong_an": {
+      "A": "Dùng mua tư liệu sản xuất và giá trị không đổi",
+      "B": "Dùng mua sức lao động và giá trị biến đổi tăng lên trong quá trình sản xuất",
+      "C": "Giá trị dịch chuyển từng phần vào sản phẩm",
+      "D": "Không tạo ra giá trị thặng dư"
+    },
+    "dap_an_dung": "B",
+    "giai_thich": "Tư bản khả biến (v) là phần tư bản dùng để mua sức lao động. Trong sản xuất, nó tạo ra giá trị mới (v + m) làm lượng giá trị biến đổi tăng lên."
+  },
+  {
+    "chu_de": "Chương 3",
+    "cau_hoi": "Lao động cụ thể của công nhân có vai trò gì trong sản xuất hàng hóa?",
+    "phuong_an": {
+      "A": "Tạo ra giá trị mới (v + m)",
+      "B": "Bảo toàn và chuyển giá trị cũ của tư liệu sản xuất (c) vào sản phẩm mới",
+      "C": "Tạo ra giá trị thặng dư (m)",
+      "D": "Tạo ra tiền lương cho công nhân"
+    },
+    "dap_an_dung": "B",
+    "giai_thich": "Lao động cụ thể bảo toàn và di chuyển giá trị cũ (c) vào sản phẩm; còn lao động trừu tượng mới tạo ra giá trị mới (v + m)."
+  },
+  {
+    "chu_de": "Chương 3",
+    "cau_hoi": "Lao động trừu tượng của công nhân làm thuê tạo ra yếu tố nào?",
+    "phuong_an": {
+      "A": "Toàn bộ giá trị c + v + m",
+      "B": "Giá trị mới (v + m)",
+      "C": "Chỉ có giá trị tư liệu sản xuất (c)",
+      "D": "Giá trị sử dụng của sản phẩm"
+    },
+    "dap_an_dung": "B",
+    "giai_thich": "Lao động trừu tượng tạo ra giá trị mới (v + m) kết tinh trong sản phẩm mới."
+  },
+  {
+    "chu_de": "Chương 3",
+    "cau_hoi": "Tỷ suất giá trị thặng dư (m') phản ánh điều gì?",
+    "phuong_an": {
+      "A": "Quy mô bóc lột của tư bản",
+      "B": "Trình độ bóc lột của tư bản đối với công nhân",
+      "C": "Mức độ hiệu quả đầu tư vốn",
+      "D": "Tốc độ chu chuyển của tư bản"
+    },
+    "dap_an_dung": "B",
+    "giai_thich": "m' = (m/v)*100% phản ánh trình độ bóc lột; còn M = m'*V phản ánh quy mô bóc lột."
+  },
+  {
+    "chu_de": "Chương 3",
+    "cau_hoi": "Khối lượng giá trị thặng dư (M) phản ánh điều gì?",
+    "phuong_an": {
+      "A": "Trình độ bóc lột của tư bản",
+      "B": "Quy mô bóc lột của tư bản",
+      "C": "Hiệu quả sử dụng máy móc",
+      "D": "Tỷ suất lợi nhuận bình quân"
+    },
+    "dap_an_dung": "B",
+    "giai_thich": "Khối lượng giá trị thặng dư M = m' x V phản ánh quy mô bóc lột."
+  },
+  {
+    "chu_de": "Chương 3",
+    "cau_hoi": "Phương pháp sản xuất giá trị thặng dư tuyệt đối được thực hiện bằng cách nào?",
+    "phuong_an": {
+      "A": "Rút ngắn thời gian lao động tất yếu",
+      "B": "Kéo dài ngày lao động vượt quá thời gian lao động tất yếu",
+      "C": "Tăng năng suất lao động xã hội",
+      "D": "Ứng dụng máy móc hiện đại"
+    },
+    "dap_an_dung": "B",
+    "giai_thich": "Thặng dư tuyệt đối thu được bằng cách kéo dài ngày lao động (hoặc tăng cường độ) trong khi thời gian tất yếu giữ nguyên."
+  },
+  {
+    "chu_de": "Chương 3",
+    "cau_hoi": "Phương pháp sản xuất giá trị thặng dư tương đối được thực hiện bằng cách nào?",
+    "phuong_an": {
+      "A": "Kéo dài ngày lao động",
+      "B": "Rút ngắn thời gian lao động tất yếu dựa trên tăng năng suất lao động xã hội",
+      "C": "Tăng giờ làm ban đêm",
+      "D": "Cắt giảm tiền lương thực tế"
+    },
+    "dap_an_dung": "B",
+    "giai_thich": "Thặng dư tương đối thu được bằng cách rút ngắn thời gian lao động tất yếu nhờ tăng năng suất lao động xã hội, độ dài ngày lao động không đổi."
+  },
+  {
+    "chu_de": "Chương 3",
+    "cau_hoi": "Giá trị thặng dư siêu ngạch là gì?",
+    "phuong_an": {
+      "A": "Phần giá trị thặng dư thu được do kéo dài ngày làm việc",
+      "B": "Phần giá trị thặng dư vượt trội do giá trị cá biệt thấp hơn giá trị xã hội",
+      "C": "Địa tô thu được từ nông nghiệp",
+      "D": "Lợi tức thu được từ cho vay"
+    },
+    "dap_an_dung": "B",
+    "giai_thich": "Giá trị thặng dư siêu ngạch do cải tiến kỹ thuật ở xí nghiệp cá biệt làm giá trị cá biệt thấp hơn giá trị xã hội."
+  },
+  {
+    "chu_de": "Chương 3",
+    "cau_hoi": "Nguồn gốc duy nhất của tích lũy tư bản là gì?",
+    "phuong_an": {
+      "A": "Tư bản bất biến (c)",
+      "B": "Giá trị thặng dư (m)",
+      "C": "Tiền tiết kiệm của nhà tư bản",
+      "D": "Tiền vay ngân hàng"
+    },
+    "dap_an_dung": "B",
+    "giai_thich": "Bản chất của tích lũy tư bản là biến một phần m thành tư bản phụ thêm. Do đó nguồn gốc duy nhất là m."
+  },
+  {
+    "chu_de": "Chương 3",
+    "cau_hoi": "Sự khác biệt căn bản giữa Tích tụ tư bản và Tập trung tư bản là gì?",
+    "phuong_an": {
+      "A": "Tích tụ làm tăng tổng tư bản xã hội, Tập trung không làm tăng tổng tư bản xã hội",
+      "B": "Tích tụ dựa vào sáp nhập, Tập trung dựa vào tích lũy m",
+      "C": "Cả hai đều làm giảm quy mô tư bản cá biệt",
+      "D": "Tập trung tư bản làm giảm năng suất lao động"
+    },
+    "dap_an_dung": "A",
+    "giai_thich": "Tích tụ tư bản là trực tiếp biến m thành tư bản nên làm tăng tổng tư bản xã hội. Tập trung tư bản chỉ là sáp nhập các tư bản sẵn có nên không làm tăng tổng tư bản xã hội."
+  },
+  {
+    "chu_de": "Chương 3",
+    "cau_hoi": "Cấu tạo hữu cơ của tư bản là gì?",
+    "phuong_an": {
+      "A": "Tỷ lệ c/v phản ánh sự biến đổi của cấu tạo kỹ thuật",
+      "B": "Tỷ lệ c1/c2",
+      "C": "Tỷ lệ (c+v)/m",
+      "D": "Tỷ lệ v/m"
+    },
+    "dap_an_dung": "A",
+    "giai_thich": "Cấu tạo hữu cơ tư bản là cấu tạo giá trị (c/v) do cấu tạo kỹ thuật quyết định và phản ánh sự thay đổi của cấu tạo kỹ thuật."
+  },
+  {
+    "chu_de": "Chương 3",
+    "cau_hoi": "Chi phí sản xuất tư bản chủ nghĩa (k) bao gồm yếu tố nào?",
+    "phuong_an": {
+      "A": "c + v + m",
+      "B": "c + v",
+      "C": "v + m",
+      "D": "c + m"
+    },
+    "dap_an_dung": "B",
+    "giai_thich": "Chi phí sản xuất k = c + v (là chi phí thực tế mà nhà tư bản bỏ ra)."
+  },
+  {
+    "chu_de": "Chương 3",
+    "cau_hoi": "Mối quan hệ về mặt lượng giữa Lợi nhuận (p) và Giá trị thặng dư (m) khi Cung = Cầu là gì?",
+    "phuong_an": {
+      "A": "p > m",
+      "B": "p < m",
+      "C": "p = m",
+      "D": "p = 0"
+    },
+    "dap_an_dung": "C",
+    "giai_thich": "Khi Cung = Cầu thì giá cả = giá trị, do đó Lợi nhuận p = Giá trị thặng dư m."
+  },
+  {
+    "chu_de": "Chương 3",
+    "cau_hoi": "Sự cạnh tranh giữa các ngành dẫn đến sự hình thành yếu tố nào?",
+    "phuong_an": {
+      "A": "Giá trị thặng dư siêu ngạch",
+      "B": "Lợi nhuận bình quân và Giá cả sản xuất",
+      "C": "Tỷ suất giá trị thặng dư tuyệt đối",
+      "D": "Tư bản bất biến"
+    },
+    "dap_an_dung": "B",
+    "giai_thich": "Cạnh tranh nội bộ ngành tạo ra giá trị thị trường; Cạnh tranh giữa các ngành hình thành tỷ suất lợi nhuận bình quân và giá cả sản xuất."
+  },
+  {
+    "chu_de": "Chương 3",
+    "cau_hoi": "Tư bản cố định (c1) có đặc điểm chu chuyển giá trị như thế nào?",
+    "phuong_an": {
+      "A": "Dịch chuyển toàn bộ một lần vào sản phẩm",
+      "B": "Dịch chuyển từng phần vào sản phẩm theo mức độ hao mòn",
+      "C": "Không dịch chuyển giá trị",
+      "D": "Dịch chuyển nhanh hơn tư bản lưu động"
+    },
+    "dap_an_dung": "B",
+    "giai_thich": "Tư bản cố định (máy móc, nhà xưởng) tham gia toàn bộ vào sản xuất nhưng giá trị dịch chuyển từng phần theo độ hao mòn."
+  },
+  {
+    "chu_de": "Chương 3",
+    "cau_hoi": "Ngày làm việc 8 giờ, thời gian lao động tất yếu là 4 giờ. Nếu kéo dài ngày làm việc lên 10 giờ mà thời gian tất yếu không đổi thì tỷ suất giá trị thặng dư (m') mới là bao nhiêu?",
+    "phuong_an": {
+      "A": "100%",
+      "B": "150%",
+      "C": "200%",
+      "D": "250%"
+    },
+    "dap_an_dung": "B",
+    "giai_thich": "Ban đầu t = 4h, t' = 4h => m' = 100%. Khi ngày làm 10h, t' mới = 10 - 4 = 6h. Tỷ suất m' mới = (6/4)*100% = 150%."
+  },
+  {
+    "chu_de": "Chương 3",
+    "cau_hoi": "Ngày làm việc 8 giờ, thời gian lao động tất yếu là 2 giờ. Nếu nhà tư bản kéo dài ngày làm việc lên 10 giờ thì tỷ suất giá trị thặng dư (m') mới là bao nhiêu?",
+    "phuong_an": {
+      "A": "300%",
+      "B": "400%",
+      "C": "500%",
+      "D": "200%"
+    },
+    "dap_an_dung": "B",
+    "giai_thich": "t = 2h. Ngày làm 10h => t' mới = 10 - 2 = 8h. m' mới = (8/2)*100% = 400%."
+  },
+  {
+    "chu_de": "Chương 3",
+    "cau_hoi": "Ngày làm việc 8 giờ, m' = 100% (t = 4h, t' = 4h). Nếu thời gian làm việc kéo dài lên 12 giờ thì m' mới là bao nhiêu?",
+    "phuong_an": {
+      "A": "100%",
+      "B": "150%",
+      "C": "200%",
+      "D": "300%"
+    },
+    "dap_an_dung": "C",
+    "giai_thich": "t = 4h. Ngày làm 12h => t' mới = 12 - 4 = 8h. m' mới = (8/4)*100% = 200%."
+  },
+  {
+    "chu_de": "Chương 3",
+    "cau_hoi": "Một xí nghiệp thuê 100 công nhân, tiền lương mỗi công nhân v = 50 USD, tỷ suất giá trị thặng dư m' = 200%. Khối lượng giá trị thặng dư (M) thu được là bao nhiêu?",
+    "phuong_an": {
+      "A": "5.000 USD",
+      "B": "10.000 USD",
+      "C": "15.000 USD",
+      "D": "20.000 USD"
+    },
+    "dap_an_dung": "B",
+    "giai_thich": "Tổng V = 100 x 50 = 5.000 USD. M = m' x V = 200% x 5.000 = 10.000 USD."
+  },
+  {
+    "chu_de": "Chương 3",
+    "cau_hoi": "Một xí nghiệp có tổng tư bản khả biến V = 20.000 USD, m' = 150%. Khối lượng giá trị thặng dư M thu được là bao nhiêu?",
+    "phuong_an": {
+      "A": "20.000 USD",
+      "B": "30.000 USD",
+      "C": "40.000 USD",
+      "D": "15.000 USD"
+    },
+    "dap_an_dung": "B",
+    "giai_thich": "M = m' x V = 150% x 20.000 = 30.000 USD."
+  },
+  {
+    "chu_de": "Chương 3",
+    "cau_hoi": "Một doanh nghiệp có 200 công nhân, lương mỗi người v = 100 USD. Tỷ suất m' = 300%. Tính tổng khối lượng giá trị thặng dư M?",
+    "phuong_an": {
+      "A": "20.000 USD",
+      "B": "40.000 USD",
+      "C": "60.000 USD",
+      "D": "80.000 USD"
+    },
+    "dap_an_dung": "C",
+    "giai_thich": "V = 200 x 100 = 20.000 USD. M = 300% x 20.000 = 60.000 USD."
+  },
+  {
+    "chu_de": "Chương 3",
+    "cau_hoi": "Chi phí sản xuất k = 80.000 USD, cấu tạo hữu cơ c/v = 3/1. Tính tư bản khả biến v?",
+    "phuong_an": {
+      "A": "20.000 USD",
+      "B": "60.000 USD",
+      "C": "40.000 USD",
+      "D": "10.000 USD"
+    },
+    "dap_an_dung": "A",
+    "giai_thich": "k = c + v = 80.000 USD. c/v = 3/1 => c = 3v. Thay vào: 3v + v = 80.000 => 4v = 80.000 => v = 20.000 USD."
+  },
+  {
+    "chu_de": "Chương 3",
+    "cau_hoi": "Tư bản ứng trước k = 100.000 USD, cấu tạo hữu cơ c/v = 4/1. Tư bản bất biến c và tư bản khả biến v lần lượt là bao nhiêu?",
+    "phuong_an": {
+      "A": "c = 80.000 USD, v = 20.000 USD",
+      "B": "c = 75.000 USD, v = 25.000 USD",
+      "C": "c = 60.000 USD, v = 40.000 USD",
+      "D": "c = 50.000 USD, v = 50.000 USD"
+    },
+    "dap_an_dung": "A",
+    "giai_thich": "c + v = 100.000, c = 4v => 5v = 100.000 => v = 20.000 USD, c = 80.000 USD."
+  },
+  {
+    "chu_de": "Chương 3",
+    "cau_hoi": "Chi phí sản xuất k = 9.600 USD, cấu tạo hữu cơ c/v = 5/3. Giá trị tư bản khả biến v là bao nhiêu?",
+    "phuong_an": {
+      "A": "6.000 USD",
+      "B": "3.600 USD",
+      "C": "4.800 USD",
+      "D": "2.400 USD"
+    },
+    "dap_an_dung": "B",
+    "giai_thich": "c + v = 9.600, c = (5/3)v => (8/3)v = 9.600 => v = 3.600 USD (c = 6.000 USD)."
+  },
+  {
+    "chu_de": "Chương 3",
+    "cau_hoi": "Tư bản ứng trước k = 100.000 USD (c = 80.000, v = 20.000), m' = 100%. Tính tỷ suất lợi nhuận p'?",
+    "phuong_an": {
+      "A": "10%",
+      "B": "20%",
+      "C": "25%",
+      "D": "100%"
+    },
+    "dap_an_dung": "B",
+    "giai_thich": "m = m' x v = 100% x 20.000 = 20.000 USD. p' = (m / k)*100% = (20.000 / 100.000)*100% = 20%."
+  },
+  {
+    "chu_de": "Chương 3",
+    "cau_hoi": "Chi phí sản xuất k = 50.000 USD, giá trị thặng dư m = 10.000 USD. Tỷ suất lợi nhuận p' là bao nhiêu?",
+    "phuong_an": {
+      "A": "10%",
+      "B": "15%",
+      "C": "20%",
+      "D": "25%"
+    },
+    "dap_an_dung": "C",
+    "giai_thich": "p' = (p / k)*100% = (10.000 / 50.000)*100% = 20%."
+  },
+  {
+    "chu_de": "Chương 3",
+    "cau_hoi": "Một doanh nghiệp có c = 400.000, v = 100.000, m = 150.000. Tỷ suất lợi nhuận p' là bao nhiêu?",
+    "phuong_an": {
+      "A": "15%",
+      "B": "30%",
+      "C": "150%",
+      "D": "50%"
+    },
+    "dap_an_dung": "B",
+    "giai_thich": "k = c + v = 500.000. p' = (m / k)*100% = (150.000 / 500.000)*100% = 30%."
+  },
+  {
+    "chu_de": "Chương 3",
+    "cau_hoi": "Cấu trúc giá trị hàng hóa W = 800c + 200v + 200m. Nhà tư bản dùng 50% m để tích lũy với c/v không đổi (4/1). Lượng c và v phụ thêm là bao nhiêu?",
+    "phuong_an": {
+      "A": "c phụ thêm = 80, v phụ thêm = 20",
+      "B": "c phụ thêm = 100, v phụ thêm = 0",
+      "C": "c phụ thêm = 50, v phụ thêm = 50",
+      "D": "c phụ thêm = 60, v phụ thêm = 40"
+    },
+    "dap_an_dung": "A",
+    "giai_thich": "m tích lũy = 200 x 50% = 100. Tỷ lệ c/v = 4/1 => dc + dv = 100, dc = 4dv => 5dv = 100 => dv = 20, dc = 80."
+  },
+  {
+    "chu_de": "Chương 3",
+    "cau_hoi": "Một doanh nghiệp thu được m = 400 USD. Tích lũy 50% giá trị thặng dư với c/v = 3/1. Phần c và v bổ sung là bao nhiêu?",
+    "phuong_an": {
+      "A": "c bổ sung = 150 USD, v bổ sung = 50 USD",
+      "B": "c bổ sung = 200 USD, v bổ sung = 0 USD",
+      "C": "c bổ sung = 100 USD, v bổ sung = 100 USD",
+      "D": "c bổ sung = 120 USD, v bổ sung = 80 USD"
+    },
+    "dap_an_dung": "A",
+    "giai_thich": "m tích lũy = 400 x 50% = 200. Tỷ lệ c/v = 3/1 => dc + dv = 200, dc = 3dv => 4dv = 200 => dv = 50, dc = 150."
+  },
+  {
+    "chu_de": "Chương 3",
+    "cau_hoi": "Một xí nghiệp có m = 1.000 USD. Trích 60% m để tích lũy với cấu tạo hữu cơ c/v = 5/1. Số tiền bổ sung cho c và v là bao nhiêu?",
+    "phuong_an": {
+      "A": "c bổ sung = 500 USD, v bổ sung = 100 USD",
+      "B": "c bổ sung = 400 USD, v bổ sung = 200 USD",
+      "C": "c bổ sung = 300 USD, v bổ sung = 300 USD",
+      "D": "c bổ sung = 600 USD, v bổ sung = 0 USD"
+    },
+    "dap_an_dung": "A",
+    "giai_thich": "m tích lũy = 1.000 x 60% = 600. Tỷ lệ c/v = 5/1 => dc + dv = 600, dc = 5dv => 6dv = 600 => dv = 100, dc = 500."
+  },
+  {
+    "chu_de": "Chương 3",
+    "cau_hoi": "Thời gian một vòng chu chuyển của tư bản ch = 3 tháng. Số vòng chu chuyển trong 1 năm (n) là bao nhiêu?",
+    "phuong_an": {
+      "A": "3 vòng",
+      "B": "4 vòng",
+      "C": "6 vòng",
+      "D": "12 vòng"
+    },
+    "dap_an_dung": "B",
+    "giai_thich": "n = CH / ch = 12 tháng / 3 tháng = 4 vòng."
+  },
+  {
+    "chu_de": "Chương 3",
+    "cau_hoi": "Trong 1 năm tư bản thực hiện được 6 vòng chu chuyển. Thời gian một vòng chu chuyển (ch) là bao nhiêu?",
+    "phuong_an": {
+      "A": "1 tháng",
+      "B": "2 tháng",
+      "C": "3 tháng",
+      "D": "4 tháng"
+    },
+    "dap_an_dung": "B",
+    "giai_thich": "ch = CH / n = 12 tháng / 6 = 2 tháng."
+  },
+  {
+    "chu_de": "Chương 3",
+    "cau_hoi": "Thời gian chu chuyển của tư bản là 4 tháng. Trong 1 năm tư bản thực hiện được bao nhiêu vòng chu chuyển?",
+    "phuong_an": {
+      "A": "2 vòng",
+      "B": "3 vòng",
+      "C": "4 vòng",
+      "D": "5 vòng"
+    },
+    "dap_an_dung": "B",
+    "giai_thich": "n = 12 / 4 = 3 vòng."
+  },
+  {
+    "chu_de": "Chương 3",
+    "cau_hoi": "Một mảnh đất mang lại địa tô hàng năm R = 2.000 USD, tỷ suất lợi tức ngân hàng z' = 5%. Giá cả đất đai là bao nhiêu?",
+    "phuong_an": {
+      "A": "20.000 USD",
+      "B": "40.000 USD",
+      "C": "100.000 USD",
+      "D": "10.000 USD"
+    },
+    "dap_an_dung": "B",
+    "giai_thich": "Giá cả đất đai = R / z' = 2.000 / 5% = 40.000 USD."
+  },
+  {
+    "chu_de": "Chương 3",
+    "cau_hoi": "Địa tô hàng năm thu được R = 5.000 USD, lãi suất gửi ngân hàng z' = 10%. Mảnh đất đó được bán với giá bao nhiêu?",
+    "phuong_an": {
+      "A": "25.000 USD",
+      "B": "50.000 USD",
+      "C": "500.000 USD",
+      "D": "100.000 USD"
+    },
+    "dap_an_dung": "B",
+    "giai_thich": "Giá cả đất đai = 5.000 / 10% = 50.000 USD."
+  },
+  {
+    "chu_de": "Chương 3",
+    "cau_hoi": "Nếu địa tô R = 3.000 USD/năm và tỷ suất lợi tức ngân hàng giảm từ 6% xuống 5%, giá cả đất đai thay đổi như thế nào?",
+    "phuong_an": {
+      "A": "Tăng từ 50.000 USD lên 60.000 USD",
+      "B": "Giảm từ 60.000 USD xuống 50.000 USD",
+      "C": "Không thay đổi",
+      "D": "Tăng lên 100.000 USD"
+    },
+    "dap_an_dung": "A",
+    "giai_thich": "Ban đầu = 3.000/6% = 50.000 USD. Sau khi z' = 5% => 3.000/5% = 60.000 USD (giá đất tăng 10.000 USD)."
+  },
+  {
+    "chu_de": "Chương 3",
+    "cau_hoi": "Yếu tố nào sau đây là thực thể của giá trị thặng dư?",
+    "phuong_an": {
+      "A": "Lao động không công của công nhân làm thuê",
+      "B": "Sự hoạt động của máy móc hiện đại",
+      "C": "Tài kinh doanh của nhà tư bản",
+      "D": "Sự biến động giá cả trên thị trường"
+    },
+    "dap_an_dung": "A",
+    "giai_thich": "Thực thể của giá trị thặng dư là lao động không công của công nhân kết tinh trong sản phẩm."
+  },
+  {
+    "chu_de": "Chương 3",
+    "cau_hoi": "Bản chất của tiền công trong chủ nghĩa tư bản là gì?",
+    "phuong_an": {
+      "A": "Giá cả của lao động",
+      "B": "Giá cả của hàng hóa sức lao động",
+      "C": "Toàn bộ giá trị do công nhân tạo ra",
+      "D": "Sự thưởng công cho tính siêng năng"
+    },
+    "dap_an_dung": "B",
+    "giai_thich": "Tiền công trong CNTB không phải là giá cả của lao động mà là giá cả của hàng hóa sức lao động."
+  },
+  {
+    "chu_de": "Chương 3",
+    "cau_hoi": "Địa tô chênh lệch I thu được là do yếu tố nào?",
+    "phuong_an": {
+      "A": "Thâm canh cải tạo đất",
+      "B": "Độ phì nhiêu tự nhiên của đất và vị trí địa lý thuận lợi",
+      "C": "Độc quyền sở hữu ruộng đất",
+      "D": "Sử dụng phân bón hóa học"
+    },
+    "dap_an_dung": "B",
+    "giai_thich": "Địa tô chênh lệch I do độ phì nhiêu tự nhiên và vị trí địa lý thuận lợi mang lại."
+  },
+  {
+    "chu_de": "Chương 3",
+    "cau_hoi": "Địa tô chênh lệch II thu được là do yếu tố nào?",
+    "phuong_an": {
+      "A": "Vị trí đất gần thị trường",
+      "B": "Đầu tư thâm canh, cải tạo đất đai làm tăng độ phì nhiêu nhân tạo",
+      "C": "Độ phì nhiêu tự nhiên",
+      "D": "Sự bãi bỏ chế độ tư hữu đất đai"
+    },
+    "dap_an_dung": "B",
+    "giai_thich": "Địa tô chênh lệch II là kết quả của việc đầu tư thâm canh, ứng dụng kỹ thuật mới trên cùng một diện tích đất."
+  },
+  {
+    "chu_de": "Chương 3",
+    "cau_hoi": "Địa tô tuyệt đối có nguồn gốc từ đâu?",
+    "phuong_an": {
+      "A": "Độ phì nhiêu tự nhiên của đất",
+      "B": "Độc quyền sở hữu ruộng đất cản trở sự tự do di chuyển tư bản vào nông nghiệp",
+      "C": "Thâm canh tăng năng suất",
+      "D": "Vị trí địa lý gần trung tâm"
+    },
+    "dap_an_dung": "B",
+    "giai_thich": "Địa tô tuyệt đối do độc quyền sở hữu ruộng đất cản trở sự di chuyển tự do của tư bản, buộc nhà tư bản nông nghiệp phải nộp."
+  },
+  {
+    "chu_de": "Chương 3",
+    "cau_hoi": "Quy luật kinh tế tuyệt đối của chủ nghĩa tư bản là quy luật nào?",
+    "phuong_an": {
+      "A": "Quy luật giá trị",
+      "B": "Quy luật giá trị thặng dư",
+      "C": "Quy luật lưu thông tiền tệ",
+      "D": "Quy luật cạnh tranh"
+    },
+    "dap_an_dung": "B",
+    "giai_thich": "Quy luật giá trị thặng dư là quy luật kinh tế tuyệt đối của CNTB, quyết định sự ra đời, phát triển và suy vong của CNTB."
+  },
+  {
+    "chu_de": "Chương 3",
+    "cau_hoi": "Nhân tố nào sau đây KHÔNG làm tăng quy mô tích lũy tư bản?",
+    "phuong_an": {
+      "A": "Tăng tỷ suất giá trị thặng dư m'",
+      "B": "Tăng năng suất lao động xã hội",
+      "C": "Giảm tỷ lệ tích lũy m để tăng quỹ tiêu dùng tư bản",
+      "D": "Tăng quy mô tư bản ứng trước"
+    },
+    "dap_an_dung": "C",
+    "giai_thich": "Giảm tỷ lệ tích lũy m để tiêu dùng cá nhân sẽ làm giảm số tiền dành cho tích lũy."
+  },
+  {
+    "chu_de": "Chương 3",
+    "cau_hoi": "Khi giá cả hàng hóa bằng giá cả sản xuất (GCSX = k + p_bình_quân), mối quan hệ giữa Giá cả sản xuất và Giá trị trên toàn xã hội là gì?",
+    "phuong_an": {
+      "A": "Tổng giá cả sản xuất luôn bằng Tổng giá trị hàng hóa",
+      "B": "Tổng giá cả sản xuất lớn hơn tổng giá trị",
+      "C": "Tổng giá cả sản xuất nhỏ hơn tổng giá trị",
+      "D": "Không có mối quan hệ nào"
+    },
+    "dap_an_dung": "A",
+    "giai_thich": "Xét trên toàn xã hội, tổng giá cả sản xuất luôn bằng tổng giá trị hàng hóa, và tổng lợi nhuận bình quân bằng tổng giá trị thặng dư."
+  },
+  {
+    "chu_de": "Chương 3",
+    "cau_hoi": "Lợi tức (z) thu được từ tư bản cho vay luôn có quan hệ thế nào với Lợi nhuận bình quân?",
+    "phuong_an": {
+      "A": "Lợi tức luôn lớn hơn lợi nhuận bình quân",
+      "B": "Lợi tức bằng lợi nhuận bình quân",
+      "C": "0 < Lợi tức < Lợi nhuận bình quân",
+      "D": "Lợi tức không phụ thuộc vào lợi nhuận bình quân"
+    },
+    "dap_an_dung": "C",
+    "giai_thich": "Lợi tức là một phần của lợi nhuận bình quân mà người đi vay trả cho người cho vay, nên 0 < z < p_bình_quân."
+  },
+  {
+    "chu_de": "Chương 3",
+    "cau_hoi": "Tư bản lưu động (c2 + v) bao gồm các yếu tố nào?",
+    "phuong_an": {
+      "A": "Máy móc, nhà xưởng và tiền lương",
+      "B": "Nguyên nhiên vật liệu và tiền lương sức lao động",
+      "C": "Chỉ có máy móc thiết bị",
+      "D": "Chỉ có tiền lương công nhân"
+    },
+    "dap_an_dung": "B",
+    "giai_thich": "Tư bản lưu động gồm nguyên nhiên vật liệu (c2) và tiền lương (v), giá trị chuyển hết một lần vào sản phẩm sau một chu kỳ sản xuất."
+  }
+]
+  
+  
 
