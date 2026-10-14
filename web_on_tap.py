@@ -38,6 +38,8 @@ MON_HOC = {
 
 THU_MUC_SCRIPT = os.path.dirname(os.path.abspath(__file__))
 DINH_DANG_ANH = (".png", ".jpg", ".jpeg", ".gif", ".webp", ".bmp")
+MON_KTCT = "Kinh tế chính trị"
+TAT_CA_CHU_DE = "Tất cả chủ đề"
 
 # ======================================================================
 # ẢNH CỔ VŨ & ẢNH CHẾ GIỄU (ảnh, GIF, hoặc video ngắn đều được)
@@ -79,6 +81,11 @@ def tai_ngan_hang_cau_hoi(thu_muc, file_json):
         except FileNotFoundError:
             continue
     raise FileNotFoundError(f"Không tìm thấy file '{file_json}' của môn '{thu_muc}'.")
+
+
+def lay_danh_sach_chu_de(ngan_hang_cau_hoi):
+    """Lấy danh sách chủ đề hợp lệ (không rỗng)."""
+    return sorted({cau.get("chu_de") for cau in ngan_hang_cau_hoi if cau.get("chu_de")})
 
 
 # ---------------- MENU CHỌN MÔN HỌC (bên trái) ----------------
@@ -127,13 +134,33 @@ except FileNotFoundError as loi:
     st.info("Hãy kiểm tra lại mục MON_HOC ở đầu file web_on_tap.py.")
     st.stop()
 
+chu_de_hien_tai = None
+ngan_hang_thi_vo_tan = ngan_hang
+if ten_mon == MON_KTCT and "vô tận" in che_do:
+    cac_chu_de = lay_danh_sach_chu_de(ngan_hang)
+    cac_lua_chon_chu_de = [TAT_CA_CHU_DE] + cac_chu_de if cac_chu_de else [TAT_CA_CHU_DE]
+    if st.session_state.get("chu_de_ktct") not in cac_lua_chon_chu_de:
+        st.session_state.chu_de_ktct = TAT_CA_CHU_DE
+
+    chu_de_hien_tai = st.sidebar.selectbox(
+        "Chọn chủ đề KTCT:",
+        cac_lua_chon_chu_de,
+        key="chu_de_ktct",
+    )
+
+    if chu_de_hien_tai != TAT_CA_CHU_DE:
+        ngan_hang_thi_vo_tan = [
+            cau for cau in ngan_hang
+            if cau.get("chu_de") == chu_de_hien_tai
+        ]
+
 
 def tao_de_moi():
     """Xáo lại bộ đề của chế độ hiện tại và quay về câu đầu tiên."""
     if "50 câu" in che_do:
         st.session_state.danh_sach_cau = random.sample(ngan_hang, min(50, len(ngan_hang)))
     elif "vô tận" in che_do:
-        st.session_state.danh_sach_cau = random.sample(ngan_hang, len(ngan_hang))
+        st.session_state.danh_sach_cau = random.sample(ngan_hang_thi_vo_tan, len(ngan_hang_thi_vo_tan))
     else:
         st.session_state.danh_sach_cau = random.sample(cac_cau_sai_da_luu, len(cac_cau_sai_da_luu))
     st.session_state.chi_so_cau = 0
@@ -152,15 +179,22 @@ def tinh_diem():
 
 # Reset toàn bộ khi: lần đầu chạy, ĐỔI MÔN hoặc ĐỔI CHẾ ĐỘ
 if ("mon_cu" not in st.session_state or st.session_state.mon_cu != ten_mon
-        or "che_do_cu" not in st.session_state or st.session_state.che_do_cu != che_do):
+        or "che_do_cu" not in st.session_state or st.session_state.che_do_cu != che_do
+        or "chu_de_cu" not in st.session_state or st.session_state.chu_de_cu != chu_de_hien_tai):
     st.session_state.mon_cu = ten_mon
     st.session_state.che_do_cu = che_do
+    st.session_state.chu_de_cu = chu_de_hien_tai
     tao_de_moi()
 
 danh_sach_cau = st.session_state.danh_sach_cau
 
 if not danh_sach_cau:
-    st.info("Hiện tại bạn chưa có câu nào bị sai! Hãy chọn chế độ Thi thử bộ đề chung bên menu trái.")
+    if "Luyện lại câu sai" in che_do:
+        st.info("Hiện tại bạn chưa có câu nào bị sai! Hãy chọn chế độ Thi thử bộ đề chung bên menu trái.")
+    elif "vô tận" in che_do and ten_mon == MON_KTCT and chu_de_hien_tai not in (None, TAT_CA_CHU_DE):
+        st.info("Chủ đề này hiện chưa có câu hỏi. Hãy chọn chủ đề khác hoặc 'Tất cả chủ đề'.")
+    else:
+        st.info("Hiện chưa có câu hỏi cho lựa chọn hiện tại.")
 else:
     if st.session_state.chi_so_cau >= len(danh_sach_cau):
         # ---------------- MÀN HÌNH HOÀN THÀNH ----------------
