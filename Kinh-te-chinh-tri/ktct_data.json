@@ -16,11 +16,11 @@
     "cau_hoi": "Hệ thống lý luận kinh tế chính trị nào coi trọng vai trò của thương nghiệp, đặc biệt là ngoại thương?",
     "phuong_an": {
       "A": "Chủ nghĩa trọng nông",
-      "B": "Chủ nghĩa trọng thương",
+      "B": "Kinh tế chính trị tiểu tư sản",
       "C": "Kinh tế chính trị cổ điển Anh",
-      "D": "Kinh tế chính trị tiểu tư sản"
+      "D": "Chủ nghĩa trọng thương"
     },
-    "dap_an_dung": "B",
+    "dap_an_dung": "D",
     "giai_thich": "Chủ nghĩa trọng thương (thế kỷ XV - XVII) coi trọng vai trò của hoạt động thương mại và lưu thông, đặc biệt là ngoại thương."
   },
   {
@@ -64,11 +64,11 @@
     "cau_hoi": "Đóng góp nổi bật của V.I. Lênin đối với Kinh tế chính trị Mác là gì?",
     "phuong_an": {
       "A": "Sáng lập ra lý luận giá trị lao động",
-      "B": "Chỉ ra các đặc điểm kinh tế của chủ nghĩa tư bản độc quyền giai đoạn cuối thế kỷ XIX - đầu thế kỷ XX",
+      "B": "Phát minh ra tính hai mặt của lao động sản xuất hàng hóa",
       "C": "Xây dựng công thức chung của tư bản",
-      "D": "Phát minh ra tính hai mặt của lao động sản xuất hàng hóa"
+      "D": "Chỉ ra các đặc điểm kinh tế của chủ nghĩa tư bản độc quyền giai đoạn cuối thế kỷ XIX - đầu thế kỷ XX"
     },
-    "dap_an_dung": "B",
+    "dap_an_dung": "D",
     "giai_thich": "V.I. Lênin có đóng góp nổi bật khi phân tích và chỉ ra 5 đặc điểm kinh tế của chủ nghĩa tư bản độc quyền và độc quyền nhà nước."
   },
   {
@@ -88,11 +88,11 @@
     "cau_hoi": "Mục đích nghiên cứu cao nhất của Kinh tế chính trị Mác - Lênin là gì?",
     "phuong_an": {
       "A": "Giúp doanh nghiệp tối đa hóa lợi nhuận",
-      "B": "Phát hiện ra các quy luật kinh tế chi phối sự vận động của các quan hệ sản xuất và trao đổi",
+      "B": "Xây dựng mô hình quản trị xí nghiệp",
       "C": "Dự báo giá cả thị trường hàng ngày",
-      "D": "Xây dựng mô hình quản trị xí nghiệp"
+      "D": "Phát hiện ra các quy luật kinh tế chi phối sự vận động của các quan hệ sản xuất và trao đổi"
     },
-    "dap_an_dung": "B",
+    "dap_an_dung": "D",
     "giai_thich": "Mục đích nghiên cứu của Kinh tế chính trị Mác - Lênin là nhằm phát hiện các quy luật kinh tế khách quan chi phối quá trình sản xuất và phân phối."
   },
   {
@@ -100,11 +100,11 @@
     "cau_hoi": "Điểm khác biệt cốt lõi giữa 'Quy luật kinh tế' và 'Chính sách kinh tế' là gì?",
     "phuong_an": {
       "A": "Quy luật kinh tế mang tính chủ quan, chính sách kinh tế mang tính khách quan",
-      "B": "Quy luật kinh tế tồn tại khách quan, chính sách kinh tế là sản phẩm chủ quan của con người",
+      "B": "Quy luật kinh tế có thể bị loại bỏ bởi chính sách kinh tế",
       "C": "Cả hai đều mang tính khách quan tuyệt đối",
-      "D": "Quy luật kinh tế có thể bị loại bỏ bởi chính sách kinh tế"
+      "D": "Quy luật kinh tế tồn tại khách quan, chính sách kinh tế là sản phẩm chủ quan của con người"
     },
-    "dap_an_dung": "B",
+    "dap_an_dung": "D",
     "giai_thich": "Quy luật kinh tế tồn tại khách quan, không phụ thuộc vào ý muốn con người. Còn chính sách kinh tế là sản phẩm chủ quan được ban hành dựa trên việc vận dụng quy luật."
   },
   {
@@ -112,23 +112,23 @@
     "cau_hoi": "Phương pháp nghiên cứu đặc thù và quan trọng nhất của Kinh tế chính trị Mác - Lênin là phương pháp nào?",
     "phuong_an": {
       "A": "Phương pháp quan sát thực nghiệm",
-      "B": "Phương pháp trừu tượng hóa khoa học",
-      "C": "Phương pháp mô hình hóa toán học",
+      "B": "Phương pháp mô hình hóa toán học",
+      "C": "Phương pháp trừu tượng hóa khoa học",
       "D": "Phương pháp điều tra xã hội học"
     },
-    "dap_an_dung": "B",
+    "dap_an_dung": "C",
     "giai_thich": "Phương pháp trừu tượng hóa khoa học là phương pháp nghiên cứu quan trọng chủ yếu của kinh tế chính trị, giúp gạt bỏ yếu tố ngẫu nhiên để nắm bản chất."
   },
   {
     "chu_de": "Chương 1",
     "cau_hoi": "Yêu cầu chính của phương pháp 'Trừu tượng hóa khoa học' là gì?",
     "phuong_an": {
-      "A": "Tạo ra các giả định hoàn toàn thoát thoát thực tế",
-      "B": "Gạt bỏ những yếu tố ngẫu nhiên, tạm thời để tách ra những yếu tố bền vững, điển hình của đối tượng",
-      "C": "Tính toán số liệu thống kê quy mô lớn",
+      "A": "Tạo ra các giả định hoàn toàn thoát khỏi thực tế",
+      "B": "Tính toán số liệu thống kê quy mô lớn",
+      "C": "Gạt bỏ những yếu tố ngẫu nhiên, tạm thời để tách ra những yếu tố bền vững, điển hình của đối tượng",
       "D": "Kết hợp phân tích lịch sử các cuộc cách mạng"
     },
-    "dap_an_dung": "B",
+    "dap_an_dung": "C",
     "giai_thich": "Trừu tượng hóa khoa học là việc gạt bỏ những yếu tố ngẫu nhiên, bề ngoài để rút ra những phạm trù kinh tế mang tính bản chất."
   },
   {
@@ -147,12 +147,12 @@
     "chu_de": "Chương 1",
     "cau_hoi": "Chức năng nhận thức của Kinh tế chính trị Mác - Lênin giúp người học điều gì?",
     "phuong_an": {
-      "A": "Cung cấp tri thức bản chất về các bản chất hiện tượng và quy luật kinh tế",
+      "A": "Bỏ qua các nguyên lý kinh tế thị trường",
       "B": "Thay thế các bộ luật kinh tế của nhà nước",
       "C": "Trực tiếp điều hành các hoạt động kinh doanh tư nhân",
-      "D": "Bỏ qua các nguyên lý kinh tế thị trường"
+      "D": "Cung cấp tri thức về bản chất của các hiện tượng và quy luật kinh tế"
     },
-    "dap_an_dung": "A",
+    "dap_an_dung": "D",
     "giai_thich": "Chức năng nhận thức giúp cung cấp tri thức lý luận khoa học về bản chất các quá trình và quy luật kinh tế vận động trong xã hội."
   },
   {
@@ -172,11 +172,11 @@
     "cau_hoi": "Phương thức sản xuất là sự thống nhất biện chứng giữa hai yếu tố nào?",
     "phuong_an": {
       "A": "Cơ sở hạ tầng và Kiến trúc thượng tầng",
-      "B": "Lực lượng sản xuất và Quan hệ sản xuất",
+      "B": "Sản xuất và Tiêu dùng",
       "C": "Tồn tại xã hội và Ý thức xã hội",
-      "D": "Sản xuất và Tiêu dùng"
+      "D": "Lực lượng sản xuất và Quan hệ sản xuất"
     },
-    "dap_an_dung": "B",
+    "dap_an_dung": "D",
     "giai_thich": "Phương thức sản xuất là sự thống nhất hữu cơ giữa Lực lượng sản xuất (mặt kỹ thuật/người-tự nhiên) và Quan hệ sản xuất (mặt kinh tế-xã hội)."
   },
   {
@@ -184,23 +184,23 @@
     "cau_hoi": "Sản xuất hàng hóa là kiểu tổ chức kinh tế mà ở đó sản phẩm được làm ra nhằm mục đích gì?",
     "phuong_an": {
       "A": "Trực tiếp phục vụ nhu cầu tiêu dùng của người sản xuất",
-      "B": "Để trao đổi, mua bán trên thị trường",
-      "C": "Để dự trữ cho các đợt thiên tai",
+      "B": "Để dự trữ cho các đợt thiên tai",
+      "C": "Để trao đổi, mua bán trên thị trường",
       "D": "Để biếu tặng cho xã hội"
     },
-    "dap_an_dung": "B",
+    "dap_an_dung": "C",
     "giai_thich": "Khái niệm sản xuất hàng hóa: Là kiểu tổ chức kinh tế mà sản phẩm được sản xuất ra không phải để tiêu dùng cho chính người tạo ra nó mà để trao đổi, mua bán."
   },
   {
     "chu_de": "Chương 2",
     "cau_hoi": "Hai điều kiện quyết định sự ra đời và tồn tại của sản xuất hàng hóa là gì?",
     "phuong_an": {
-      "A": "Phân công lao động xã hội và Sự tách biệt về mặt kinh tế của các chủ thể sản xuất",
+      "A": "Có máy móc hiện đại và nguồn vốn lớn",
       "B": "Sự xuất hiện của tiền tệ và thị trường",
-      "C": "Có máy móc hiện đại và nguồn vốn lớn",
+      "C": "Phân công lao động xã hội và Sự tách biệt về mặt kinh tế của các chủ thể sản xuất",
       "D": "Sự xuất hiện của nhà nước và pháp luật"
     },
-    "dap_an_dung": "A",
+    "dap_an_dung": "C",
     "giai_thich": "Sản xuất hàng hóa chỉ ra đời khi có đủ 2 điều kiện: Phân công lao động xã hội (mỗi người làm 1 nghề) và Sự tách biệt về mặt kinh tế giữa những người sản xuất dựa trên sở hữu."
   },
   {
@@ -220,11 +220,11 @@
     "cau_hoi": "Giá trị sử dụng của hàng hóa được hiểu là gì?",
     "phuong_an": {
       "A": "Lao động xã hội của người sản xuất kết tinh trong hàng hóa",
-      "B": "Công dụng của vật phẩm có thể thỏa mãn nhu cầu nào đó của con người",
+      "B": "Chi phí mua nguyên vật liệu",
       "C": "Số tiền bán được của sản phẩm",
-      "D": "Chi phí mua nguyên vật liệu"
+      "D": "Công dụng của vật phẩm có thể thỏa mãn nhu cầu nào đó của con người"
     },
-    "dap_an_dung": "B",
+    "dap_an_dung": "D",
     "giai_thich": "Giá trị sử dụng là thuộc tính tự nhiên của hàng hóa, phản ánh công dụng của vật phẩm nhằm thỏa mãn nhu cầu vật chất hoặc tinh thần."
   },
   {
@@ -244,11 +244,11 @@
     "cau_hoi": "Tính hai mặt của lao động sản xuất hàng hóa do C. Mác phát hiện bao gồm những gì?",
     "phuong_an": {
       "A": "Lao động quá khứ và Lao động sống",
-      "B": "Lao động cụ thể và Lao động trừu tượng",
-      "C": "Lao động giản đơn và Lao động phức tạp",
+      "B": "Lao động giản đơn và Lao động phức tạp",
+      "C": "Lao động cụ thể và Lao động trừu tượng",
       "D": "Lao động tư nhân và Lao động xã hội"
     },
-    "dap_an_dung": "B",
+    "dap_an_dung": "C",
     "giai_thich": "C. Mác là người đầu tiên phát hiện ra tính hai mặt của lao động sản xuất hàng hóa: Lao động cụ thể tạo ra giá trị sử dụng và Lao động trừu tượng tạo nên giá trị."
   },
   {
@@ -280,11 +280,11 @@
     "cau_hoi": "Lượng giá trị của một đơn vị hàng hóa được đo lường bằng thước đo nào?",
     "phuong_an": {
       "A": "Thời gian lao động cá biệt của từng người sản xuất",
-      "B": "Thời gian lao động xã hội cần thiết",
+      "B": "Thời gian lưu thông trên thị trường",
       "C": "Thời gian máy móc vận hành",
-      "D": "Thời gian lưu thông trên thị trường"
+      "D": "Thời gian lao động xã hội cần thiết"
     },
-    "dap_an_dung": "B",
+    "dap_an_dung": "D",
     "giai_thich": "Lượng giá trị hàng hóa không đo bằng thời gian cá biệt mà được đo bằng Thời gian lao động xã hội cần thiết."
   },
   {
@@ -340,11 +340,11 @@
     "cau_hoi": "Thói quen tích trữ tiền vàng của người dân phản ánh chức năng nào của tiền tệ?",
     "phuong_an": {
       "A": "Phương tiện lưu thông",
-      "B": "Phương tiện cất trữ",
+      "B": "Thước đo giá trị",
       "C": "Phương tiện thanh toán",
-      "D": "Thước đo giá trị"
+      "D": "Phương tiện cất trữ"
     },
-    "dap_an_dung": "B",
+    "dap_an_dung": "D",
     "giai_thich": "Khi tiền rút khỏi lưu thông và đi vào cất trữ dưới dạng vàng/tiền có giá trị thực, tiền đang thực hiện chức năng phương tiện cất trữ."
   },
   {
@@ -435,36 +435,36 @@
     "chu_de": "Chương 2",
     "cau_hoi": "[Bài tập Dạng 3 - Lần 1] Để tái sản xuất sức lao động, công nhân cần các chi phí: Lương thực 8 đvtt/ngày; Đồ dùng gia đình 600 đvtt/năm; Quần áo cá nhân 200 đvtt/năm; Nhà ở 122 đvtt/tháng; Giải trí 25 đvtt/tháng. Biết 1 năm = 365 ngày, 1 tháng = 30 ngày. Tính giá trị sức lao động 1 ngày?",
     "phuong_an": {
-      "A": "15,09 đvtt/ngày",
+      "A": "14,78 đvtt/ngày",
       "B": "17,02 đvtt/ngày",
       "C": "13,02 đvtt/ngày",
-      "D": "14,78 đvtt/ngày"
+      "D": "15,09 đvtt/ngày"
     },
-    "dap_an_dung": "A",
+    "dap_an_dung": "D",
     "giai_thich": "Giá trị 1 ngày = 8 + (600+200)/365 + (122+25)/30 = 8 + 2,19 + 4,90 = 15,09 đvtt/ngày."
   },
   {
     "chu_de": "Chương 2",
     "cau_hoi": "[Bài tập Dạng 3 - Lần 2] Để tái sản xuất sức lao động, người lao động cần: Ăn uống 8 đvtt/ngày; Đồ dùng gia đình & cá nhân 800 đvtt/năm; Nhà ở & Giải trí 147 đvtt/tháng. (Quy đổi: 365 ngày/năm, 30 ngày/tháng). Giá trị sức lao động trong 1 ngày xấp xỉ bằng bao nhiêu?",
     "phuong_an": {
-      "A": "15,09 đvtt/ngày",
+      "A": "16,20 đvtt/ngày",
       "B": "18,50 đvtt/ngày",
       "C": "12,10 đvtt/ngày",
-      "D": "16,20 đvtt/ngày"
+      "D": "15,09 đvtt/ngày"
     },
-    "dap_an_dung": "A",
+    "dap_an_dung": "D",
     "giai_thich": "Chi phí ngày = 8 + 800/365 + 147/30 = 8 + 2,19 + 4,90 = 15,09 đvtt/ngày."
   },
   {
     "chu_de": "Chương 2",
     "cau_hoi": "[Bài tập Dạng 3 - Lần 3] Theo tính toán nhu cầu sinh hoạt của người lao động trong năm: ăn uống 8 đvtt/ngày, đồ dùng gia đình 600 đvtt/năm, trang phục 200 đvtt/năm, nhà ở 122 đvtt/tháng, văn hóa giải trí 25 đvtt/tháng. Đáp án nào đúng nhất về giá trị sức lao động 1 ngày?",
     "phuong_an": {
-      "A": "15,09 đvtt/ngày",
+      "A": "17,02 đvtt/ngày",
       "B": "13,02 đvtt/ngày",
-      "C": "17,02 đvtt/ngày",
+      "C": "15,09 đvtt/ngày",
       "D": "19,00 đvtt/ngày"
     },
-    "dap_an_dung": "A",
+    "dap_an_dung": "C",
     "giai_thich": "Cộng chi phí 1 ngày = 8 + (800/365) + (147/30) = 15,09 đvtt."
   },
   {
@@ -508,11 +508,11 @@
     "cau_hoi": "Chủ thể nào đóng vai trò là cầu nối trung gian kết nối giữa người sản xuất và người tiêu dùng trên thị trường?",
     "phuong_an": {
       "A": "Chủ thể nhà nước",
-      "B": "Các chủ thể trung gian (thương nhân, môi giới, ngân hàng)",
-      "C": "Người tiêu dùng trực tiếp",
+      "B": "Người tiêu dùng trực tiếp",
+      "C": "Các chủ thể trung gian (thương nhân, môi giới, ngân hàng)",
       "D": "Người công nhân làm thuê"
     },
-    "dap_an_dung": "B",
+    "dap_an_dung": "C",
     "giai_thich": "Các chủ thể trung gian đóng vai trò kết nối, gia tăng tính thông suốt cho các giao dịch giữa người sản xuất và người tiêu dùng."
   },
   {
@@ -520,11 +520,11 @@
     "cau_hoi": "Dịch vụ khác với các hàng hóa thông thường ở đặc điểm cốt lõi nào?",
     "phuong_an": {
       "A": "Dịch vụ không có giá trị sử dụng",
-      "B": "Quá trình sản xuất và tiêu dùng dịch vụ diễn ra đồng thời",
+      "B": "Dịch vụ không tuân theo quy luật giá trị",
       "C": "Dịch vụ không tốn lao động sản xuất",
-      "D": "Dịch vụ không tuân theo quy luật giá trị"
+      "D": "Quá trình sản xuất và tiêu dùng dịch vụ diễn ra đồng thời"
     },
-    "dap_an_dung": "B",
+    "dap_an_dung": "D",
     "giai_thich": "Dịch vụ là hàng hóa vô hình, có đặc điểm đặc thù là quá trình sản xuất và quá trình tiêu dùng diễn ra đồng thời."
   },
   {
@@ -543,36 +543,36 @@
     "chu_de": "Chương 2",
     "cau_hoi": "Đặc trưng cơ bản nhất của Cơ chế thị trường là gì?",
     "phuong_an": {
-      "A": "Giá cả do thị trường quyết định thông qua tương tác cung - cầu",
+      "A": "Bán hàng hóa không tính đến chi phí",
       "B": "Nhà nước quy định giá mua bán",
-      "C": "Bán hàng hóa không tính đến chi phí",
+      "C": "Giá cả do thị trường quyết định thông qua tương tác cung - cầu",
       "D": "Sản xuất không cần quan tâm đến người tiêu dùng"
     },
-    "dap_an_dung": "A",
+    "dap_an_dung": "C",
     "giai_thich": "Cơ chế thị trường vận hành khách quan, trong đó giá cả hình thành tự do trên thị trường do sự tương tác giữa cung và cầu."
   },
   {
     "chu_de": "Chương 2",
     "cau_hoi": "[Bài tập Dạng 4 - Lần 1] Tổng giá cả hàng hóa đem ra lưu thông trên thị trường là 120 tỷ USD. Số vòng luân chuyển trung bình của tiền tệ là 6 vòng/năm. Số lượng tiền cần thiết cho lưu thông (M) là bao nhiêu?",
     "phuong_an": {
-      "A": "20 tỷ USD",
+      "A": "24 tỷ USD",
       "B": "720 tỷ USD",
       "C": "120 tỷ USD",
-      "D": "24 tỷ USD"
+      "D": "20 tỷ USD"
     },
-    "dap_an_dung": "A",
+    "dap_an_dung": "D",
     "giai_thich": "Công thức M = (P x Q) / V = 120 / 6 = 20 tỷ USD."
   },
   {
     "chu_de": "Chương 2",
     "cau_hoi": "[Bài tập Dạng 4 - Lần 2] Tổng giá cả hàng hóa dịch vụ cần lưu thông trong năm là 180 tỷ USD, số vòng quay trung bình của tiền tệ V = 5 vòng. Lượng tiền giấy cần phát hành cho lưu thông là bao nhiêu?",
     "phuong_an": {
-      "A": "36 tỷ USD",
+      "A": "30 tỷ USD",
       "B": "900 tỷ USD",
-      "C": "30 tỷ USD",
+      "C": "36 tỷ USD",
       "D": "45 tỷ USD"
     },
-    "dap_an_dung": "A",
+    "dap_an_dung": "C",
     "giai_thich": "M = (P x Q) / V = 180 / 5 = 36 tỷ USD."
   },
   {
@@ -592,11 +592,11 @@
     "cau_hoi": "Hàng hóa sức lao động khác với hàng hóa thông thường ở điểm đặc biệt nào dưới đây?",
     "phuong_an": {
       "A": "Có thể mua bán nhiều lần",
-      "B": "Khi sử dụng, nó tạo ra một lượng giá trị mới lớn hơn giá trị của bản thân nó",
-      "C": "Giá trị của nó không bao giờ thay đổi",
+      "B": "Giá trị của nó không bao giờ thay đổi",
+      "C": "Khi sử dụng, nó tạo ra một lượng giá trị mới lớn hơn giá trị của bản thân nó",
       "D": "Không tốn chi phí nuôi dưỡng"
     },
-    "dap_an_dung": "B",
+    "dap_an_dung": "C",
     "giai_thich": "Đặc tính độc nhất của hàng hóa sức lao động là khi sử dụng (lao động), nó tạo ra giá trị mới lớn hơn giá trị của chính sức lao động đó."
   },
   {
@@ -627,12 +627,12 @@
     "chu_de": "Chương 3",
     "cau_hoi": "Điều kiện để sức lao động trở thành hàng hóa là gì?",
     "phuong_an": {
-      "A": "Người lao động được tự do về thân thể và không có tư liệu sản xuất",
+      "A": "Người lao động có nhà xưởng nhưng thiếu nguyên liệu",
       "B": "Người lao động có đầy đủ tư liệu sản xuất và tự do thân thể",
       "C": "Người lao động bị phụ thuộc vào chủ xưởng và có vốn",
-      "D": "Người lao động có nhà xưởng nhưng thiếu nguyên liệu"
+      "D": "Người lao động được tự do về thân thể và không có tư liệu sản xuất"
     },
-    "dap_an_dung": "A",
+    "dap_an_dung": "D",
     "giai_thich": "Sức lao động trở thành hàng hóa khi người lao động tự do về thân thể và bị tước đoạt hết tư liệu sản xuất."
   },
   {
@@ -652,11 +652,11 @@
     "cau_hoi": "Tư bản bất biến (c) là bộ phận tư bản dùng để mua yếu tố nào?",
     "phuong_an": {
       "A": "Sức lao động",
-      "B": "Tư liệu sản xuất",
+      "B": "Cổ phiếu và trái phiếu",
       "C": "Hàng hóa tiêu dùng",
-      "D": "Cổ phiếu và trái phiếu"
+      "D": "Tư liệu sản xuất"
     },
-    "dap_an_dung": "B",
+    "dap_an_dung": "D",
     "giai_thich": "Tư bản bất biến (c) là bộ phận tư bản biến thành tư liệu sản xuất (máy móc, nhà xưởng, nguyên nhiên vật liệu), giá trị không đổi."
   },
   {
@@ -700,11 +700,11 @@
     "cau_hoi": "Tỷ suất giá trị thặng dư (m') phản ánh điều gì?",
     "phuong_an": {
       "A": "Quy mô bóc lột của tư bản",
-      "B": "Trình độ bóc lột của tư bản đối với công nhân",
+      "B": "Tốc độ chu chuyển của tư bản",
       "C": "Mức độ hiệu quả đầu tư vốn",
-      "D": "Tốc độ chu chuyển của tư bản"
+      "D": "Trình độ bóc lột của tư bản đối với công nhân"
     },
-    "dap_an_dung": "B",
+    "dap_an_dung": "D",
     "giai_thich": "m' = (m/v)*100% phản ánh trình độ bóc lột; còn M = m'*V phản ánh quy mô bóc lột."
   },
   {
@@ -724,11 +724,11 @@
     "cau_hoi": "Phương pháp sản xuất giá trị thặng dư tuyệt đối được thực hiện bằng cách nào?",
     "phuong_an": {
       "A": "Rút ngắn thời gian lao động tất yếu",
-      "B": "Kéo dài ngày lao động vượt quá thời gian lao động tất yếu",
+      "B": "Ứng dụng máy móc hiện đại",
       "C": "Tăng năng suất lao động xã hội",
-      "D": "Ứng dụng máy móc hiện đại"
+      "D": "Kéo dài ngày lao động vượt quá thời gian lao động tất yếu"
     },
-    "dap_an_dung": "B",
+    "dap_an_dung": "D",
     "giai_thich": "Thặng dư tuyệt đối thu được bằng cách kéo dài ngày lao động (hoặc tăng cường độ) trong khi thời gian tất yếu giữ nguyên."
   },
   {
@@ -736,11 +736,11 @@
     "cau_hoi": "Phương pháp sản xuất giá trị thặng dư tương đối được thực hiện bằng cách nào?",
     "phuong_an": {
       "A": "Kéo dài ngày lao động",
-      "B": "Rút ngắn thời gian lao động tất yếu dựa trên tăng năng suất lao động xã hội",
+      "B": "Cắt giảm tiền lương thực tế",
       "C": "Tăng giờ làm ban đêm",
-      "D": "Cắt giảm tiền lương thực tế"
+      "D": "Rút ngắn thời gian lao động tất yếu dựa trên tăng năng suất lao động xã hội"
     },
-    "dap_an_dung": "B",
+    "dap_an_dung": "D",
     "giai_thich": "Thặng dư tương đối thu được bằng cách rút ngắn thời gian lao động tất yếu nhờ tăng năng suất lao động xã hội, độ dài ngày lao động không đổi."
   },
   {
@@ -748,11 +748,11 @@
     "cau_hoi": "Giá trị thặng dư siêu ngạch là gì?",
     "phuong_an": {
       "A": "Phần giá trị thặng dư thu được do kéo dài ngày làm việc",
-      "B": "Phần giá trị thặng dư vượt trội do giá trị cá biệt thấp hơn giá trị xã hội",
+      "B": "Lợi tức thu được từ cho vay",
       "C": "Địa tô thu được từ nông nghiệp",
-      "D": "Lợi tức thu được từ cho vay"
+      "D": "Phần giá trị thặng dư vượt trội do giá trị cá biệt thấp hơn giá trị xã hội"
     },
-    "dap_an_dung": "B",
+    "dap_an_dung": "D",
     "giai_thich": "Giá trị thặng dư siêu ngạch do cải tiến kỹ thuật ở xí nghiệp cá biệt làm giá trị cá biệt thấp hơn giá trị xã hội."
   },
   {
@@ -783,12 +783,12 @@
     "chu_de": "Chương 3",
     "cau_hoi": "Cấu tạo hữu cơ của tư bản là gì?",
     "phuong_an": {
-      "A": "Tỷ lệ c/v phản ánh sự biến đổi của cấu tạo kỹ thuật",
+      "A": "Tỷ lệ v/m",
       "B": "Tỷ lệ c1/c2",
       "C": "Tỷ lệ (c+v)/m",
-      "D": "Tỷ lệ v/m"
+      "D": "Tỷ lệ c/v phản ánh sự biến đổi của cấu tạo kỹ thuật"
     },
-    "dap_an_dung": "A",
+    "dap_an_dung": "D",
     "giai_thich": "Cấu tạo hữu cơ tư bản là cấu tạo giá trị (c/v) do cấu tạo kỹ thuật quyết định và phản ánh sự thay đổi của cấu tạo kỹ thuật."
   },
   {
@@ -796,11 +796,11 @@
     "cau_hoi": "Chi phí sản xuất tư bản chủ nghĩa (k) bao gồm yếu tố nào?",
     "phuong_an": {
       "A": "c + v + m",
-      "B": "c + v",
+      "B": "c + m",
       "C": "v + m",
-      "D": "c + m"
+      "D": "c + v"
     },
-    "dap_an_dung": "B",
+    "dap_an_dung": "D",
     "giai_thich": "Chi phí sản xuất k = c + v (là chi phí thực tế mà nhà tư bản bỏ ra)."
   },
   {
@@ -832,11 +832,11 @@
     "cau_hoi": "Tư bản cố định (c1) có đặc điểm chu chuyển giá trị như thế nào?",
     "phuong_an": {
       "A": "Dịch chuyển toàn bộ một lần vào sản phẩm",
-      "B": "Dịch chuyển từng phần vào sản phẩm theo mức độ hao mòn",
+      "B": "Dịch chuyển nhanh hơn tư bản lưu động",
       "C": "Không dịch chuyển giá trị",
-      "D": "Dịch chuyển nhanh hơn tư bản lưu động"
+      "D": "Dịch chuyển từng phần vào sản phẩm theo mức độ hao mòn"
     },
-    "dap_an_dung": "B",
+    "dap_an_dung": "D",
     "giai_thich": "Tư bản cố định (máy móc, nhà xưởng) tham gia toàn bộ vào sản xuất nhưng giá trị dịch chuyển từng phần theo độ hao mòn."
   },
   {
@@ -856,11 +856,11 @@
     "cau_hoi": "Ngày làm việc 8 giờ, thời gian lao động tất yếu là 2 giờ. Nếu nhà tư bản kéo dài ngày làm việc lên 10 giờ thì tỷ suất giá trị thặng dư (m') mới là bao nhiêu?",
     "phuong_an": {
       "A": "300%",
-      "B": "400%",
+      "B": "200%",
       "C": "500%",
-      "D": "200%"
+      "D": "400%"
     },
-    "dap_an_dung": "B",
+    "dap_an_dung": "D",
     "giai_thich": "t = 2h. Ngày làm 10h => t' mới = 10 - 2 = 8h. m' mới = (8/2)*100% = 400%."
   },
   {
@@ -880,11 +880,11 @@
     "cau_hoi": "Một xí nghiệp thuê 100 công nhân, tiền lương mỗi công nhân v = 50 USD, tỷ suất giá trị thặng dư m' = 200%. Khối lượng giá trị thặng dư (M) thu được là bao nhiêu?",
     "phuong_an": {
       "A": "5.000 USD",
-      "B": "10.000 USD",
+      "B": "20.000 USD",
       "C": "15.000 USD",
-      "D": "20.000 USD"
+      "D": "10.000 USD"
     },
-    "dap_an_dung": "B",
+    "dap_an_dung": "D",
     "giai_thich": "Tổng V = 100 x 50 = 5.000 USD. M = m' x V = 200% x 5.000 = 10.000 USD."
   },
   {
@@ -892,11 +892,11 @@
     "cau_hoi": "Một xí nghiệp có tổng tư bản khả biến V = 20.000 USD, m' = 150%. Khối lượng giá trị thặng dư M thu được là bao nhiêu?",
     "phuong_an": {
       "A": "20.000 USD",
-      "B": "30.000 USD",
+      "B": "15.000 USD",
       "C": "40.000 USD",
-      "D": "15.000 USD"
+      "D": "30.000 USD"
     },
-    "dap_an_dung": "B",
+    "dap_an_dung": "D",
     "giai_thich": "M = m' x V = 150% x 20.000 = 30.000 USD."
   },
   {
@@ -940,11 +940,11 @@
     "cau_hoi": "Chi phí sản xuất k = 9.600 USD, cấu tạo hữu cơ c/v = 5/3. Giá trị tư bản khả biến v là bao nhiêu?",
     "phuong_an": {
       "A": "6.000 USD",
-      "B": "3.600 USD",
-      "C": "4.800 USD",
+      "B": "4.800 USD",
+      "C": "3.600 USD",
       "D": "2.400 USD"
     },
-    "dap_an_dung": "B",
+    "dap_an_dung": "C",
     "giai_thich": "c + v = 9.600, c = (5/3)v => (8/3)v = 9.600 => v = 3.600 USD (c = 6.000 USD)."
   },
   {
@@ -1083,12 +1083,12 @@
     "chu_de": "Chương 3",
     "cau_hoi": "Nếu địa tô R = 3.000 USD/năm và tỷ suất lợi tức ngân hàng giảm từ 6% xuống 5%, giá cả đất đai thay đổi như thế nào?",
     "phuong_an": {
-      "A": "Tăng từ 50.000 USD lên 60.000 USD",
+      "A": "Tăng lên 100.000 USD",
       "B": "Giảm từ 60.000 USD xuống 50.000 USD",
       "C": "Không thay đổi",
-      "D": "Tăng lên 100.000 USD"
+      "D": "Tăng từ 50.000 USD lên 60.000 USD"
     },
-    "dap_an_dung": "A",
+    "dap_an_dung": "D",
     "giai_thich": "Ban đầu = 3.000/6% = 50.000 USD. Sau khi z' = 5% => 3.000/5% = 60.000 USD (giá đất tăng 10.000 USD)."
   },
   {
@@ -1144,11 +1144,11 @@
     "cau_hoi": "Địa tô tuyệt đối có nguồn gốc từ đâu?",
     "phuong_an": {
       "A": "Độ phì nhiêu tự nhiên của đất",
-      "B": "Độc quyền sở hữu ruộng đất cản trở sự tự do di chuyển tư bản vào nông nghiệp",
-      "C": "Thâm canh tăng năng suất",
+      "B": "Thâm canh tăng năng suất",
+      "C": "Độc quyền sở hữu ruộng đất cản trở sự tự do di chuyển tư bản vào nông nghiệp",
       "D": "Vị trí địa lý gần trung tâm"
     },
-    "dap_an_dung": "B",
+    "dap_an_dung": "C",
     "giai_thich": "Địa tô tuyệt đối do độc quyền sở hữu ruộng đất cản trở sự di chuyển tự do của tư bản, buộc nhà tư bản nông nghiệp phải nộp."
   },
   {
@@ -1156,11 +1156,11 @@
     "cau_hoi": "Quy luật kinh tế tuyệt đối của chủ nghĩa tư bản là quy luật nào?",
     "phuong_an": {
       "A": "Quy luật giá trị",
-      "B": "Quy luật giá trị thặng dư",
-      "C": "Quy luật lưu thông tiền tệ",
+      "B": "Quy luật lưu thông tiền tệ",
+      "C": "Quy luật giá trị thặng dư",
       "D": "Quy luật cạnh tranh"
     },
-    "dap_an_dung": "B",
+    "dap_an_dung": "C",
     "giai_thich": "Quy luật giá trị thặng dư là quy luật kinh tế tuyệt đối của CNTB, quyết định sự ra đời, phát triển và suy vong của CNTB."
   },
   {
@@ -1179,12 +1179,12 @@
     "chu_de": "Chương 3",
     "cau_hoi": "Khi giá cả hàng hóa bằng giá cả sản xuất (GCSX = k + p_bình_quân), mối quan hệ giữa Giá cả sản xuất và Giá trị trên toàn xã hội là gì?",
     "phuong_an": {
-      "A": "Tổng giá cả sản xuất luôn bằng Tổng giá trị hàng hóa",
+      "A": "Không có mối quan hệ nào",
       "B": "Tổng giá cả sản xuất lớn hơn tổng giá trị",
       "C": "Tổng giá cả sản xuất nhỏ hơn tổng giá trị",
-      "D": "Không có mối quan hệ nào"
+      "D": "Tổng giá cả sản xuất luôn bằng Tổng giá trị hàng hóa"
     },
-    "dap_an_dung": "A",
+    "dap_an_dung": "D",
     "giai_thich": "Xét trên toàn xã hội, tổng giá cả sản xuất luôn bằng tổng giá trị hàng hóa, và tổng lợi nhuận bình quân bằng tổng giá trị thặng dư."
   },
   {
@@ -1215,12 +1215,12 @@
     "chu_de": "Chương 4",
     "cau_hoi": "Nguyên nhân cốt lõi dẫn đến sự ra đời của các tổ chức độc quyền trong chủ nghĩa tư bản là gì?",
     "phuong_an": {
-      "A": "Do sự phát triển của lực lượng sản xuất và sự tập trung sản xuất dưới tác động của cạnh tranh và khủng hoảng",
+      "A": "Do sự xuất hiện của hình thức sở hữu nhà nước",
       "B": "Do chính sách can thiệp trực tiếp của chính phủ tư sản",
       "C": "Do sự suy giảm năng suất lao động trong các xí nghiệp nhỏ",
-      "D": "Do sự xuất hiện của hình thức sở hữu nhà nước"
+      "D": "Do sự phát triển của lực lượng sản xuất và sự tập trung sản xuất dưới tác động của cạnh tranh và khủng hoảng"
     },
-    "dap_an_dung": "A",
+    "dap_an_dung": "D",
     "giai_thich": "Sự phát triển của lực lượng sản xuất, sự tác động của các quy luật kinh tế thị trường, cùng với cạnh tranh gay gắt và khủng hoảng kinh tế đã thúc đẩy quá trình tích tụ và tập trung sản xuất, làm xuất hiện các tổ chức độc quyền."
   },
   {
@@ -1239,24 +1239,24 @@
     "chu_de": "Chương 4",
     "cau_hoi": "Hình thức liên minh độc quyền nào mà các xí nghiệp tham gia độc lập cả về sản xuất lẫn lưu thông hàng hóa?",
     "phuong_an": {
-      "A": "Các-ten (Cartel)",
+      "A": "Công-xơ-nhi (Concern)",
       "B": "Xanh-đi-ca (Syndicate)",
       "C": "Tờ-rớt (Trust)",
-      "D": "Công-xơ-nhi (Concern)"
+      "D": "Các-ten (Cartel)"
     },
-    "dap_an_dung": "A",
+    "dap_an_dung": "D",
     "giai_thich": "Các-ten là hình thức liên minh độc quyền sơ khai nhất, các thành viên thỏa thuận về giá cả, sản lượng nhưng hoàn toàn độc lập về cả sản xuất và lưu thông."
   },
   {
     "chu_de": "Chương 4",
     "cau_hoi": "Hình thức liên minh độc quyền nào mà các thành viên mất độc lập về lưu thông (mọi việc mua bán do một Ban quản trị chung đảm nhiệm) nhưng vẫn độc lập về sản xuất?",
     "phuong_an": {
-      "A": "Xanh-đi-ca (Syndicate)",
+      "A": "Tờ-rớt (Trust)",
       "B": "Các-ten (Cartel)",
-      "C": "Tờ-rớt (Trust)",
+      "C": "Xanh-đi-ca (Syndicate)",
       "D": "Conglomerate"
     },
-    "dap_an_dung": "A",
+    "dap_an_dung": "C",
     "giai_thich": "Xanh-đi-ca tập trung khâu lưu thông (mua nguyên liệu, bán hàng hóa) vào tay một ban quản trị chung, các xí nghiệp thành viên chỉ còn giữ độc lập về sản xuất."
   },
   {
@@ -1287,48 +1287,48 @@
     "chu_de": "Chương 4",
     "cau_hoi": "Nhóm nhỏ các nhà tư bản tài chính nắm quyền chi phối toàn bộ đời sống kinh tế - chính trị của xã hội tư bản được gọi là gì?",
     "phuong_an": {
-      "A": "Đầu sỏ tài chính (Tài phiệt)",
+      "A": "Chủ đất tư bản",
       "B": "Giai cấp tiểu tư sản",
-      "C": "Chủ đất tư bản",
+      "C": "Đầu sỏ tài chính (Tài phiệt)",
       "D": "Các nhà quản lý trung gian"
     },
-    "dap_an_dung": "A",
+    "dap_an_dung": "C",
     "giai_thich": "Đầu sỏ tài chính (hay tài phiệt) thống trị xã hội thông qua chế độ tham dự cổ phần và thao túng bộ máy nhà nước."
   },
   {
     "chu_de": "Chương 4",
     "cau_hoi": "Khác với giai đoạn tự do cạnh tranh (chủ yếu xuất khẩu hàng hóa), trong giai đoạn độc quyền, xuất khẩu yếu tố nào trở thành phổ biến?",
     "phuong_an": {
-      "A": "Xuất khẩu tư bản",
+      "A": "Xuất khẩu nguyên liệu thô",
       "B": "Xuất khẩu lao động giản đơn",
       "C": "Xuất khẩu nông sản",
-      "D": "Xuất khẩu nguyên liệu thô"
+      "D": "Xuất khẩu tư bản"
     },
-    "dap_an_dung": "A",
+    "dap_an_dung": "D",
     "giai_thich": "Xuất khẩu tư bản (mang tư bản ra nước ngoài đầu tư) là đặc điểm kinh tế nổi bật của độc quyền nhằm chiếm đoạt giá trị thặng dư cao ở các nước thu hút đầu tư."
   },
   {
     "chu_de": "Chương 4",
     "cau_hoi": "Xuất khẩu tư bản trực tiếp (FDI) là hình thức đầu tư như thế nào?",
     "phuong_an": {
-      "A": "Nhà tư bản trực tiếp xây dựng xí nghiệp, nhà máy ở nước ngoài để kinh doanh",
+      "A": "Viện trợ không hoàn lại cho các nước phát triển",
       "B": "Cho chính phủ nước ngoài vay tiền thu lợi tức",
       "C": "Mua trái phiếu chính phủ nước ngoài",
-      "D": "Viện trợ không hoàn lại cho các nước phát triển"
+      "D": "Nhà tư bản trực tiếp xây dựng xí nghiệp, nhà máy ở nước ngoài để kinh doanh"
     },
-    "dap_an_dung": "A",
+    "dap_an_dung": "D",
     "giai_thich": "Đầu tư trực tiếp nước ngoài (FDI) là việc nhà tư bản mang vốn sang nước khác tự xây dựng cơ sở sản xuất kinh doanh và trực tiếp quản lý."
   },
   {
     "chu_de": "Chương 4",
     "cau_hoi": "Khẳng định nào sau đây là ĐÚNG về mối quan hệ giữa độc quyền và cạnh tranh?",
     "phuong_an": {
-      "A": "Độc quyền sinh ra từ cạnh tranh tự do nhưng không thủ tiêu cạnh tranh, mà làm cho cạnh tranh gay gắt hơn",
+      "A": "Độc quyền khiến cạnh tranh trở nên ôn hòa và dễ thỏa hiệp hơn",
       "B": "Độc quyền xuất hiện sẽ thủ tiêu hoàn toàn cạnh tranh tự do",
       "C": "Cạnh tranh chỉ tồn tại giữa các xí nghiệp nhỏ, không tồn tại giữa các tổ chức độc quyền",
-      "D": "Độc quyền khiến cạnh tranh trở nên ôn hòa và dễ thỏa hiệp hơn"
+      "D": "Độc quyền sinh ra từ cạnh tranh tự do nhưng không thủ tiêu cạnh tranh, mà làm cho cạnh tranh gay gắt hơn"
     },
-    "dap_an_dung": "A",
+    "dap_an_dung": "D",
     "giai_thich": "Độc quyền không thủ tiêu cạnh tranh mà làm cho cạnh tranh thêm phức tạp, gay gắt (cạnh tranh giữa độc quyền với ngoài độc quyền, giữa các độc quyền với nhau)."
   },
   {
@@ -1359,12 +1359,12 @@
     "chu_de": "Chương 4",
     "cau_hoi": "Độc quyền nhà nước trong chủ nghĩa tư bản là sự kết hợp giữa các nhân tố nào?",
     "phuong_an": {
-      "A": "Sức mạnh của các tổ chức độc quyền tư nhân với sức mạnh của nhà nước tư sản",
+      "A": "Sức mạnh của các doanh nghiệp nhỏ với nhà nước",
       "B": "Sức mạnh của người lao động với nhà nước",
       "C": "Sức mạnh của các công đoàn quốc tế với nhà nước",
-      "D": "Sức mạnh của các doanh nghiệp nhỏ với nhà nước"
+      "D": "Sức mạnh của các tổ chức độc quyền tư nhân với sức mạnh của nhà nước tư sản"
     },
-    "dap_an_dung": "A",
+    "dap_an_dung": "D",
     "giai_thich": "Độc quyền nhà nước là sự kết hợp sức mạnh của các tổ chức độc quyền tư nhân với sức mạnh của bộ máy nhà nước tư sản thành một cơ chế thống nhất."
   },
   {
@@ -1383,12 +1383,12 @@
     "chu_de": "Chương 4",
     "cau_hoi": "Biểu hiện mới nào sau đây thuộc về tổ chức độc quyền trong điều kiện ngày nay?",
     "phuong_an": {
-      "A": "Sự xuất hiện của các tập đoàn đa quốc gia (TNCs) và các tổ chức độc quyền đa ngành (Concern, Conglomerate)",
+      "A": "Sự suy giảm hoàn toàn vai trò của tư bản tài chính",
       "B": "Sự biến mất hoàn toàn của các doanh nghiệp vừa và nhỏ",
-      "C": "Sự suy giảm hoàn toàn vai trò của tư bản tài chính",
+      "C": "Sự xuất hiện của các tập đoàn đa quốc gia (TNCs) và các tổ chức độc quyền đa ngành (Concern, Conglomerate)",
       "D": "Chỉ còn tồn tại hình thức liên minh Các-ten"
     },
-    "dap_an_dung": "A",
+    "dap_an_dung": "C",
     "giai_thich": "Ngày nay, các tổ chức độc quyền phát triển thành các công ty xuyên quốc gia (TNCs) và các tập đoàn kinh doanh đa ngành khổng lồ."
   },
   {
@@ -1431,48 +1431,48 @@
     "chu_de": "Chương 4",
     "cau_hoi": "Sự hình thành các trung tâm kinh tế lớn thế giới (Mỹ, EU, Nhật Bản) phản ánh đặc điểm kinh tế nào của độc quyền?",
     "phuong_an": {
-      "A": "Sự phân chia thế giới về kinh tế và lãnh thổ giữa các liên minh độc quyền và cường quốc",
+      "A": "Sự suy yếu của các công ty xuyên quốc gia",
       "B": "Sự giải thể của bộ máy độc quyền nhà nước",
       "C": "Sự tự do hóa hoàn toàn thị trường lao động",
-      "D": "Sự suy yếu của các công ty xuyên quốc gia"
+      "D": "Sự phân chia thế giới về kinh tế và lãnh thổ giữa các liên minh độc quyền và cường quốc"
     },
-    "dap_an_dung": "A",
+    "dap_an_dung": "D",
     "giai_thich": "Sự hình thành các khối kinh tế và trung tâm kinh tế thể hiện sự phân chia lại thị trường và phạm vi ảnh hưởng kinh tế - lãnh thổ toàn cầu."
   },
   {
     "chu_de": "Chương 4",
     "cau_hoi": "Tác động tiêu cực của độc quyền đối với nền kinh tế là gì?",
     "phuong_an": {
-      "A": "Khống chế giá cả, kìm hãm tiến bộ kỹ thuật trong một số trường hợp và làm gia tăng phân hóa giàu nghèo",
+      "A": "Làm cho sản xuất hàng hóa trở lại quy mô nhỏ",
       "B": "Triệt tiêu hoàn toàn nguy cơ khủng hoảng kinh tế",
       "C": "Giảm bớt bóc lột công nhân làm thuê",
-      "D": "Làm cho sản xuất hàng hóa trở lại quy mô nhỏ"
+      "D": "Khống chế giá cả, kìm hãm tiến bộ kỹ thuật trong một số trường hợp và làm gia tăng phân hóa giàu nghèo"
     },
-    "dap_an_dung": "A",
+    "dap_an_dung": "D",
     "giai_thich": "Độc quyền gây ra tác động tiêu cực: định giá độc quyền gây thiệt hại cho người tiêu dùng, kìm hãm cải tiến kỹ thuật nếu đe dọa lợi nhuận độc quyền."
   },
   {
     "chu_de": "Chương 4",
     "cau_hoi": "Khái niệm 'Thế lực tài phiệt' chỉ điều gì trong giai đoạn độc quyền?",
     "phuong_an": {
-      "A": "Sự chi phối của tầng lớp tư bản tài chính đối với cả kinh tế và bộ máy nhà nước",
+      "A": "Sự điều hành kinh tế của tập thể công nhân",
       "B": "Sự quản lý của các hiệp hội người tiêu dùng",
       "C": "Quyền lực thuộc về các liên đoàn lao động",
-      "D": "Sự điều hành kinh tế của tập thể công nhân"
+      "D": "Sự chi phối của tầng lớp tư bản tài chính đối với cả kinh tế và bộ máy nhà nước"
     },
-    "dap_an_dung": "A",
+    "dap_an_dung": "D",
     "giai_thich": "Tài phiệt chi phối chính trị thông qua chế độ tham dự cổ phần, chi phối ngân hàng và thâu tóm các quan chức nhà nước."
   },
   {
     "chu_de": "Chương 4",
     "cau_hoi": "Giá cả độc quyền bao gồm những thành tố nào?",
     "phuong_an": {
-      "A": "Chi phí sản xuất cộng với lợi nhuận độc quyền",
+      "A": "Bằng đúng giá cả sản xuất trong giai đoạn tự do cạnh tranh",
       "B": "Chi phí sản xuất trừ đi giá trị thặng dư",
       "C": "Chỉ bao gồm tiền lương của công nhân",
-      "D": "Bằng đúng giá cả sản xuất trong giai đoạn tự do cạnh tranh"
+      "D": "Chi phí sản xuất cộng với lợi nhuận độc quyền"
     },
-    "dap_an_dung": "A",
+    "dap_an_dung": "D",
     "giai_thich": "Giá cả độc quyền = Chi phí sản xuất (k) + Lợi nhuận độc quyền cao."
   },
   {
@@ -1491,24 +1491,24 @@
     "chu_de": "Chương 4",
     "cau_hoi": "Hình thức sở hữu nhà nước trong chủ nghĩa tư bản được hình thành qua con đường nào?",
     "phuong_an": {
-      "A": "Xây dựng xí nghiệp nhà nước bằng ngân sách và quốc hữu hóa xí nghiệp tư nhân",
+      "A": "Quyên góp từ các tổ chức từ thiện",
       "B": "Nhận đóng góp tự nguyện của công nhân",
       "C": "Tịch thu tài sản của nước ngoài mà không bồi thường",
-      "D": "Quyên góp từ các tổ chức từ thiện"
+      "D": "Xây dựng xí nghiệp nhà nước bằng ngân sách và quốc hữu hóa xí nghiệp tư nhân"
     },
-    "dap_an_dung": "A",
+    "dap_an_dung": "D",
     "giai_thich": "Sở hữu nhà nước TBCN hình thành do nhà nước mua lại (quốc hữu hóa) xí nghiệp tư nhân gặp khó khăn hoặc tự đầu tư xây dựng mới bằng tiền thuế."
   },
   {
     "chu_de": "Chương 4",
     "cau_hoi": "Sự vận động của độc quyền nhà nước trong giai đoạn hiện nay nhằm mục đích sâu xa là gì?",
     "phuong_an": {
-      "A": "Cứu nguy và tiếp tục duy trì sự tồn tại của chế độ tư bản chủ nghĩa",
+      "A": "Xóa bỏ hoàn toàn quy luật giá trị",
       "B": "Chuẩn bị cho sự sụp đổ nhanh chóng của chủ nghĩa tư bản",
       "C": "Chuyển giao chính quyền cho giai cấp vô sản",
-      "D": "Xóa bỏ hoàn toàn quy luật giá trị"
+      "D": "Cứu nguy và tiếp tục duy trì sự tồn tại của chế độ tư bản chủ nghĩa"
     },
-    "dap_an_dung": "A",
+    "dap_an_dung": "D",
     "giai_thich": "Độc quyền nhà nước là sự thích ứng của CNTB nhằm xoa dịu mâu thuẫn xã hội, chống khủng hoảng và bảo vệ chế độ TBCN."
   },
   {
@@ -1563,36 +1563,36 @@
     "chu_de": "Chương 5",
     "cau_hoi": "Các thành phần kinh tế nào hợp thành nòng cốt để xây dựng một nền kinh tế độc lập, tự chủ ở Việt Nam?",
     "phuong_an": {
-      "A": "Kinh tế nhà nước, kinh tế tập thể cùng với kinh tế tư nhân",
+      "A": "Kinh tế cá thể và kinh tế hộ gia đình",
       "B": "Chỉ có kinh tế có vốn đầu tư nước ngoài",
-      "C": "Kinh tế cá thể và kinh tế hộ gia đình",
+      "C": "Kinh tế nhà nước, kinh tế tập thể cùng với kinh tế tư nhân",
       "D": "Kinh tế phi chính thức"
     },
-    "dap_an_dung": "A",
+    "dap_an_dung": "C",
     "giai_thich": "Kinh tế nhà nước, kinh tế tập thể cùng với kinh tế tư nhân là nòng cốt để phát triển nền kinh tế độc lập, tự chủ."
   },
   {
     "chu_de": "Chương 5",
     "cau_hoi": "Hình thức phân phối nào giữ vai trò chủ đạo trong nền kinh tế thị trường định hướng XHCN ở Việt Nam?",
     "phuong_an": {
-      "A": "Phân phối theo kết quả lao động và hiệu quả kinh tế",
+      "A": "Chỉ phân phối theo vốn đóng góp",
       "B": "Phân phối bình quân cào bằng",
-      "C": "Chỉ phân phối theo vốn đóng góp",
+      "C": "Phân phối theo kết quả lao động và hiệu quả kinh tế",
       "D": "Phân phối theo may mắn và từ thiện"
     },
-    "dap_an_dung": "A",
+    "dap_an_dung": "C",
     "giai_thich": "Quan hệ phân phối ở nước ta thực hiện nhiều hình thức, trong đó phân phối theo lao động và hiệu quả kinh tế là chủ yếu."
   },
   {
     "chu_de": "Chương 5",
     "cau_hoi": "Đặc trưng về mặt quản lý của nền kinh tế thị trường định hướng XHCN ở Việt Nam là gì?",
     "phuong_an": {
-      "A": "Dưới sự lãnh đạo của Đảng Cộng sản Việt Nam và sự quản lý của Nhà nước pháp quyền XHCN",
+      "A": "Do Ban thư ký Liên Hợp Quốc điều hành",
       "B": "Để thị trường tự điều tiết hoàn toàn không có sự can thiệp của Nhà nước",
       "C": "Do các tập đoàn đa quốc gia chi phối và quản lý",
-      "D": "Do Ban thư ký Liên Hợp Quốc điều hành"
+      "D": "Dưới sự lãnh đạo của Đảng Cộng sản Việt Nam và sự quản lý của Nhà nước pháp quyền XHCN"
     },
-    "dap_an_dung": "A",
+    "dap_an_dung": "D",
     "giai_thich": "Nền KTTT ở nước ta bảo đảm định hướng XHCN nhờ sự lãnh đạo của Đảng và sự quản lý của Nhà nước vì lợi ích nhân dân."
   },
   {
@@ -1611,12 +1611,12 @@
     "chu_de": "Chương 5",
     "cau_hoi": "Thể chế kinh tế là gì?",
     "phuong_an": {
-      "A": "Là hệ thống đường lối, luật pháp, quy tắc và bộ máy quản lý điều chỉnh hành vi của các chủ thể kinh tế",
+      "A": "Chỉ bao gồm cơ chế giá cả trên thị trường",
       "B": "Chỉ bao gồm các văn bản luật do Quốc hội ban hành",
       "C": "Chỉ là các quy định riêng của từng doanh nghiệp",
-      "D": "Chỉ bao gồm cơ chế giá cả trên thị trường"
+      "D": "Là hệ thống đường lối, luật pháp, quy tắc và bộ máy quản lý điều chỉnh hành vi của các chủ thể kinh tế"
     },
-    "dap_an_dung": "A",
+    "dap_an_dung": "D",
     "giai_thich": "Thể chế kinh tế bao gồm hệ thống pháp luật, quy tắc xã hội, cơ chế vận hành và các chủ thể tham gia điều chỉnh hoạt động kinh tế."
   },
   {
@@ -1659,12 +1659,12 @@
     "chu_de": "Chương 5",
     "cau_hoi": "Khái niệm 'Nhóm lợi ích' (mang tính tích cực/trung tính) biểu hiện sự liên kết giữa các chủ thể như thế nào?",
     "phuong_an": {
-      "A": "Các cá nhân, tổ chức hoạt động trong cùng ngành, cùng lĩnh vực liên kết để thực hiện lợi ích chung chính đáng",
+      "A": "Sự chèn ép người tiêu dùng",
       "B": "Sự liên kết bất hợp pháp để tham nhũng chính sách",
-      "C": "Sự chèn ép người tiêu dùng",
+      "C": "Các cá nhân, tổ chức hoạt động trong cùng ngành, cùng lĩnh vực liên kết để thực hiện lợi ích chung chính đáng",
       "D": "Sự trốn thuế của doanh nghiệp"
     },
-    "dap_an_dung": "A",
+    "dap_an_dung": "C",
     "giai_thich": "'Nhóm lợi ích' hợp pháp là sự hợp tác giữa các chủ thể cùng ngành (như liên kết giữa nông dân - doanh nghiệp - nhà khoa học)."
   },
   {
@@ -1683,12 +1683,12 @@
     "chu_de": "Chương 5",
     "cau_hoi": "Tổ chức nào được xác định là quan trọng nhất đại diện bảo vệ quyền và lợi ích hợp pháp của người lao động ở Việt Nam?",
     "phuong_an": {
-      "A": "Công đoàn",
+      "A": "Hội doanh nhân trẻ",
       "B": "Hiệp hội doanh nghiệp",
-      "C": "Hội doanh nhân trẻ",
+      "C": "Công đoàn",
       "D": "Các công ty môi giới việc làm"
     },
-    "dap_an_dung": "A",
+    "dap_an_dung": "C",
     "giai_thich": "Công đoàn đại diện cho tập thể người lao động thương lượng, ký kết thỏa ước lao động tập thể và bảo vệ quyền lợi công nhân."
   },
   {
@@ -1719,7 +1719,7 @@
     "chu_de": "Chương 5",
     "cau_hoi": "Nội dung hoàn thiện thể chế về sở hữu ở Việt Nam hiện nay tập trung vào việc gì?",
     "phuong_an": {
-      "A": "Clarify quyền sở hữu, quyền quản lý, quyền sử dụng và bảo hộ quyền sở hữu tài sản hợp pháp của mọi chủ thể",
+      "A": "Làm rõ quyền sở hữu, quyền quản lý, quyền sử dụng và bảo hộ quyền sở hữu tài sản hợp pháp của mọi chủ thể",
       "B": "Xóa bỏ quyền sở hữu tư nhân đối với tài sản cá nhân",
       "C": "Cấm các doanh nghiệp nước ngoài sở hữu tài sản",
       "D": "Tập trung toàn bộ tài sản vào tay hộ gia đình"
@@ -1731,36 +1731,36 @@
     "chu_de": "Chương 5",
     "cau_hoi": "Khẳng định: 'Không có một mô hình kinh tế thị trường chung cho mọi quốc gia' là Đúng hay Sai?",
     "phuong_an": {
-      "A": "Đúng, vì mỗi quốc gia có điều kiện lịch sử, chính trị và truyền thống văn hóa cụ thể khác nhau",
+      "A": "Sai, vì kinh tế thị trường chỉ tồn tại ở các nước phát triển",
       "B": "Sai, vì mọi nước đều phải áp dụng mô hình kinh tế thị trường tự do kiểu Mỹ",
-      "C": "Sai, vì kinh tế thị trường chỉ tồn tại ở các nước phát triển",
+      "C": "Đúng, vì mỗi quốc gia có điều kiện lịch sử, chính trị và truyền thống văn hóa cụ thể khác nhau",
       "D": "Sai, vì các nước XHCN không được dùng kinh tế thị trường"
     },
-    "dap_an_dung": "A",
+    "dap_an_dung": "C",
     "giai_thich": "Mỗi quốc gia vận dụng mô hình KTTT phù hợp với điều kiện hoàn cảnh cụ thể (mô hình KTTT xã hội ở Đức, KTTT định hướng XHCN ở Việt Nam...)."
   },
   {
     "chu_de": "Chương 5",
     "cau_hoi": "Để phát triển đồng bộ các yếu tố thị trường ở Việt Nam, cần hoàn thiện các loại thị trường cơ bản nào?",
     "phuong_an": {
-      "A": "Thị trường hàng hóa - dịch vụ, thị trường lao động, thị trường tài chính - tiền tệ, thị trường bất động sản và KH-CN",
+      "A": "Chỉ phát triển thị trường vàng và ngoại tệ",
       "B": "Chỉ phát triển thị trường hàng hóa tiêu dùng",
-      "C": "Chỉ phát triển thị trường vàng và ngoại tệ",
+      "C": "Thị trường hàng hóa - dịch vụ, thị trường lao động, thị trường tài chính - tiền tệ, thị trường bất động sản và KH-CN",
       "D": "Xóa bỏ thị trường lao động"
     },
-    "dap_an_dung": "A",
+    "dap_an_dung": "C",
     "giai_thich": "Nền KTTT đòi hỏi sự phát triển đồng bộ của tất cả các loại thị trường nhân tố sản xuất và hàng hóa dịch vụ."
   },
   {
     "chu_de": "Chương 5",
     "cau_hoi": "Trong quan hệ giữa người lao động và người sử dụng lao động, mối quan hệ lợi ích thể hiện thông qua hợp đồng nào?",
     "phuong_an": {
-      "A": "Hợp đồng lao động và thỏa ước lao động tập thể",
+      "A": "Hợp đồng bảo hiểm nhân thọ",
       "B": "Hợp đồng mua bán nhà đất",
       "C": "Hợp đồng tín dụng ngân hàng",
-      "D": "Hợp đồng bảo hiểm nhân thọ"
+      "D": "Hợp đồng lao động và thỏa ước lao động tập thể"
     },
-    "dap_an_dung": "A",
+    "dap_an_dung": "D",
     "giai_thich": "Lợi ích giữa công nhân và chủ doanh nghiệp (tiền lương, thời giờ làm việc) được pháp lý hóa qua Hợp đồng lao động."
   },
   {
@@ -1779,12 +1779,12 @@
     "chu_de": "Chương 5",
     "cau_hoi": "Quan hệ lợi ích kinh tế mâu thuẫn với nhau khi nào?",
     "phuong_an": {
-      "A": "Khi các chủ thể tranh giành cùng một nguồn lợi ích hữu hạn hoặc một bên tổn hại lợi ích để bên kia thu lợi",
+      "A": "Khi sản xuất phát triển vượt bậc",
       "B": "Khi cả hai bên cùng tăng thu nhập",
-      "C": "Khi sản xuất phát triển vượt bậc",
+      "C": "Khi các chủ thể tranh giành cùng một nguồn lợi ích hữu hạn hoặc một bên tổn hại lợi ích để bên kia thu lợi",
       "D": "Khi Nhà nước giảm thuế cho người nghèo"
     },
-    "dap_an_dung": "A",
+    "dap_an_dung": "C",
     "giai_thich": "Mâu thuẫn lợi ích phát sinh khi sự thực hiện lợi ích của bên này cản trở hoặc làm thiệt hại tới lợi ích của bên kia."
   },
   {
@@ -1827,12 +1827,12 @@
     "chu_de": "Chương 6",
     "cau_hoi": "Đặc trưng cốt lõi của cuộc Cách mạng công nghiệp lần thứ hai (2.0) là gì?",
     "phuong_an": {
-      "A": "Sử dụng năng lượng điện và dây chuyền sản xuất hàng loạt",
+      "A": "Phát triển trí tuệ nhân tạo (AI) và Internet vạn vật (IoT)",
       "B": "Phát minh ra máy tính điện tử và mạng internet",
       "C": "Sử dụng động cơ hơi nước và máy dệt cơ khí",
-      "D": "Phát triển trí tuệ nhân tạo (AI) và Internet vạn vật (IoT)"
+      "D": "Sử dụng năng lượng điện và dây chuyền sản xuất hàng loạt"
     },
-    "dap_an_dung": "A",
+    "dap_an_dung": "D",
     "giai_thich": "CMCN 2.0 diễn ra vào cuối thế kỷ XIX đến đầu thế kỷ XX, đặc trưng bởi việc ứng dụng năng lượng điện và phương pháp sản xuất dây chuyền quy mô lớn."
   },
   {
@@ -1900,11 +1900,11 @@
     "cau_hoi": "Nội dung cơ cấu kinh tế nào giữ vị trí quan trọng nhất trong quá trình công nghiệp hóa, hiện đại hóa ở Việt Nam?",
     "phuong_an": {
       "A": "Cơ cấu vùng kinh tế",
-      "B": "Cơ cấu ngành kinh tế",
+      "B": "Cơ cấu lãnh thổ",
       "C": "Cơ cấu thành phần kinh tế",
-      "D": "Cơ cấu lãnh thổ"
+      "D": "Cơ cấu ngành kinh tế"
     },
-    "dap_an_dung": "B",
+    "dap_an_dung": "D",
     "giai_thich": "Cơ cấu ngành kinh tế (Nông nghiệp - Công nghiệp - Dịch vụ) là trục cốt lõi phản ánh trình độ phát triển của lực lượng sản xuất trong quá trình CNH, HĐH."
   },
   {
@@ -1924,11 +1924,11 @@
     "cau_hoi": "Trước mốc đổi mới năm 1986, Việt Nam có quan hệ ngoại giao với khoảng bao nhiêu quốc gia trên thế giới?",
     "phuong_an": {
       "A": "Gần 180 nước",
-      "B": "Khoảng 30 nước",
-      "C": "100 nước",
+      "B": "100 nước",
+      "C": "Khoảng 30 nước",
       "D": "Dưới 10 nước"
     },
-    "dap_an_dung": "B",
+    "dap_an_dung": "C",
     "giai_thich": "Trước năm 1986, do bối cảnh cấm vận và chiến tranh lạnh, Việt Nam chỉ có quan hệ ngoại giao với khoảng 30 quốc gia (chủ yếu là các nước XHCN)."
   },
   {
@@ -1936,23 +1936,23 @@
     "cau_hoi": "Việt Nam chính thức trở thành thành viên thứ 149 của Tổ chức Liên Hợp Quốc (UN) vào năm nào?",
     "phuong_an": {
       "A": "Năm 1975",
-      "B": "Năm 1977",
-      "C": "Năm 1986",
+      "B": "Năm 1986",
+      "C": "Năm 1977",
       "D": "Năm 1995"
     },
-    "dap_an_dung": "B",
+    "dap_an_dung": "C",
     "giai_thich": "Việt Nam chính thức gia nhập Liên Hợp Quốc vào ngày 20/9/1977."
   },
   {
     "chu_de": "Chương 6",
     "cau_hoi": "Việt Nam chính thức gia nhập Hiệp hội các quốc gia Đông Nam Á (ASEAN) vào mốc thời gian nào?",
     "phuong_an": {
-      "A": "Tháng 7/1995",
+      "A": "Tháng 12/2015",
       "B": "Tháng 11/1998",
       "C": "Tháng 1/2007",
-      "D": "Tháng 12/2015"
+      "D": "Tháng 7/1995"
     },
-    "dap_an_dung": "A",
+    "dap_an_dung": "D",
     "giai_thich": "Việt Nam kết nạp và trở thành thành viên chính thức thứ 7 của ASEAN vào ngày 28/7/1995."
   },
   {
@@ -2044,11 +2044,11 @@
     "cau_hoi": "Toàn cầu hóa kinh tế là quá trình mang tính chất gì?",
     "phuong_an": {
       "A": "Chủ quan do một vài nước lớn áp đặt",
-      "B": "Tất yếu khách quan do sự phát triển của lực lượng sản xuất và phân công lao động quốc tế",
+      "B": "Chỉ diễn ra ở các nước phát triển",
       "C": "Tạm thời và sẽ kết thúc trong thời gian ngắn",
-      "D": "Chỉ diễn ra ở các nước phát triển"
+      "D": "Tất yếu khách quan do sự phát triển của lực lượng sản xuất và phân công lao động quốc tế"
     },
-    "dap_an_dung": "B",
+    "dap_an_dung": "D",
     "giai_thich": "Toàn cầu hóa kinh tế là xu thế tất yếu khách quan của lịch sử, do sự gia tăng vượt bậc của lực lượng sản xuất đòi hỏi thị trường toàn cầu."
   },
   {
@@ -2079,12 +2079,12 @@
     "chu_de": "Chương 6",
     "cau_hoi": "Việt Nam thực hiện CNH, HĐH nhằm mục tiêu tổng quát nào?",
     "phuong_an": {
-      "A": "Trở thành nước phát triển có thu nhập cao, theo hướng XHCN vào giữa thế kỷ XXI",
+      "A": "Chỉ phát triển các ngành khai khoáng thô",
       "B": "Duy trì mô hình nông nghiệp tự túc",
-      "C": "Chỉ phát triển các ngành khai khoáng thô",
+      "C": "Trở thành nước phát triển có thu nhập cao, theo hướng XHCN vào giữa thế kỷ XXI",
       "D": "Trở thành trung tâm gia công giá rẻ vĩnh viễn"
     },
-    "dap_an_dung": "A",
+    "dap_an_dung": "C",
     "giai_thich": "Mục tiêu CNH, HĐH là biến Việt Nam thành nước công nghiệp hiện đại, có thu nhập cao theo định hướng XHCN."
   },
   {
@@ -2103,12 +2103,12 @@
     "chu_de": "Chương 6",
     "cau_hoi": "Mối quan hệ giữa độc lập tự chủ kinh tế và hội nhập kinh tế quốc tế là mối quan hệ thế nào?",
     "phuong_an": {
-      "A": "Biện chứng, bổ sung và hỗ trợ lẫn nhau",
+      "A": "Hội nhập làm tiêu vong tính độc lập tự chủ",
       "B": "Mâu thuẫn bài trừ triệt hạ lẫn nhau",
       "C": "Tách biệt hoàn toàn không liên quan",
-      "D": "Hội nhập làm tiêu vong tính độc lập tự chủ"
+      "D": "Biện chứng, bổ sung và hỗ trợ lẫn nhau"
     },
-    "dap_an_dung": "A",
+    "dap_an_dung": "D",
     "giai_thich": "Độc lập tự chủ là cơ sở để hội nhập hiệu quả; ngược lại, hội nhập giúp củng cố tiềm lực kinh tế để giữ vững độc lập tự chủ."
   },
   {
@@ -2212,11 +2212,11 @@
     "cau_hoi": "Cấu tạo hữu cơ của tư bản (c/v) có xu hướng biến đổi như thế nào cùng với sự phát triển của kỹ thuật?",
     "phuong_an": {
       "A": "Ngày càng giảm",
-      "B": "Ngày càng tăng",
-      "C": "Không thay đổi",
+      "B": "Không thay đổi",
+      "C": "Ngày càng tăng",
       "D": "Bằng 0"
     },
-    "dap_an_dung": "B",
+    "dap_an_dung": "C",
     "giai_thich": "Sự phát triển kỹ thuật làm máy móc (c) tăng nhanh hơn số lượng công nhân được thuê (v), khiến c/v tăng lên."
   },
   {
@@ -2260,11 +2260,11 @@
     "cau_hoi": "Trong giai đoạn độc quyền, quy luật giá trị biểu hiện thành quy luật nào?",
     "phuong_an": {
       "A": "Quy luật giá cả sản xuất",
-      "B": "Quy luật giá cả độc quyền",
+      "B": "Quy luật cạnh tranh tự do",
       "C": "Quy luật lợi nhuận bình quân",
-      "D": "Quy luật cạnh tranh tự do"
+      "D": "Quy luật giá cả độc quyền"
     },
-    "dap_an_dung": "B",
+    "dap_an_dung": "D",
     "giai_thich": "Độc quyền áp đặt giá bán độc quyền cao và giá mua độc quyền thấp, làm quy luật giá trị chuyển thành quy luật giá cả độc quyền."
   },
   {
@@ -2296,11 +2296,11 @@
     "cau_hoi": "Động lực trực tiếp nhất của các chủ thể kinh tế khi tham gia thị trường là gì?",
     "phuong_an": {
       "A": "Lợi ích chính trị",
-      "B": "Lợi ích kinh tế",
+      "B": "Lợi ích văn hóa",
       "C": "Lợi ích tinh thần",
-      "D": "Lợi ích văn hóa"
+      "D": "Lợi ích kinh tế"
     },
-    "dap_an_dung": "B",
+    "dap_an_dung": "D",
     "giai_thich": "Lợi ích kinh tế (thu nhập, lợi nhuận) là động lực trực tiếp thúc đẩy con người tham gia sản xuất kinh doanh."
   },
   {
@@ -2319,24 +2319,24 @@
     "chu_de": "Chương 6",
     "cau_hoi": "Nội dung nào là tiền đề cần thiết để xây dựng nền kinh tế độc lập tự chủ?",
     "phuong_an": {
-      "A": "Thực hiện hội nhập kinh tế quốc tế hiệu quả",
+      "A": "Giải thể tất cả các công ty đa quốc gia",
       "B": "Cắt đứt mọi quan hệ thương mại với bên ngoài",
       "C": "Từ chối tiếp nhận công nghệ nước ngoài",
-      "D": "Giải thể tất cả các công ty đa quốc gia"
+      "D": "Thực hiện hội nhập kinh tế quốc tế hiệu quả"
     },
-    "dap_an_dung": "A",
+    "dap_an_dung": "D",
     "giai_thich": "Hội nhập kinh tế thành công giúp củng cố tiềm lực, mở rộng tài lực để nền kinh tế giữ vững độc lập tự chủ."
   },
   {
     "chu_de": "Chương 1",
     "cau_hoi": "Phương pháp nghiên cứu quan trọng nhất và đặc thù nhất của Kinh tế chính trị Mác - Lênin là gì?",
     "phuong_an": {
-      "A": "Phương pháp trừu tượng hóa khoa học",
+      "A": "Phương pháp thực nghiệm phòng thí nghiệm",
       "B": "Phương pháp mô hình hóa toán học",
-      "C": "Phương pháp thực nghiệm phòng thí nghiệm",
+      "C": "Phương pháp trừu tượng hóa khoa học",
       "D": "Phương pháp thống kê mô tả"
     },
-    "dap_an_dung": "A",
+    "dap_an_dung": "C",
     "giai_thich": "Trừu tượng hóa khoa học là phương pháp gạt bỏ các hiện tượng ngẫu nhiên bề ngoài để đi sâu vào bản chất các quy luật kinh tế."
   },
   {
@@ -2356,11 +2356,11 @@
     "cau_hoi": "Phương pháp sản xuất giá trị thặng dư tương đối được thực hiện bằng cách nào?",
     "phuong_an": {
       "A": "Kéo dài ngày lao động",
-      "B": "Rút ngắn thời gian lao động tất yếu nhờ tăng năng suất lao động xã hội",
-      "C": "Tăng cường độ lao động",
+      "B": "Tăng cường độ lao động",
+      "C": "Rút ngắn thời gian lao động tất yếu nhờ tăng năng suất lao động xã hội",
       "D": "Cắt giảm tiền lương của công nhân"
     },
-    "dap_an_dung": "B",
+    "dap_an_dung": "C",
     "giai_thich": "Tăng NSLĐ xã hội làm giá trị tư liệu sinh hoạt giảm, dẫn đến thời gian lao động tất yếu rút ngắn, làm thời gian thặng dư tăng tương ứng."
   },
   {
@@ -2412,7 +2412,3 @@
     "giai_thich": "Tăng trưởng kinh tế đi đôi với tiến bộ và công bằng xã hội ngay trong từng bước, từng chính sách là bản chất ưu việt của mô hình Việt Nam."
   }
 ]
-
-  
-  
-
