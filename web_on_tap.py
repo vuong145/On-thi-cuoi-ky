@@ -30,6 +30,10 @@ MON_HOC = {
         "thu_muc": "Triet-Hoc",
         "file_json": "triet_data.json",
     },
+    "Kinh tế chính trị": {
+        "thu_muc": "Kinh-te-chinh-tri",
+        "file_json": "ktct_data.json",
+    },
 }
 
 THU_MUC_SCRIPT = os.path.dirname(os.path.abspath(__file__))
@@ -112,6 +116,7 @@ except FileNotFoundError as loi:
     st.error(str(loi))
     st.info("Hãy kiểm tra lại mục MON_HOC ở đầu file web_on_tap.py.")
     st.stop()
+
 
 def tao_de_moi():
     """Xáo lại bộ đề của chế độ hiện tại và quay về câu đầu tiên."""
@@ -235,7 +240,7 @@ else:
                                 if anh_che_gieu:
                                     ten_anh = random.choice(anh_che_gieu)
                                     st.session_state.anh_che_gieu_hien_tai = os.path.join(THU_MUC_ANH_CHE_GIEU, ten_anh)
-                                st.session_state.chuoi_sai_lien_tiep = 0
+                                st.session_state.chuoi_sai_lien_tuc = 0
                             # Thi thử: làm sai thì thêm câu đó vào danh sách câu sai
                             if "Luyện lại câu sai" not in che_do and cau_hien_tai not in cac_cau_sai_da_luu:
                                 cac_cau_sai_da_luu.append(cau_hien_tai)
@@ -298,4 +303,3 @@ else:
                         anh_bat_ngo,
                         width="stretch",
                     )
-
