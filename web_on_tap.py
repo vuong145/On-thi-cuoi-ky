@@ -91,15 +91,25 @@ st.sidebar.caption(f"📖 Đang ôn: **{ten_mon}**")
 KHOI_CAU_SAI = f"cac_cau_sai_{thong_tin_mon['thu_muc'].lower()}"
 
 cac_cau_sai_da_luu = local_storage.getItem(KHOI_CAU_SAI)
-if cac_cau_sai_da_luu is None:
-    # Chuyển dữ liệu cũ (khóa "cac_cau_sai") cho môn đầu tiên
+
+# Chỉ di chuyển dữ liệu từ khóa cũ chung sang môn Triết học.
+# Không dùng dữ liệu cũ chung cho các môn mới để tránh trộn câu sai giữa các môn.
+if cac_cau_sai_da_luu is None and ten_mon == "Triết học":
     du_lieu_cu = local_storage.getItem("cac_cau_sai")
     if du_lieu_cu is not None:
         cac_cau_sai_da_luu = du_lieu_cu
+        local_storage.setItem(KHOI_CAU_SAI, du_lieu_cu)
+
 if cac_cau_sai_da_luu is None:
     cac_cau_sai_da_luu = []
 else:
-    cac_cau_sai_da_luu = json.loads(cac_cau_sai_da_luu)
+    try:
+        cac_cau_sai_da_luu = json.loads(cac_cau_sai_da_luu)
+        if not isinstance(cac_cau_sai_da_luu, list):
+            cac_cau_sai_da_luu = []
+    except (json.JSONDecodeError, TypeError):
+        # Dữ liệu lưu cũ bị hỏng không được làm app sập.
+        cac_cau_sai_da_luu = []
 
 # ---------------- MENU CHỌN CHẾ ĐỘ HỌC (bên trái) ----------------
 st.sidebar.header("Chế độ học")
@@ -240,7 +250,7 @@ else:
                                 if anh_che_gieu:
                                     ten_anh = random.choice(anh_che_gieu)
                                     st.session_state.anh_che_gieu_hien_tai = os.path.join(THU_MUC_ANH_CHE_GIEU, ten_anh)
-                                st.session_state.chuoi_sai_lien_tuc = 0
+                                st.session_state.chuoi_sai_lien_tiep = 0
                             # Thi thử: làm sai thì thêm câu đó vào danh sách câu sai
                             if "Luyện lại câu sai" not in che_do and cau_hien_tai not in cac_cau_sai_da_luu:
                                 cac_cau_sai_da_luu.append(cau_hien_tai)
